@@ -1,0 +1,276 @@
+
+(EDIF
+  (rename TL3342F160QG "TL3342F160QG")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2018 05 24 08 26 59)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename TL3342F160QG "TL3342F160QG")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename TL3342F160QG "TL3342F160QG")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "SW")
+          (property (rename VALUE "Value") (string "TL3342F160QG"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &3 "3")
+            (designator "3")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 2)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &4 "4")
+            (designator "4")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 3)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -30000 -45000) (pt 30000 45000)))
+            (portImplementation
+              (name &3)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -30000 45000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -30000 45000)
+                    (pt -30000 25000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &4)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 30000 45000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 30000 45000)
+                    (pt 29999 25000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &1)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -30000 -45000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -30000 -45000)
+                    (pt -30000 -25000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &2)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 30000 -45000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 30000 -45000)
+                    (pt 30000 -25000)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 25000) (pt 0 15000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -15000) (pt 0 -25000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -25000) (pt 30000 -25000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -25000) (pt -30000 -25000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -30000 -25000) (pt -30000 -35000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 30000 -25000) (pt 30000 -35000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 25000) (pt 30000 25000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 30000 25000) (pt 30000 35000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 25000) (pt -30000 25000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -30000 25000) (pt -30000 35000)))
+            )
+            (figure PARTBODY
+              (circle (pt -5000 10000) (pt 5000 10000))
+            )
+            (figure PARTBODY
+              (circle (pt -5000 -10000) (pt 5000 -10000))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 10000 15000) (pt 10000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 10000 0) (pt 10000 -15000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 10000 0) (pt 30000 0)))
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -50105 65137))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -50139 -70195))
+              )
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "SW_TL3342F160QG"))
+            (property
+              (rename Description "Description")
+              (string
+              (stringDisplay "
+TL3342 Series SPST 1.6 N Round Button Gull Wing Surface Mount Tactile Switch
+"))
+            )
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "E-Switch"))
+            )
+            (property
+              (rename Availability "Availability")
+              (string
+              (stringDisplay "Good"))
+            )
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "TL3342F160QG"))
+            )
+            (property
+              (rename Package "Package")
+              (string
+              (stringDisplay "None"))
+            )
+            (property
+              (rename Price "Price")
+              (string
+              (stringDisplay "0.41 USD"))
+            )
+          )
+        )
+      )
+    )
+  )
+)

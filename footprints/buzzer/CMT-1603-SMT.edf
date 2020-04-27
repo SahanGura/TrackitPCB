@@ -1,0 +1,202 @@
+
+(EDIF
+  (rename CMT_45_1603_45_SMT "CMT-1603-SMT")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2018 08 14 02 35 48)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename CMT_45_1603_45_SMT "CMT-1603-SMT")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename CMT_45_1603_45_SMT "CMT-1603-SMT")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "LS")
+          (property (rename VALUE "Value") (string "CMT-1603-SMT"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -2500 -20000) (pt 7500 20000)))
+            (portImplementation
+              (name &1)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 0 20000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 0 20000)
+                    (pt 0 10000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &2)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 0 -20000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 0 -20000)
+                    (pt 0 -10000)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -2500 5000) (pt 0 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 5000) (pt 2500 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2500 5000) (pt 2500 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2500 -5000) (pt 0 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -5000) (pt -2500 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -2500 -5000) (pt -2500 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2500 5000) (pt 7500 12500)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 7500 12500) (pt 7500 -12500)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 7500 -12500) (pt 2500 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 5000) (pt 0 10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -5000) (pt 0 -10000)))
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -15035 35082))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -15003 -45007))
+              )
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "CUI_CMT-1603-SMT"))
+            (property
+              (rename Availability "Availability")
+              (string
+              (stringDisplay "Good"))
+            )
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "CMT-1603-SMT-TR"))
+            )
+            (property
+              (rename Price "Price")
+              (string
+              (stringDisplay "1.55 USD"))
+            )
+            (property
+              (rename Package "Package")
+              (string
+              (stringDisplay " CUI"))
+            )
+            (property
+              (rename Description "Description")
+              (string
+              (stringDisplay "
+Buzzer Piezo 3v 16mm Smd
+"))
+            )
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "CUI"))
+            )
+          )
+        )
+      )
+    )
+  )
+)
