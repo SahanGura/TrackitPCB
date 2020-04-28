@@ -4,11 +4,11 @@ Copyright (c) 1998-2005, Electronic Tools Company
 
 EDIF 2 0 0 to OrCAD Capture Schematic Conversion Program SPB 16.60_1.090 built Aug 29 2012
 
-Started on Mon Apr 27 23:52:35 2020
+Started on Tue Apr 28 15:11:48 2020
 
-Reading config file C:\Users\User\Desktop\TrackIt\footprints\bluetooth module\EDI2CAP.CFG
+Reading config file C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Capacitor\EDI2CAP.CFG
 
-Processing EDIF 2 0 0  file C:\Users\User\Desktop\TrackIt\footprints\Capacitor\0805YD106KAT4A.edf
+Processing EDIF 2 0 0  file C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Capacitor\0805YD106KAT4A.edf
 
 This EDIF file has unrecognized origin.
 
@@ -16,14 +16,14 @@ EDIF 200 parsing finished
 
 
 Design has no schematics => OrCAD Schematic will not be created
-Library C:\USERS\USER\DESKTOP\TRACKIT\FOOTPRINTS\CAPACITOR\0805YD106KAT4A.OLB is created
+Library C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\FOOTPRINTS\CAPACITOR\0805YD106KAT4A.OLB is created
               Design Unit is equal to 0.00001000 inches
               User pinSpacing is equal to : 0.10000000 inches
               Calculated grid resolution is equal to: 10000 Design Units
 Design file has no schematics
 Converting Unreferenced Symbols from Design libraries
-Writing C:\USERS\USER\DESKTOP\TRACKIT\FOOTPRINTS\CAPACITOR\0805YD106KAT4A.INI file
-Library C:\USERS\USER\DESKTOP\TRACKIT\FOOTPRINTS\CAPACITOR\0805YD106KAT4A.OLB is being saved
+Writing C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\FOOTPRINTS\CAPACITOR\0805YD106KAT4A.INI file
+Library C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\FOOTPRINTS\CAPACITOR\0805YD106KAT4A.OLB is being saved
    ADVICE: If you DON'T LIKE the result:
     Do another orcadwrite run using one of the following sets of OrCAD writer options:
         'Min pin to pin spacing'=0.05000 inch(s), 'Grid'=5000 design unit(s), 
@@ -35,7 +35,7 @@ Library C:\USERS\USER\DESKTOP\TRACKIT\FOOTPRINTS\CAPACITOR\0805YD106KAT4A.OLB is
         'Min pin to pin spacing'=0.01250 inch(s), 'Grid'=1250 design unit(s), 
              results in 0 hotspots out of grid
 
-Finished on Mon Apr 27 23:52:36 2020
+Finished on Tue Apr 28 15:11:49 2020
 
 
 0 errors detected, 0 warnings detected

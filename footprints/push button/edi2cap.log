@@ -4,11 +4,11 @@ Copyright (c) 1998-2005, Electronic Tools Company
 
 EDIF 2 0 0 to OrCAD Capture Schematic Conversion Program SPB 16.60_1.090 built Aug 29 2012
 
-Started on Mon Apr 27 13:26:50 2020
+Started on Tue Apr 28 15:14:27 2020
 
-Reading config file C:\Users\User\Desktop\TrackIt\footprints\bluetooth module\EDI2CAP.CFG
+Reading config file C:\Users\user\Documents\GitHub\TrackitPCB\footprints\push button\EDI2CAP.CFG
 
-Processing EDIF 2 0 0  file C:\Users\User\Desktop\TrackIt\footprints\push button\TL3342F160QG.edf
+Processing EDIF 2 0 0  file C:\Users\user\Documents\GitHub\TrackitPCB\footprints\push button\TL3342F160QG.edf
 
 This EDIF file has unrecognized origin.
 
@@ -16,14 +16,14 @@ EDIF 200 parsing finished
 
 
 Design has no schematics => OrCAD Schematic will not be created
-Library C:\USERS\USER\DESKTOP\TRACKIT\FOOTPRINTS\PUSH BUTTON\TL3342F160QG.OLB is created
+Library C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\FOOTPRINTS\PUSH BUTTON\TL3342F160QG.OLB is created
               Design Unit is equal to 0.00001000 inches
               User pinSpacing is equal to : 0.10000000 inches
               Calculated grid resolution is equal to: 10000 Design Units
 Design file has no schematics
 Converting Unreferenced Symbols from Design libraries
-Writing C:\USERS\USER\DESKTOP\TRACKIT\FOOTPRINTS\PUSH BUTTON\TL3342F160QG.INI file
-Library C:\USERS\USER\DESKTOP\TRACKIT\FOOTPRINTS\PUSH BUTTON\TL3342F160QG.OLB is being saved
+Writing C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\FOOTPRINTS\PUSH BUTTON\TL3342F160QG.INI file
+Library C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\FOOTPRINTS\PUSH BUTTON\TL3342F160QG.OLB is being saved
    ADVICE: If you DON'T LIKE the result:
     Do another orcadwrite run using one of the following sets of OrCAD writer options:
         'Min pin to pin spacing'=0.15000 inch(s), 'Grid'=15000 design unit(s), 
@@ -37,7 +37,7 @@ Library C:\USERS\USER\DESKTOP\TRACKIT\FOOTPRINTS\PUSH BUTTON\TL3342F160QG.OLB is
         'Min pin to pin spacing'=0.03000 inch(s), 'Grid'=3000 design unit(s), 
              results in 0 hotspots out of grid
 
-Finished on Mon Apr 27 13:26:51 2020
+Finished on Tue Apr 28 15:14:28 2020
 
 
 0 errors detected, 0 warnings detected

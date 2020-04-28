@@ -3,20 +3,80 @@
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
-      (File ".\footprints\slide switch\ss312sah4-r\ss312sah4-r.olb"
-        (Type "Schematic Library"))
-      (File ".\footprints\pin header (4pin)\2-104186-1\2-104186-1.olb"
-        (Type "Schematic Library"))
-      (File ".\footprints\n channel mosfet\wnm2016-3-tr\wnm2016-3-tr.olb"
+      (File ".\library1.olb"
         (Type "Schematic Library")))
     (NoModify)
     (File ".\trackit.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
-    (CompileFileAddedOrDeleted "x"))
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80"))
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    ("2-pin Connector"
+      (FullPartName "2-pin Connector.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (TPS63031
+      (FullPartName "TPS63031.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("Cap- 0805"
+      (FullPartName "Cap- 0805.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (Inductor
+      (FullPartName "Inductor.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (Bluetooth
+      (FullPartName "Bluetooth.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("Push Button"
+      (FullPartName "Push Button.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("Resisitor - 0805"
+      (FullPartName "Resisitor - 0805.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("N Channel MOSFET"
+      (FullPartName "N Channel MOSFET.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (1N4148WSQ-7-F
+      (FullPartName "1N4148WSQ-7-F.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (Buzzer
+      (FullPartName "Buzzer.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("Pin Header"
+      (FullPartName "Pin Header.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("Slide Switch"
+      (FullPartName "Slide Switch.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
     (CR0805-FX-3002ELF
       (FullPartName "CR0805-FX-3002ELF.Normal")
       (LibraryName
@@ -24,21 +84,6 @@
       (DeviceIndex "0"))
     (VCC_BAR
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (1N4148WSQ-7-F
-      (FullPartName "1N4148WSQ-7-F.Normal")
-      (LibraryName
-         "C:\USERS\USER\DESKTOP\TRACKIT\FOOTPRINTS\DIODE 1N4148\1N4148WSQ-7-F.OLB")
-      (DeviceIndex "0"))
-    ("N Channel MOSFET"
-      (FullPartName "N Channel MOSFET.Normal")
-      (LibraryName
-         "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\FOOTPRINTS\N CHANNEL MOSFET\WNM2016-3-TR\WNM2016-3-TR.OLB")
-      (DeviceIndex "0"))
-    ("Pin Header"
-      (FullPartName "Pin Header.Normal")
-      (LibraryName
-         "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\FOOTPRINTS\PIN HEADER (4PIN)\2-104186-1\2-104186-1.OLB")
       (DeviceIndex "0"))
     (SS312SAH4-R
       (FullPartName "SS312SAH4-R.Normal")
@@ -58,28 +103,34 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\trackit.dsn")
       (Path "Design Resources" ".\trackit.dsn" "SCHEMATIC1")
-      (Path "Design Resources" ".\trackit.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "c:\users\user\documents\github\trackitpcb\footprints\slide switch\ss312sah4-r\ss312sah4-r.olb")
-      (Path "Design Resources" "Library"
-         "c:\users\user\documents\github\trackitpcb\footprints\pin header (4pin)\2-104186-1\2-104186-1.olb")
-      (Path "Design Resources" "Library"
-         "c:\users\user\documents\github\trackitpcb\footprints\n channel mosfet\wnm2016-3-tr\wnm2016-3-tr.olb"))
+      (Path "Design Resources" "Library" ".\library1.olb")
+      (Select "Design Resources" ".\trackit.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 0 200 0 401"))
+        (Placement "44 2 3 -1 -1 -9 -38 0 200 0 401"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -9 -38 64 1716 64 528")
-        (Scroll "-308 -6")
+        (Placement "44 0 1 -1 -1 -9 -38 64 1716 64 528")
+        (Scroll "-389 0")
         (Zoom "85")
         (Occurrence "/"))
       (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1")))
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 160 1441 160 624")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "5645 1724")
+        (Zoom "1008"))
+      (Path "C:\Users\user\Documents\GitHub\TrackitPCB\LIBRARY1.OLB")
+      (Package "1N4148WSQ-7-F")))
   (MPSSessionName "user"))

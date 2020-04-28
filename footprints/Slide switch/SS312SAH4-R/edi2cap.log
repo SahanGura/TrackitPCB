@@ -4,7 +4,7 @@ Copyright (c) 1998-2005, Electronic Tools Company
 
 EDIF 2 0 0 to OrCAD Capture Schematic Conversion Program SPB 16.60_1.090 built Aug 29 2012
 
-Started on Tue Apr 28 11:40:03 2020
+Started on Tue Apr 28 15:27:21 2020
 
 Reading config file C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Slide switch\SS312SAH4-R\EDI2CAP.CFG
 
@@ -35,7 +35,7 @@ Library C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\FOOTPRINTS\SLIDE SWITCH\SS312S
         'Min pin to pin spacing'=0.01250 inch(s), 'Grid'=1250 design unit(s), 
              results in 0 hotspots out of grid
 
-Finished on Tue Apr 28 11:40:03 2020
+Finished on Tue Apr 28 15:27:21 2020
 
 
 0 errors detected, 0 warnings detected
