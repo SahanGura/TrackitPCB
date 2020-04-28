@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CAPC2012X140N.dra                             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Apr 28 17:07:58 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/user/Documents/GitHub/TrackitPCB/footprints/Capacitor
+    Name      = capc2012x140n.psm
+    User      = user
+    Machine   = DESKTOP-U6TBUH8
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

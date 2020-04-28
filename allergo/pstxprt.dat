@@ -1,0 +1,200 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Apr-28-2020 at 17:14:21 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='TRACKIT';
+ POST_TIME='Sep 10 2012 04:46:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP- 0805_CAPC2012X140N_1UF':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS9304@LIBRARY1.CAP- 0805.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins9304@library1.\cap- 0805.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins9304@library1.\cap- 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP- 0805_CAPC2012X140N_4.7UF':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS9604@LIBRARY1.CAP- 0805.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins9604@library1.\cap- 0805.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins9604@library1.\cap- 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP- 0805_CAPC2012X140N_10UF':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS9851@LIBRARY1.CAP- 0805.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins9851@library1.\cap- 0805.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins9851@library1.\cap- 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP- 0805_CAPC2012X140N_1UF':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS9039@LIBRARY1.CAP- 0805.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins9039@library1.\cap- 0805.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins9039@library1.\cap- 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 '1N4148WSQ-7-F_SOD2513X120N_1N41':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS7660@LIBRARY1.1N4148WSQ-7-F.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins7660@library1.\1n4148wsq-7-f.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins7660@library1.\1n4148wsq-7-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 '2-PIN CONNECTOR_MOLEX_003929602':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS10571@LIBRARY1.2-PIN CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins10571@library1.\2-pin connector.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins10571@library1.\2-pin connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'PIN HEADER_TE_2-104186-1_2-1041':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS7382@LIBRARY1.PIN HEADER.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins7382@library1.\pin header.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins7382@library1.\pin header.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_INDC2012X87N_MLF2012K3':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS9499@LIBRARY1.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins9499@library1.\inductor.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins9499@library1.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LS1 'BUZZER_CUI_CMT-1603-SMT_CMT-160':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS7584@LIBRARY1.BUZZER.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins7584@library1.\buzzer.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins7584@library1.\buzzer.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'N CHANNEL MOSFET_SOT95P240X115-':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS7783@LIBRARY1.N CHANNEL MOSFET.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins7783@library1.\n channel mosfet.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins7783@library1.\n channel mosfet.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISITOR - 0805_RESC2012X60N_2':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS7526@LIBRARY1.RESISITOR - 0805.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins7526@library1.\resisitor - 0805.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins7526@library1.\resisitor - 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISITOR - 0805_RESC2012X60N_1':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS6936@LIBRARY1.RESISITOR - 0805.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins6936@library1.\resisitor - 0805.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins6936@library1.\resisitor - 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISITOR - 0805_RESC2012X60N_1':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS7034@LIBRARY1.RESISITOR - 0805.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins7034@library1.\resisitor - 0805.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins7034@library1.\resisitor - 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISITOR - 0805_RESC2012X60N_3':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS8306@LIBRARY1.RESISITOR - 0805.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins8306@library1.\resisitor - 0805.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins8306@library1.\resisitor - 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISITOR - 0805_RESC2012X60N_4':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS8115@LIBRARY1.RESISITOR - 0805.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins8115@library1.\resisitor - 0805.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins8115@library1.\resisitor - 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S1 'SLIDE SWITCH_SW_SS312SAH4-R_SS3':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS6789@LIBRARY1.SLIDE SWITCH.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins6789@library1.\slide switch.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins6789@library1.\slide switch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'PUSH BUTTON_SW_TL3342F160QG_TL3':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS8457@LIBRARY1.PUSH BUTTON.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins8457@library1.\push button.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins8457@library1.\push button.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'BLUETOOTH_MODULE_MDBT40-256RV3_':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS8733@LIBRARY1.BLUETOOTH.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins8733@library1.\bluetooth.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins8733@library1.\bluetooth.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'TPS63031_10SON_TPS63031':;
+
+SECTION_NUMBER 1
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS10354@LIBRARY1.TPS63031.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins10354@library1.\tps63031.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins10354@library1.\tps63031.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

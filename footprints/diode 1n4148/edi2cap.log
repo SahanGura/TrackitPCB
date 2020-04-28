@@ -4,7 +4,7 @@ Copyright (c) 1998-2005, Electronic Tools Company
 
 EDIF 2 0 0 to OrCAD Capture Schematic Conversion Program SPB 16.60_1.090 built Aug 29 2012
 
-Started on Tue Apr 28 15:12:47 2020
+Started on Tue Apr 28 16:43:57 2020
 
 Reading config file C:\Users\user\Documents\GitHub\TrackitPCB\footprints\diode 1n4148\EDI2CAP.CFG
 
@@ -35,7 +35,7 @@ Library C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\FOOTPRINTS\DIODE 1N4148\1N4148
         'Min pin to pin spacing'=0.05000 inch(s), 'Grid'=5000 design unit(s), 
              results in 0 hotspots out of grid
 
-Finished on Tue Apr 28 15:12:48 2020
+Finished on Tue Apr 28 16:43:57 2020
 
 
 0 errors detected, 0 warnings detected

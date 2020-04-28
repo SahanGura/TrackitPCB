@@ -1,0 +1,21 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Tue Apr 28 17:15:24 2020
+\t (00:00:01)         Host=DESKTOP-U6TBUH8 User=user Pid=1184 CPUs=4
+\t (00:00:01) 
+\t (00:00:01) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/Capacitor/CAPC2012X140N.dra
+\i (00:00:02) trapsize 2982
+\i (00:00:02) trapsize 2778
+\i (00:00:02) trapsize 3002
+\i (00:00:02) trapsize 2784
+\i (00:00:02) trapsize 2063
+\i (00:00:02) trapsize 2784
+\i (00:00:03) generaledit 
+\i (00:00:07) drag_start grid -4.9775 3.4754
+\i (00:00:08) drag_stop 3.9304 -4.4861
+\e (00:00:09) Command not found: Del
+\i (00:00:11) pick grid 2.9283 -2.9272
+\t (00:00:11) last pick:  2.5400  -2.5400
+\i (00:00:19) new 
+\i (00:00:54) newdrawfillin "Trackit.brd" "Board"
+\t (00:00:54)     Journal end - Tue Apr 28 17:16:17 2020

@@ -1,0 +1,50 @@
+\t (01:42:28) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (01:42:28)     Journal start - Tue Apr 28 16:39:10 2020
+\t (01:42:28)         Host=DESKTOP-U6TBUH8 User=user Pid=11020 CPUs=4
+\t (01:42:28) 
+\d (01:42:28) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/2 pin Connector/0039296028/MOLEX_0039296028.dra
+\i (01:42:29) generaledit 
+\i (01:42:34) drag_start grid -8.9394 10.2186
+\i (01:42:34) drag_stop 14.9802 -16.6055
+\i (01:42:35) drag_start grid 1.1410 -1.9121
+\i (01:42:35) drag_stop 7.9751 6.1181
+\i (01:42:36) pick grid 26.2565 -1.3995
+\t (01:42:36) last pick:  25.4000  -2.5400
+\i (01:42:37) pick grid 19.7641 7.3141
+\t (01:42:37) last pick:  20.3200  7.6200
+\i (01:42:48) pick grid 27.6234 0.8216
+\t (01:42:48) last pick:  27.9400  0.0000
+\i (01:43:37) pick grid 28.9902 0.9925
+\t (01:43:37) last pick:  27.9400  0.0000
+\i (01:43:54) save_as 
+\i (01:44:04) fillin "menu_cancel"
+\i (01:44:04) generaledit 
+\t (01:44:05) last pick:  65.5530  37.0427
+\w (01:44:05) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\e (02:11:04) Command not found: xhilite
+\i (02:11:04) xname_flush 
+\i (02:11:04) done 
+\i (02:11:04) generaledit 
+\e (02:11:17) Command not found: xhilite
+\i (02:11:17) xname_flush 
+\i (02:11:17) done 
+\i (02:11:17) generaledit 
+\e (02:13:29) Command not found: xdehilite
+\i (02:13:29) xname_flush 
+\i (02:13:29) done 
+\i (02:13:29) generaledit 
+\e (02:19:35) Command not found: xhilite
+\i (02:19:35) xname_flush 
+\i (02:19:35) done 
+\i (02:19:35) generaledit 
+\e (02:22:57) Command not found: xhilite
+\i (02:22:57) xname_flush 
+\i (02:22:57) done 
+\i (02:22:57) generaledit 
+\e (02:24:02) Command not found: xhilite
+\i (02:24:02) xname_flush 
+\i (02:24:02) done 
+\i (02:24:02) generaledit 
+\i (02:32:43) new 
+\i (02:33:43) newdrawfillin "Trackit.brd" "Board"
+\t (02:33:43)     Journal end - Tue Apr 28 17:30:25 2020
