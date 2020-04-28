@@ -1,0 +1,46 @@
+
+Copyright (c) 2006-2012, Elgris Technologies, Inc.
+Copyright (c) 1998-2005, Electronic Tools Company
+
+EDIF 2 0 0 to OrCAD Capture Schematic Conversion Program SPB 16.60_1.090 built Aug 29 2012
+
+Started on Tue Apr 28 20:31:14 2020
+
+Reading config file C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Slide switch\JS102011JCQN\EDI2CAP.CFG
+
+Processing EDIF 2 0 0  file C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Slide switch\JS102011JCQN\JS102011JCQN.edf
+
+This EDIF file has unrecognized origin.
+EDIF 200: Syntax Error: source line 227: Wrong character in input file
+EDIF 200: Syntax Error: source line 227: Unexpected Identifier:KEY_PURCHASE_URL in edif file...
+EDIF 200: Warning: source line 232: Identifier DIGI NON-UNIQUE. Changed to DIGI_0.
+EDIF 200: Syntax Error: source line 232: Wrong character in input file
+EDIF 200: Syntax Error: source line 232: Unexpected Identifier:KEY_PART_NUMBER in edif file...
+
+EDIF 200 parsing finished
+
+
+Design has no schematics => OrCAD Schematic will not be created
+Library C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\FOOTPRINTS\SLIDE SWITCH\JS102011JCQN\JS102011JCQN.OLB is created
+              Design Unit is equal to 0.00001000 inches
+              User pinSpacing is equal to : 0.10000000 inches
+              Calculated grid resolution is equal to: 10000 Design Units
+Design file has no schematics
+Converting Unreferenced Symbols from Design libraries
+Writing C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\FOOTPRINTS\SLIDE SWITCH\JS102011JCQN\JS102011JCQN.INI file
+Library C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\FOOTPRINTS\SLIDE SWITCH\JS102011JCQN\JS102011JCQN.OLB is being saved
+   ADVICE: If you DON'T LIKE the result:
+    Do another orcadwrite run using one of the following sets of OrCAD writer options:
+        'Min pin to pin spacing'=0.05000 inch(s), 'Grid'=5000 design unit(s), 
+             results in 0 hotspots out of grid
+        'Min pin to pin spacing'=0.02500 inch(s), 'Grid'=2500 design unit(s), 
+             results in 0 hotspots out of grid
+        'Min pin to pin spacing'=0.02000 inch(s), 'Grid'=2000 design unit(s), 
+             results in 0 hotspots out of grid
+        'Min pin to pin spacing'=0.01250 inch(s), 'Grid'=1250 design unit(s), 
+             results in 0 hotspots out of grid
+
+Finished on Tue Apr 28 20:31:14 2020
+
+
+4 errors detected, 1 warning detected

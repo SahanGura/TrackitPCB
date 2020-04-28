@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Apr-28-2020 at 20:33:02}
+{ Using PSTWRITER 16.6.0 d001Apr-28-2020 at 20:04:47}
 primitive 'CAP- 0805_CAPC2012X140N_1UF';
   pin
     '1':
@@ -204,7 +204,7 @@ primitive 'RESISITOR - 0805_RESC2012X60N_4';
     VALUE='47K';
   end_body;
 end_primitive;
-primitive 'JS102011JCQN_SW_JS102011JCQN_JS';
+primitive 'SLIDE SWITCH_SW_SS312SAH4-R_SS3';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -217,9 +217,10 @@ primitive 'JS102011JCQN_SW_JS102011JCQN_JS';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='JS102011JCQN';
-    JEDEC_TYPE='SW_JS102011JCQN';
-    VALUE='JS102011JCQN';
+    PART_NAME='Slide Switch';
+    JEDEC_TYPE='SW_SS312SAH4-R';
+    VALUE='SS312SAH4-R';
+    NC_PINS='(P$1,P$2)';
   end_body;
 end_primitive;
 primitive 'PUSH BUTTON_SW_TL3342F160QG_TL3';

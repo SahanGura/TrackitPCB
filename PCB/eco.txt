@@ -1,0 +1,172 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  trackit.brd                                                                 |
+|                                                    Tue Apr 28 20:45:28 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  3.3V         pins ADDED TO this new net
+                                 C1.1           C3.2           C4.2           
+                                 D1.C           J2.1           LS1.1          
+                                 R2.2           R3.2           S2.1           
+                                 SW1.3          U2.1           U2.10          
+                                 U?.3           U?.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUTTON       pins ADDED TO this new net
+                                 SW1.4          U?.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUZZER       pins ADDED TO this new net
+                                 Q1.1           R5.2           U?.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CTS_3V       pins ADDED TO this new net
+                                 R2.1           U?.28          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DCC          pins ADDED TO this new net
+                                 U?.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DEC2         pins ADDED TO this new net
+                                 U?.41          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_POWER    pins ADDED TO this new net
+                                 C1.2           C2.1           C3.1           
+                                 C4.1           J1.2           J2.2           
+                                 Q1.2           R4.2           R5.1           
+                                 S2.3           U2.3           U2.9           
+                                 U?.1           U?.2           U?.13          
+                                 U?.16          U?.25          U?.42          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MODE_3V      pins ADDED TO this new net
+                                 R1.1           U?.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00675       pins ADDED TO this new net
+                                 L1.2           U2.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00727       pins ADDED TO this new net
+                                 L1.1           U2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00847       pins ADDED TO this new net
+                                 C2.2           J1.1           U2.5           
+                                 U2.6           U2.7           U2.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03991       pins ADDED TO this new net
+                                 D1.A           LS1.2          Q1.3           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  trackit.brd                                                                 |
+|                                                    Tue Apr 28 20:45:28 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N13311       pins ADDED TO this new net
+                                 R1.2           S2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N083160      pins ADDED TO this new net
+                                 R4.1           SW1.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RXD_3V       pins ADDED TO this new net
+                                 R3.1           U?.29          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SWCLK        pins ADDED TO this new net
+                                 J2.4           U?.36          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SWDIO        pins ADDED TO this new net
+                                 J2.3           U?.35          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  trackit.brd                                                                 |
+|                                                    Tue Apr 28 20:45:28 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 1N4148WSQ-7-F_SOD2513X120N_1N41
+ 2-PIN CONNECTOR_MOLEX_003929602
+ BLUETOOTH_MODULE_MDBT40-256RV3_
+ BUZZER_CUI_CMT-1603-SMT_CMT-160
+ CAP- 0805_CAPC2012X140N_10UF
+ CAP- 0805_CAPC2012X140N_1UF
+ CAP- 0805_CAPC2012X140N_4.7UF
+ INDUCTOR_INDC2012X87N_MLF2012K3
+ JS102011JCQN_SW_JS102011JCQN_JS
+ N CHANNEL MOSFET_SOT95P240X115-
+ PIN HEADER_TE_2-104186-1_2-1041
+ PUSH BUTTON_SW_TL3342F160QG_TL3
+ RESISITOR - 0805_RESC2012X60N_1
+ RESISITOR - 0805_RESC2012X60N_2
+ RESISITOR - 0805_RESC2012X60N_3
+ RESISITOR - 0805_RESC2012X60N_4
+ TPS63031_10SON_TPS63031
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  trackit.brd                                                                 |
+|                                                    Tue Apr 28 20:45:28 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP- 0805_CAPC2012X140N_1UF 
+ C2                  CAP- 0805_CAPC2012X140N_4.7UF 
+ C3                  CAP- 0805_CAPC2012X140N_10UF 
+ C4                  CAP- 0805_CAPC2012X140N_1UF 
+ D1                  1N4148WSQ-7-F_SOD2513X120N_1N41 
+ J1                  2-PIN CONNECTOR_MOLEX_003929602 
+ J2                  PIN HEADER_TE_2-104186-1_2-1041 
+ L1                  INDUCTOR_INDC2012X87N_MLF2012K3 
+ LS1                 BUZZER_CUI_CMT-1603-SMT_CMT-160 
+ Q1                  N CHANNEL MOSFET_SOT95P240X115- 
+ R1                  RESISITOR - 0805_RESC2012X60N_2 
+ R2                  RESISITOR - 0805_RESC2012X60N_1 
+ R3                  RESISITOR - 0805_RESC2012X60N_1 
+ R4                  RESISITOR - 0805_RESC2012X60N_3 
+ R5                  RESISITOR - 0805_RESC2012X60N_4 
+ S2                  JS102011JCQN_SW_JS102011JCQN_JS 
+ SW1                 PUSH BUTTON_SW_TL3342F160QG_TL3 
+ U2                  TPS63031_10SON_TPS63031 
+ U?                  BLUETOOTH_MODULE_MDBT40-256RV3_ 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  trackit.brd                                                                 |
+|                                                    Tue Apr 28 20:45:28 2020  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ D1.C                           PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J2.4                           PRIM_FILE      .\pstchip.dat
+ L1.2                           PRIM_FILE      .\pstchip.dat
+ LS1.2                          PRIM_FILE      .\pstchip.dat
+ Q1.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ S2.3                           PRIM_FILE      .\pstchip.dat
+ SW1.4                          PRIM_FILE      .\pstchip.dat
+ U2.1                           PRIM_FILE      .\pstchip.dat
+ U?.14                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  121                                            |
+|------------------------------------------------------------------------------|

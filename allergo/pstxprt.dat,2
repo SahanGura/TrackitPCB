@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Apr-28-2020 at 20:33:02 }
+{ Using PSTWRITER 16.6.0 d001Apr-28-2020 at 20:11:08 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='TRACKIT';
@@ -158,12 +158,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- S2 'JS102011JCQN_SW_JS102011JCQN_JS':;
+ S1 'SLIDE SWITCH_SW_SS312SAH4-R_SS3':;
 
 SECTION_NUMBER 1
- '@TRACKIT.SCHEMATIC1(SCH_1):INS13201@LIBRARY1.JS102011JCQN.NORMAL(CHIPS)':
- C_PATH='@trackit.schematic1(sch_1):ins13201@library1.\js102011jcqn.normal\(chips)',
- P_PATH='@trackit.schematic1(sch_1):page1_ins13201@library1.\js102011jcqn.normal\(chips)',
+ '@TRACKIT.SCHEMATIC1(SCH_1):INS6789@LIBRARY1.SLIDE SWITCH.NORMAL(CHIPS)':
+ C_PATH='@trackit.schematic1(sch_1):ins6789@library1.\slide switch.normal\(chips)',
+ P_PATH='@trackit.schematic1(sch_1):page1_ins6789@library1.\slide switch.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

@@ -1,0 +1,365 @@
+\t (00:00:30) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:30)     Journal start - Tue Apr 28 20:15:26 2020
+\t (00:00:30)         Host=DESKTOP-U6TBUH8 User=user Pid=6112 CPUs=4
+\t (00:00:30) 
+\d (00:00:30) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/Slide switch/SS312SAH4-R/SW_SS312SAH4-R.dra
+\i (00:00:30) generaledit 
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -2.8688 0.3702
+\i (00:00:31) trapsize 8878
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -2.8688 0.5477
+\i (00:00:31) trapsize 8878
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -2.8688 0.5477
+\i (00:00:31) trapsize 8878
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -2.8688 0.5477
+\i (00:00:31) trapsize 8878
+\i (00:00:32) drag_start grid -10.6812 9.9581
+\i (00:00:32) drag_stop 21.8112 -20.0486
+\i (00:00:33) pick grid 12.5784 -8.6851
+\t (00:00:33) last pick:  12.7000  -7.6200
+\i (00:00:34) zoom in 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 99.0474 11.9112
+\i (00:00:34) trapsize 4439
+\i (00:00:37) zoom in 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 33.9737 11.9112
+\i (00:00:37) trapsize 2219
+\i (00:00:37) zoom in 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 15.9632 11.9112
+\i (00:00:37) trapsize 1110
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 8.5725 9.8915
+\i (00:00:38) trapsize 2219
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 1.1817 8.8706
+\i (00:00:38) trapsize 4439
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 4.4109 8.3380
+\i (00:00:38) trapsize 8878
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 39.7442 -10.2831
+\i (00:00:38) trapsize 8878
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 8.8497 -14.5444
+\i (00:00:38) trapsize 4439
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in -11.3027 -14.5444
+\i (00:00:38) trapsize 2219
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in -11.4358 -14.5000
+\i (00:00:38) trapsize 1110
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in -12.3013 -14.1448
+\i (00:00:38) trapsize 555
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out -8.8501 -11.1042
+\i (00:00:39) trapsize 1110
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out -8.8501 -11.1041
+\i (00:00:39) trapsize 2219
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out -3.2571 -6.3989
+\i (00:00:40) trapsize 4439
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in -1.2708 5.9632
+\i (00:00:41) trapsize 2219
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in -1.7480 5.9632
+\i (00:00:41) trapsize 1110
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in -2.1253 5.1642
+\i (00:00:41) trapsize 555
+\i (00:00:43) pick grid -1.4373 4.6981
+\t (00:00:43) last pick:  -2.5400  5.0800
+\i (00:00:43) pick grid dbl -1.4373 4.6981
+\t (00:00:43) last pick:  -2.5400  5.0800
+\i (00:00:46) prepopup -1.4373 4.6315
+\i (00:00:48) Esc 
+\i (00:00:49) pick grid -0.4274 4.5427
+\t (00:00:49) last pick:  0.0000  5.0800
+\i (00:00:54) move 
+\t (00:00:54) Select element(s) to move.
+\i (00:00:55) pick grid -1.5926 4.6093
+\t (00:00:55) last pick:  -2.5400  5.0800
+\t (00:00:55) last pick:  -1.9500  4.9000
+\t (00:00:55) Pick new location for the element(s).
+\i (00:00:56) drag_start grid -2.0698 4.6870
+\i (00:00:56) drag_stop grid -1.1266 4.1543
+\i (00:00:57) drag_start grid -0.7493 4.5538
+\i (00:00:58) drag_stop -1.8146 4.1654
+\t (00:00:58) last pick:  0.0000  5.0800
+\t (00:00:58) Pick new location for the element(s).
+\i (00:00:58) pick grid -1.5150 3.7992
+\t (00:00:58) last pick:  -2.5400  2.5400
+\i (00:00:59) pick grid -1.1931 4.7536
+\t (00:00:59) last pick:  0.0000  5.0800
+\i (00:01:01) undo 
+\i (00:01:01) trapsize 555
+\i (00:01:01) generaledit 
+\i (00:01:01) undo 
+\i (00:01:01) trapsize 555
+\i (00:01:01) generaledit 
+\i (00:01:02) undo 
+\i (00:01:02) trapsize 555
+\i (00:01:02) generaledit 
+\i (00:01:02) undo 
+\i (00:01:02) generaledit 
+\i (00:01:02) undo 
+\i (00:01:03) generaledit 
+\i (00:01:04) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in -1.0378 4.0989
+\i (00:01:04) trapsize 277
+\i (00:01:04) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in -1.0433 4.0989
+\i (00:01:04) trapsize 139
+\i (00:01:04) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in -1.0432 4.0989
+\i (00:01:04) trapsize 69
+\i (00:01:04) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in -1.0432 4.0989
+\i (00:01:04) trapsize 35
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -1.0425 4.0906
+\i (00:01:04) trapsize 69
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -1.0426 4.0879
+\i (00:01:04) trapsize 139
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -1.0397 4.0767
+\i (00:01:04) trapsize 277
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -1.0176 3.9658
+\i (00:01:04) trapsize 555
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out -1.0175 3.9214
+\i (00:01:05) trapsize 1110
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out -1.0176 3.8992
+\i (00:01:05) trapsize 2219
+\i (00:01:06) pick grid -1.6390 4.5206
+\t (00:01:06) last pick:  -2.5400  5.0800
+\i (00:01:08) prepopup -1.6390 4.5206
+\i (00:01:21) pop dyn_option_select 'Quick Utilities@:@Design Parameters...' 
+\i (00:01:21) prmed 
+\i (00:01:24) setwindow form.prmedit
+\i (00:01:24) FORM prmedit design  
+\i (00:01:25) FORM prmedit text  
+\i (00:01:26) FORM prmedit shapes  
+\i (00:01:27) FORM prmedit route  
+\i (00:01:30) FORM prmedit display  
+\i (00:01:33) FORM prmedit cancel  
+\i (00:01:33) setwindow pcb
+\i (00:01:33) generaledit 
+\i (00:01:34) pick grid 4.9747 4.9201
+\t (00:01:34) last pick:  5.0800  5.0800
+\i (00:02:16) pick grid -11.9813 0.8808
+\t (00:02:16) last pick:  -12.7000  0.0000
+\i (00:02:18) prepopup -1.5503 4.6982
+\i (00:02:24) pick grid -8.6523 -1.7824
+\t (00:02:24) last pick:  -7.6200  -2.5400
+\i (00:02:56) prepopup 1.9120 1.7242
+\i (00:02:57) pick grid 5.0191 3.8548
+\t (00:02:57) last pick:  5.0800  5.0800
+\i (00:03:20) prepopup -2.0829 4.9201
+\i (00:03:22) pick grid -2.3492 7.0507
+\t (00:03:22) last pick:  -2.5400  7.6200
+\i (00:03:25) text edit 
+\i (00:03:26) pick grid -2.0385 4.7870
+\t (00:03:26) last pick:  -2.5400  5.0800
+\e (00:03:26) ERROR(SPMHA1-441): Text not found.
+\i (00:03:27) setwindow pcb
+\i (00:03:27) pick grid -2.0385 4.7870
+\t (00:03:27) last pick:  -2.5400  5.0800
+\e (00:03:27) ERROR(SPMHA1-441): Text not found.
+\i (00:03:27) setwindow pcb
+\i (00:03:27) pick grid dbl -2.0385 4.7870
+\t (00:03:27) last pick:  -2.5400  5.0800
+\e (00:03:27) ERROR(SPMHA1-441): Text not found.
+\i (00:04:10) setwindow pcb
+\i (00:04:10) pick grid -7.8977 -1.8268
+\t (00:04:10) last pick:  -7.6200  -2.5400
+\e (00:04:10) ERROR(SPMHA1-441): Text not found.
+\i (00:04:11) setwindow pcb
+\i (00:04:11) pick grid -1.6834 4.6982
+\t (00:04:11) last pick:  -2.5400  5.0800
+\e (00:04:11) ERROR(SPMHA1-441): Text not found.
+\i (00:04:13) setwindow pcb
+\i (00:04:13) pick grid 2.6222 7.8497
+\t (00:04:13) last pick:  2.5400  7.6200
+\e (00:04:13) ERROR(SPMHA1-441): Text not found.
+\i (00:04:15) setwindow pcb
+\i (00:04:15) zoom fit 
+\i (00:04:15) trapsize 1029
+\i (00:04:19) Esc 
+\i (00:04:19) Esc 
+\i (00:04:19) Esc 
+\i (00:04:20) pick grid -1.6688 5.1567
+\t (00:04:20) last pick:  -2.5400  5.0800
+\e (00:04:20) ERROR(SPMHA1-441): Text not found.
+\i (00:04:21) setwindow pcb
+\i (00:04:21) pick grid -1.6688 5.1567
+\t (00:04:21) last pick:  -2.5400  5.0800
+\e (00:04:21) ERROR(SPMHA1-441): Text not found.
+\i (00:04:21) setwindow pcb
+\i (00:04:21) pick grid dbl -1.6688 5.1567
+\t (00:04:21) last pick:  -2.5400  5.0800
+\e (00:04:21) ERROR(SPMHA1-441): Text not found.
+\i (00:04:22) setwindow pcb
+\i (00:04:22) prepopup 3.9304 -2.6247
+\i (00:04:23) pick grid 9.6121 -3.0981
+\t (00:04:23) last pick:  10.1600  -2.5400
+\e (00:04:23) ERROR(SPMHA1-441): Text not found.
+\i (00:04:25) setwindow pcb
+\i (00:04:25) pick grid 6.9153 -3.8598
+\t (00:04:25) last pick:  7.6200  -5.0800
+\e (00:04:25) ERROR(SPMHA1-441): Text not found.
+\i (00:04:25) setwindow pcb
+\i (00:04:25) pick grid 5.3714 0.5249
+\t (00:04:25) last pick:  5.0800  0.0000
+\e (00:04:25) ERROR(SPMHA1-441): Text not found.
+\i (00:04:26) setwindow pcb
+\i (00:04:26) pick grid 4.8362 0.1132
+\t (00:04:26) last pick:  5.0800  0.0000
+\e (00:04:26) ERROR(SPMHA1-441): Text not found.
+\i (00:04:32) setwindow pcb
+\i (00:04:32) add rect 
+\i (00:04:34) pick grid 5.1038 1.0396
+\t (00:04:34) last pick:  5.0800  0.0000
+\i (00:04:36) pick grid 8.8916 1.6777
+\t (00:04:36) last pick:  10.1600  2.5400
+\i (00:04:37) Esc 
+\i (00:04:39) Esc 
+\i (00:04:39) Esc 
+\e (00:04:40) Command not found: Del
+\i (00:04:42) undo 
+\i (00:04:42) trapsize 1029
+\i (00:04:42) generaledit 
+\i (00:04:43) zoom in 1 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom in -0.3925 1.8630
+\i (00:04:43) trapsize 515
+\i (00:04:43) zoom in 1 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom in -0.3925 1.8630
+\i (00:04:43) trapsize 257
+\i (00:04:43) zoom in 1 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom in -0.3924 1.8630
+\i (00:04:43) trapsize 129
+\i (00:04:44) zoom out 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom out -0.3666 1.8296
+\i (00:04:44) trapsize 257
+\i (00:04:44) zoom out 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom out -0.3461 1.7988
+\i (00:04:44) trapsize 515
+\i (00:04:44) zoom out 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom out -0.3358 1.7781
+\i (00:04:44) trapsize 1029
+\i (00:04:44) zoom out 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom out -0.3152 1.7576
+\i (00:04:44) trapsize 2059
+\i (00:04:44) zoom out 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom out -0.4937 1.7165
+\i (00:04:44) trapsize 4117
+\i (00:04:45) zoom in 1 
+\i (00:04:45) setwindow pcb
+\i (00:04:45) zoom in -8.2911 0.3166
+\i (00:04:45) trapsize 2059
+\i (00:04:45) zoom in 1 
+\i (00:04:45) setwindow pcb
+\i (00:04:45) zoom in -8.2911 0.3167
+\i (00:04:45) trapsize 1029
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out -6.2737 0.2961
+\i (00:04:46) trapsize 2059
+\e (00:09:10) Command not found: xhilite
+\i (00:09:10) xname_flush 
+\i (00:09:10) done 
+\i (00:09:11) generaledit 
+\e (00:09:14) Command not found: xdehilite
+\i (00:09:14) xname_flush 
+\i (00:09:14) done 
+\i (00:09:14) generaledit 
+\e (00:09:15) Command not found: xhilite
+\i (00:09:15) xname_flush 
+\i (00:09:15) done 
+\i (00:09:15) generaledit 
+\i (00:10:10) prepopup -1.5390 4.3720
+\i (00:10:13) pop dyn_option_select 'Quick Utilities@:@Design Parameters...' 
+\i (00:10:13) prmed 
+\i (00:10:16) setwindow form.prmedit
+\i (00:10:16) FORM prmedit design  
+\i (00:10:18) FORM prmedit text  
+\i (00:10:19) FORM prmedit shapes  
+\i (00:10:19) FORM prmedit route  
+\i (00:10:23) FORM prmedit shapes  
+\i (00:10:25) FORM prmedit cancel  
+\i (00:10:25) setwindow pcb
+\i (00:10:25) generaledit 
+\i (00:10:25) prepopup 8.5068 3.7545
+\i (00:10:27) pop dyn_option_select 'Quick Utilities@:@Design Parameters...' 
+\i (00:10:27) prmed 
+\i (00:10:29) setwindow form.prmedit
+\i (00:10:29) FORM prmedit display  
+\i (00:10:30) FORM prmedit design  
+\i (00:10:30) FORM prmedit shapes  
+\i (00:10:30) FORM prmedit route  
+\i (00:10:31) FORM prmedit text  
+\i (00:10:33) FORM prmedit cancel  
+\i (00:10:33) setwindow pcb
+\i (00:10:33) generaledit 
+\i (00:10:34) prepopup -1.9919 5.1131
+\i (00:10:36) pick grid 8.2597 7.4187
+\t (00:10:36) last pick:  7.6200  7.6200
+\i (00:10:36) pick grid dbl 8.2597 7.4187
+\t (00:10:36) last pick:  7.6200  7.6200
+\i (00:10:37) prepopup 8.2597 7.4187
+\i (00:10:39) pick grid 26.9926 5.0719
+\t (00:10:39) last pick:  27.9400  5.0800
+\i (00:11:22) open 
+\e (00:11:22) Do you want to save the changes you made to SW_SS312SAH4-R.dra?
+\i (00:11:24) fillin no 
+\i (00:11:32) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Slide switch\MLL1200S\SW_MLL1200S.dra"
+\i (00:11:32) cd "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Slide switch\MLL1200S"
+\t (00:11:32) Opening existing design...
+\i (00:11:32) trapsize 5025
+\t (00:11:32)     Journal end - Tue Apr 28 20:26:29 2020

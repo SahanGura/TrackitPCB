@@ -1,0 +1,1020 @@
+\t (00:30:29) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:30:29)     Journal start - Tue Apr 28 20:35:32 2020
+\t (00:30:29)         Host=DESKTOP-U6TBUH8 User=user Pid=7428 CPUs=4
+\t (00:30:29) 
+\t (00:30:29) Starting new design...
+\i (00:30:29) trapsize 2848
+\i (00:30:29) trapsize 2848
+\i (00:30:29) generaledit 
+\i (00:30:35) open 
+\e (00:30:35) Do you want to save the changes you made to TrackitPCB.brd?
+\i (00:31:39) fillin yes 
+\i (00:31:42) fillin "menu_cancel"
+\i (00:31:42) generaledit 
+\i (00:31:45) netin 
+\i (00:31:51) setwindow form.niparams
+\i (00:31:51) FORM niparams capture_netlist YES 
+\i (00:31:53) FORM niparams import  
+\t (00:31:53) Starting Cadence Logic Import...
+\e (00:31:53) ERROR(SPMHGE-268): netrev had errors, use Viewlog to review the log file.
+\i (00:32:02) setwindow text
+\i (00:32:02) close 
+\i (00:32:04) setwindow form.niparams
+\i (00:32:04) FORM niparams browse  
+\i (00:32:10) fillin "C:/Users/user/Documents/GitHub/TrackitPCB/allergo"
+\i (00:32:11) FORM niparams import  
+\t (00:32:11) Starting Cadence Logic Import...
+\t (00:32:12) Opening existing design...
+\i (00:32:12) setwindow pcb
+\i (00:32:12) trapsize 2848
+\i (00:32:14) generaledit 
+\i (00:32:18) zoom in 1 
+\i (00:32:18) setwindow pcb
+\i (00:32:18) zoom in 33715.2 17085.4
+\i (00:32:18) trapsize 1424
+\i (00:32:18) zoom in 1 
+\i (00:32:18) setwindow pcb
+\i (00:32:18) zoom in 19112.2 17085.4
+\i (00:32:18) trapsize 712
+\i (00:32:19) zoom in 1 
+\i (00:32:19) setwindow pcb
+\i (00:32:19) zoom in 19112.2 17085.5
+\i (00:32:19) trapsize 356
+\i (00:32:19) zoom in 1 
+\i (00:32:19) setwindow pcb
+\i (00:32:19) zoom in 19112.2 17085.5
+\i (00:32:19) trapsize 178
+\i (00:32:19) zoom out 1 
+\i (00:32:19) setwindow pcb
+\i (00:32:19) zoom out 19112.2 17085.5
+\i (00:32:19) trapsize 356
+\i (00:32:19) zoom out 1 
+\i (00:32:19) setwindow pcb
+\i (00:32:19) zoom out 19112.2 17085.6
+\i (00:32:19) trapsize 712
+\i (00:32:19) zoom out 1 
+\i (00:32:19) setwindow pcb
+\i (00:32:19) zoom out 19112.3 17085.6
+\i (00:32:19) trapsize 1424
+\i (00:32:19) zoom out 1 
+\i (00:32:19) setwindow pcb
+\i (00:32:19) zoom out 19112.1 17085.6
+\i (00:32:19) trapsize 2848
+\i (00:32:20) zoom out 1 
+\i (00:32:20) setwindow pcb
+\i (00:32:20) zoom out 33715.2 17085.4
+\i (00:32:20) trapsize 2848
+\i (00:32:20) zoom out 1 
+\i (00:32:20) setwindow pcb
+\i (00:32:20) zoom out 33715.2 17085.4
+\i (00:32:20) trapsize 2848
+\i (00:32:20) zoom out 1 
+\i (00:32:20) setwindow pcb
+\i (00:32:20) zoom out 33715.2 17085.4
+\i (00:32:20) trapsize 2848
+\i (00:32:20) zoom out 1 
+\i (00:32:20) setwindow pcb
+\i (00:32:20) zoom out 33715.2 17085.4
+\i (00:32:20) trapsize 2848
+\i (00:32:20) zoom out 1 
+\i (00:32:20) setwindow pcb
+\i (00:32:20) zoom out 33715.2 17085.4
+\i (00:32:20) trapsize 2848
+\i (00:32:21) zoom out 1 
+\i (00:32:21) setwindow pcb
+\i (00:32:21) zoom out 33715.2 17085.4
+\i (00:32:21) trapsize 2848
+\i (00:32:21) zoom out 1 
+\i (00:32:21) setwindow pcb
+\i (00:32:21) zoom out 33715.2 17085.4
+\i (00:32:21) trapsize 2848
+\i (00:32:21) zoom out 1 
+\i (00:32:21) setwindow pcb
+\i (00:32:21) zoom out 33715.2 17085.4
+\i (00:32:21) trapsize 2848
+\i (00:32:21) zoom out 1 
+\i (00:32:21) setwindow pcb
+\i (00:32:21) zoom out 33715.2 17085.4
+\i (00:32:21) trapsize 2848
+\i (00:32:21) zoom out 1 
+\i (00:32:21) setwindow pcb
+\i (00:32:21) zoom out 33715.2 17085.4
+\i (00:32:21) trapsize 2848
+\i (00:32:21) zoom out 1 
+\i (00:32:21) setwindow pcb
+\i (00:32:21) zoom out 33715.2 17085.4
+\i (00:32:21) trapsize 2848
+\i (00:32:21) zoom out 1 
+\i (00:32:21) setwindow pcb
+\i (00:32:21) zoom out 33715.2 17085.4
+\i (00:32:21) trapsize 2848
+\i (00:32:21) zoom in 1 
+\i (00:32:21) setwindow pcb
+\i (00:32:21) zoom in 33715.2 17085.4
+\i (00:32:21) trapsize 1424
+\i (00:32:22) zoom in 1 
+\i (00:32:22) setwindow pcb
+\i (00:32:22) zoom in 19112.2 17085.4
+\i (00:32:22) trapsize 712
+\i (00:32:22) zoom in 1 
+\i (00:32:22) setwindow pcb
+\i (00:32:22) zoom in 19112.2 17085.5
+\i (00:32:22) trapsize 356
+\i (00:32:22) zoom in 1 
+\i (00:32:22) setwindow pcb
+\i (00:32:22) zoom in 19112.2 17085.5
+\i (00:32:22) trapsize 178
+\i (00:32:22) zoom in 1 
+\i (00:32:22) setwindow pcb
+\i (00:32:22) zoom in 19112.2 17085.5
+\i (00:32:22) trapsize 89
+\i (00:32:22) zoom in 1 
+\i (00:32:22) setwindow pcb
+\i (00:32:22) zoom in 19112.2 17085.5
+\i (00:32:22) trapsize 44
+\i (00:32:22) zoom in 1 
+\i (00:32:22) setwindow pcb
+\i (00:32:22) zoom in 19112.2 17085.6
+\i (00:32:22) trapsize 22
+\i (00:32:22) zoom in 1 
+\i (00:32:22) setwindow pcb
+\i (00:32:22) zoom in 19112.2 17085.6
+\i (00:32:22) trapsize 11
+\i (00:32:22) zoom in 1 
+\i (00:32:22) setwindow pcb
+\i (00:32:22) zoom in 19112.2 17085.6
+\i (00:32:22) trapsize 6
+\i (00:32:22) zoom out 1 
+\i (00:32:22) setwindow pcb
+\i (00:32:22) zoom out 19112.3 17085.7
+\i (00:32:22) trapsize 11
+\i (00:32:32) zoom out 1 
+\i (00:32:32) setwindow pcb
+\i (00:32:32) zoom out 19094.6 17104.8
+\i (00:32:32) trapsize 22
+\i (00:32:32) zoom out 1 
+\i (00:32:32) setwindow pcb
+\i (00:32:32) zoom out 19094.6 17104.8
+\i (00:32:32) trapsize 45
+\i (00:32:32) zoom out 1 
+\i (00:32:32) setwindow pcb
+\i (00:32:32) zoom out 19094.7 17104.8
+\i (00:32:32) trapsize 89
+\i (00:32:32) zoom out 1 
+\i (00:32:32) setwindow pcb
+\i (00:32:32) zoom out 19101.7 17069.2
+\i (00:32:32) trapsize 178
+\i (00:32:32) zoom in 1 
+\i (00:32:32) setwindow pcb
+\i (00:32:32) zoom in 19115.9 17080.0
+\i (00:32:32) trapsize 89
+\i (00:32:32) zoom in 1 
+\i (00:32:32) setwindow pcb
+\i (00:32:32) zoom in 19121.2 17085.3
+\i (00:32:32) trapsize 45
+\i (00:32:32) zoom in 1 
+\i (00:32:32) setwindow pcb
+\i (00:32:32) zoom in 19121.3 17085.3
+\i (00:32:32) trapsize 22
+\i (00:32:32) zoom in 1 
+\i (00:32:32) setwindow pcb
+\i (00:32:32) zoom in 19121.3 17085.4
+\i (00:32:32) trapsize 11
+\i (00:32:39) pick grid 19057.2 17034.0
+\t (00:32:39) last pick:  19100.0  17000.0
+\i (00:32:44) netin 
+\i (00:32:48) setwindow form.niparams
+\i (00:32:48) FORM niparams cancel  
+\i (00:32:48) setwindow pcb
+\i (00:32:48) generaledit 
+\i (00:33:04) place manual 
+\i (00:33:07) setwindow form.plc_manual
+\i (00:33:07) FORM plc_manual tree  'Components by refdes' 
+\i (00:33:08) FORM plc_manual tree  C1 'Components by refdes' 
+\i (00:33:09) FORM plc_manual tree 'MULTISEL YES' C1 'Components by refdes' 
+\w (00:33:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:33:10) Placing C1 / CAP- 0805_CAPC2012X140N_1UF / CAPC2012X140N on Top.
+\i (00:33:11) FORM plc_manual tree 'MULTISEL YES' C2 'Components by refdes' 
+\i (00:33:11) FORM plc_manual tree  C2 'Components by refdes' 
+\i (00:33:12) FORM plc_manual tree 'MULTISEL YES' C3 'Components by refdes' 
+\i (00:33:12) FORM plc_manual tree  C3 'Components by refdes' 
+\i (00:33:12) FORM plc_manual tree 'MULTISEL YES' C4 'Components by refdes' 
+\i (00:33:12) FORM plc_manual tree  C4 'Components by refdes' 
+\i (00:33:13) FORM plc_manual tree 'MULTISEL YES' D1 'Components by refdes' 
+\i (00:33:13) FORM plc_manual tree  D1 'Components by refdes' 
+\i (00:33:13) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\i (00:33:14) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:33:14) FORM plc_manual tree 'MULTISEL YES' L1 'Components by refdes' 
+\i (00:33:14) FORM plc_manual tree  L1 'Components by refdes' 
+\i (00:33:14) FORM plc_manual tree 'MULTISEL YES' J2 'Components by refdes' 
+\i (00:33:14) FORM plc_manual tree  J2 'Components by refdes' 
+\i (00:33:15) FORM plc_manual tree 'MULTISEL YES' LS1 'Components by refdes' 
+\i (00:33:15) FORM plc_manual tree  LS1 'Components by refdes' 
+\i (00:33:16) FORM plc_manual tree 'MULTISEL YES' Q1 'Components by refdes' 
+\i (00:33:16) FORM plc_manual tree  Q1 'Components by refdes' 
+\i (00:33:16) FORM plc_manual tree 'MULTISEL YES' R1 'Components by refdes' 
+\i (00:33:16) FORM plc_manual tree  R1 'Components by refdes' 
+\i (00:33:16) FORM plc_manual tree 'MULTISEL YES' R3 'Components by refdes' 
+\i (00:33:16) FORM plc_manual tree  R2 'Components by refdes' 
+\i (00:33:17) FORM plc_manual tree 'MULTISEL YES' R2 'Components by refdes' 
+\i (00:33:18) FORM plc_manual tree 'MULTISEL YES' R4 'Components by refdes' 
+\i (00:33:18) FORM plc_manual tree  R4 'Components by refdes' 
+\i (00:33:19) FORM plc_manual tree 'MULTISEL YES' S2 'Components by refdes' 
+\i (00:33:19) FORM plc_manual tree  S2 'Components by refdes' 
+\i (00:33:19) FORM plc_manual tree 'MULTISEL YES' R5 'Components by refdes' 
+\i (00:33:19) FORM plc_manual tree  R5 'Components by refdes' 
+\i (00:33:20) FORM plc_manual tree 'MULTISEL YES' SW1 'Components by refdes' 
+\i (00:33:20) FORM plc_manual tree  SW1 'Components by refdes' 
+\i (00:33:21) FORM plc_manual tree 'MULTISEL YES' U2 'Components by refdes' 
+\i (00:33:21) FORM plc_manual tree  U2 'Components by refdes' 
+\i (00:33:21) FORM plc_manual tree 'MULTISEL YES' U? 'Components by refdes' 
+\i (00:33:21) FORM plc_manual tree  U? 'Components by refdes' 
+\i (00:33:22) FORM plc_manual done  
+\i (00:33:22) setwindow pcb
+\i (00:33:22) generaledit 
+\i (00:33:27) zoom in 1 
+\i (00:33:27) setwindow pcb
+\i (00:33:27) zoom in 19091.3 17091.4
+\i (00:33:27) trapsize 6
+\i (00:33:27) zoom in 1 
+\i (00:33:27) setwindow pcb
+\i (00:33:27) zoom in 19091.3 17091.4
+\i (00:33:27) trapsize 3
+\i (00:33:27) zoom in 1 
+\i (00:33:27) setwindow pcb
+\i (00:33:27) zoom in 19091.3 17091.4
+\i (00:33:27) trapsize 1
+\i (00:33:27) zoom out 1 
+\i (00:33:27) setwindow pcb
+\i (00:33:27) zoom out 19091.4 17091.4
+\i (00:33:27) trapsize 3
+\i (00:33:27) zoom out 1 
+\i (00:33:27) setwindow pcb
+\i (00:33:27) zoom out 19091.3 17091.4
+\i (00:33:27) trapsize 6
+\i (00:33:27) zoom out 1 
+\i (00:33:27) setwindow pcb
+\i (00:33:27) zoom out 19091.2 17091.4
+\i (00:33:27) trapsize 11
+\i (00:33:27) zoom out 1 
+\i (00:33:27) setwindow pcb
+\i (00:33:27) zoom out 19091.3 17091.5
+\i (00:33:27) trapsize 22
+\i (00:33:28) drag_start grid 19026.7 17162.8
+\i (00:33:29) drag_stop 19437.9 16950.7
+\i (00:33:30) pick grid 19362.2 16997.0
+\t (00:33:30) last pick:  19400.0  17000.0
+\i (00:33:50) place manual 
+\i (00:33:53) setwindow form.plc_manual
+\i (00:33:53) FORM plc_manual advanced_settings  
+\i (00:33:54) FORM plc_manual placement_list  
+\i (00:33:57) FORM plc_manual tree 'MULTISEL YES' C1 'Components by refdes' 
+\w (00:33:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:33:57) Placing C1 / CAP- 0805_CAPC2012X140N_1UF / CAPC2012X140N on Top.
+\i (00:33:57) FORM plc_manual tree  C1 'Components by refdes' 
+\i (00:34:02) FORM plc_manual qvpropwnd 'Name: CAPC2012X140NType: Symbol DefinitionUnits:         MilsAccuracy:   1Pins: 2' 
+\i (00:34:09) FORM plc_manual tree 'MULTISEL YES' C2 'Components by refdes' 
+\i (00:34:09) FORM plc_manual tree  C2 'Components by refdes' 
+\i (00:34:48) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:34:48) FORM plc_manual tree  'Components by refdes' 
+\i (00:34:52) setwindow pcb
+\i (00:34:52) pick grid 19346.1 17049.6
+\t (00:34:52) last pick:  19300.0  17000.0
+\t (00:34:52) Placing C2 / CAP- 0805_CAPC2012X140N_4.7UF / CAPC2012X140N on Top.
+\i (00:34:53) Esc 
+\i (00:34:56) Esc 
+\i (00:35:02) zoom in 1 
+\i (00:35:02) setwindow pcb
+\i (00:35:02) zoom in 19420.1 17056.7
+\i (00:35:02) trapsize 11
+\i (00:35:02) zoom in 1 
+\i (00:35:02) setwindow pcb
+\i (00:35:02) zoom in 19420.1 17056.7
+\i (00:35:02) trapsize 6
+\i (00:35:03) zoom out 1 
+\i (00:35:03) setwindow pcb
+\i (00:35:03) zoom out 19420.4 17056.2
+\i (00:35:03) trapsize 11
+\i (00:35:03) zoom in 1 
+\i (00:35:03) setwindow pcb
+\i (00:35:03) zoom in 19420.3 17056.2
+\i (00:35:03) trapsize 6
+\i (00:35:03) zoom out 1 
+\i (00:35:03) setwindow pcb
+\i (00:35:03) zoom out 19420.4 17056.2
+\i (00:35:03) trapsize 11
+\i (00:35:03) zoom out 1 
+\i (00:35:03) setwindow pcb
+\i (00:35:03) zoom out 19420.3 17056.2
+\i (00:35:03) trapsize 22
+\i (00:35:04) zoom out 1 
+\i (00:35:04) setwindow pcb
+\i (00:35:04) zoom out 19424.8 17056.6
+\i (00:35:04) trapsize 45
+\i (00:35:04) zoom out 1 
+\i (00:35:04) setwindow pcb
+\i (00:35:04) zoom out 19424.9 17054.9
+\i (00:35:04) trapsize 89
+\i (00:35:04) zoom out 1 
+\i (00:35:04) setwindow pcb
+\i (00:35:04) zoom out 19423.1 17053.1
+\i (00:35:04) trapsize 178
+\i (00:35:04) zoom out 1 
+\i (00:35:04) setwindow pcb
+\i (00:35:04) zoom out 19419.5 17053.2
+\i (00:35:04) trapsize 356
+\i (00:35:04) zoom out 1 
+\i (00:35:04) setwindow pcb
+\i (00:35:04) zoom out 19419.6 17053.1
+\i (00:35:04) trapsize 713
+\i (00:35:05) zoom in 1 
+\i (00:35:05) setwindow pcb
+\i (00:35:05) zoom in 19562.1 17095.9
+\i (00:35:05) trapsize 356
+\i (00:35:05) zoom in 1 
+\i (00:35:05) setwindow pcb
+\i (00:35:05) zoom in 19576.4 17017.5
+\i (00:35:05) trapsize 178
+\i (00:35:05) zoom in 1 
+\i (00:35:05) setwindow pcb
+\i (00:35:05) zoom in 19576.4 17017.5
+\i (00:35:05) trapsize 89
+\i (00:35:05) zoom in 1 
+\i (00:35:05) setwindow pcb
+\i (00:35:05) zoom in 19572.8 16994.4
+\i (00:35:05) trapsize 45
+\i (00:35:06) zoom out 1 
+\i (00:35:06) setwindow pcb
+\i (00:35:06) zoom out 19572.8 16994.4
+\i (00:35:06) trapsize 89
+\i (00:35:07) zoom out 1 
+\i (00:35:07) setwindow pcb
+\i (00:35:07) zoom out 19574.6 16994.4
+\i (00:35:07) trapsize 178
+\i (00:35:07) zoom out 1 
+\i (00:35:07) setwindow pcb
+\i (00:35:07) zoom out 19574.6 16994.4
+\i (00:35:07) trapsize 356
+\i (00:35:07) zoom out 1 
+\i (00:35:07) setwindow pcb
+\i (00:35:07) zoom out 19574.7 16994.4
+\i (00:35:07) trapsize 713
+\i (00:35:07) zoom out 1 
+\i (00:35:07) setwindow pcb
+\i (00:35:07) zoom out 19574.7 16994.4
+\i (00:35:07) trapsize 1426
+\i (00:35:07) zoom out 1 
+\i (00:35:07) setwindow pcb
+\i (00:35:07) zoom out 32765.2 16994.5
+\i (00:35:07) trapsize 2848
+\i (00:35:08) zoom out 1 
+\i (00:35:08) setwindow pcb
+\i (00:35:08) zoom out 65494.1 16515.9
+\i (00:35:08) trapsize 2848
+\i (00:35:08) zoom out 1 
+\i (00:35:08) setwindow pcb
+\i (00:35:08) zoom out 65494.1 16402.0
+\i (00:35:08) trapsize 2848
+\i (00:35:08) zoom out 1 
+\i (00:35:08) setwindow pcb
+\i (00:35:08) zoom out 65494.1 16345.1
+\i (00:35:08) trapsize 2848
+\i (00:35:08) zoom out 1 
+\i (00:35:08) setwindow pcb
+\i (00:35:08) zoom out 65494.1 16345.1
+\i (00:35:08) trapsize 2848
+\i (00:35:10) zoom in 1 
+\i (00:35:10) setwindow pcb
+\i (00:35:10) zoom in 45561.1 22495.8
+\i (00:35:10) trapsize 1424
+\i (00:35:10) zoom in 1 
+\i (00:35:10) setwindow pcb
+\i (00:35:10) zoom in 25035.2 22495.8
+\i (00:35:10) trapsize 712
+\i (00:35:10) zoom in 1 
+\i (00:35:10) setwindow pcb
+\i (00:35:10) zoom in 25035.2 22495.9
+\i (00:35:10) trapsize 356
+\i (00:35:10) zoom in 1 
+\i (00:35:10) setwindow pcb
+\i (00:35:10) zoom in 25369.8 22253.8
+\i (00:35:10) trapsize 178
+\i (00:35:10) zoom in 1 
+\i (00:35:10) setwindow pcb
+\i (00:35:10) zoom in 25369.9 22253.9
+\i (00:35:10) trapsize 89
+\i (00:35:10) zoom in 1 
+\i (00:35:10) setwindow pcb
+\i (00:35:10) zoom in 25369.9 22253.9
+\i (00:35:10) trapsize 44
+\i (00:35:11) zoom in 1 
+\i (00:35:11) setwindow pcb
+\i (00:35:11) zoom in 25410.8 22189.9
+\i (00:35:11) trapsize 22
+\i (00:35:19) zoom in 1 
+\i (00:35:19) setwindow pcb
+\i (00:35:19) zoom in 25417.5 22177.9
+\i (00:35:19) trapsize 11
+\i (00:35:19) zoom in 1 
+\i (00:35:19) setwindow pcb
+\i (00:35:19) zoom in 25417.5 22177.9
+\i (00:35:19) trapsize 6
+\i (00:35:19) zoom in 1 
+\i (00:35:19) setwindow pcb
+\i (00:35:19) zoom in 25417.5 22177.9
+\i (00:35:19) trapsize 3
+\i (00:35:20) zoom out 1 
+\i (00:35:20) setwindow pcb
+\i (00:35:20) zoom out 25417.5 22178.0
+\i (00:35:20) trapsize 6
+\i (00:35:20) zoom out 1 
+\i (00:35:20) setwindow pcb
+\i (00:35:20) zoom out 25417.5 22177.9
+\i (00:35:20) trapsize 11
+\i (00:35:20) zoom out 1 
+\i (00:35:20) setwindow pcb
+\i (00:35:20) zoom out 25417.5 22178.0
+\i (00:35:20) trapsize 22
+\i (00:35:20) zoom out 1 
+\i (00:35:20) setwindow pcb
+\i (00:35:20) zoom out 25417.5 22178.0
+\i (00:35:20) trapsize 45
+\i (00:35:20) zoom out 1 
+\i (00:35:20) setwindow pcb
+\i (00:35:20) zoom out 25417.6 22178.0
+\i (00:35:20) trapsize 89
+\i (00:35:20) zoom out 1 
+\i (00:35:20) setwindow pcb
+\i (00:35:20) zoom out 25417.5 22169.2
+\i (00:35:20) trapsize 178
+\i (00:35:22) zoom out 1 
+\i (00:35:22) setwindow pcb
+\i (00:35:22) zoom out 25207.5 22464.7
+\i (00:35:22) trapsize 356
+\i (00:35:22) zoom out 1 
+\i (00:35:22) setwindow pcb
+\i (00:35:22) zoom out 25178.9 22407.7
+\i (00:35:22) trapsize 712
+\i (00:35:22) zoom out 1 
+\i (00:35:22) setwindow pcb
+\i (00:35:22) zoom out 25122.0 22308.0
+\i (00:35:22) trapsize 1424
+\i (00:35:22) zoom out 1 
+\i (00:35:22) setwindow pcb
+\i (00:35:22) zoom out 23469.7 18975.0
+\i (00:35:22) trapsize 2848
+\i (00:35:22) zoom out 1 
+\i (00:35:22) setwindow pcb
+\i (00:35:22) zoom out 44536.0 11504.2
+\i (00:35:22) trapsize 2848
+\i (00:35:24) zoom in 1 
+\i (00:35:24) setwindow pcb
+\i (00:35:24) zoom in 31494.1 15206.0
+\i (00:35:24) trapsize 1424
+\i (00:35:24) zoom in 1 
+\i (00:35:24) setwindow pcb
+\i (00:35:24) zoom in 17830.8 15291.4
+\i (00:35:24) trapsize 712
+\i (00:35:25) zoom out 1 
+\i (00:35:25) setwindow pcb
+\i (00:35:25) zoom out 18870.2 17156.6
+\i (00:35:25) trapsize 1424
+\i (00:35:25) zoom out 1 
+\i (00:35:25) setwindow pcb
+\i (00:35:25) zoom out 18870.1 17185.0
+\i (00:35:25) trapsize 2848
+\i (00:35:25) zoom out 1 
+\i (00:35:25) setwindow pcb
+\i (00:35:25) zoom out 35423.8 22894.5
+\i (00:35:25) trapsize 2848
+\i (00:35:25) zoom out 1 
+\i (00:35:25) setwindow pcb
+\i (00:35:25) zoom out 30981.6 21015.1
+\i (00:35:25) trapsize 2848
+\i (00:35:27) zoom out 1 
+\i (00:35:27) setwindow pcb
+\i (00:35:27) zoom out 32006.7 18566.2
+\i (00:35:27) trapsize 2848
+\i (00:35:27) zoom out 1 
+\i (00:35:27) setwindow pcb
+\i (00:35:27) zoom out 32006.7 18566.2
+\i (00:35:27) trapsize 2848
+\i (00:35:28) zoom in 1 
+\i (00:35:28) setwindow pcb
+\i (00:35:28) zoom in 32291.5 18566.2
+\i (00:35:28) trapsize 1424
+\i (00:35:28) zoom in 1 
+\i (00:35:28) setwindow pcb
+\i (00:35:28) zoom in 18400.3 18566.2
+\i (00:35:28) trapsize 712
+\i (00:35:28) zoom in 1 
+\i (00:35:28) setwindow pcb
+\i (00:35:28) zoom in 18400.4 18566.2
+\i (00:35:28) trapsize 356
+\i (00:35:29) zoom out 1 
+\i (00:35:29) setwindow pcb
+\i (00:35:29) zoom out 19140.8 17092.6
+\i (00:35:29) trapsize 712
+\i (00:35:30) zoom in 1 
+\i (00:35:30) setwindow pcb
+\i (00:35:30) zoom in 19098.1 17007.3
+\i (00:35:30) trapsize 356
+\i (00:35:30) zoom in 1 
+\i (00:35:30) setwindow pcb
+\i (00:35:30) zoom in 19098.1 17007.3
+\i (00:35:30) trapsize 178
+\i (00:35:30) zoom in 1 
+\i (00:35:30) setwindow pcb
+\i (00:35:30) zoom in 19123.1 17000.2
+\i (00:35:30) trapsize 89
+\i (00:35:33) zoom out 1 
+\i (00:35:33) setwindow pcb
+\i (00:35:33) zoom out 19603.7 17092.8
+\i (00:35:33) trapsize 178
+\i (00:35:43) pick grid 20016.5 17046.5
+\t (00:35:43) last pick:  20000.0  17000.0
+\t (00:35:43) Placing C3 / CAP- 0805_CAPC2012X140N_10UF / CAPC2012X140N on Top.
+\i (00:35:44) pick grid 20251.4 17267.2
+\t (00:35:44) last pick:  20300.0  17300.0
+\t (00:35:44) Placing C4 / CAP- 0805_CAPC2012X140N_1UF / CAPC2012X140N on Top.
+\i (00:35:45) pick grid 19649.9 17381.1
+\t (00:35:45) last pick:  19600.0  17400.0
+\w (00:35:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:35:45) Placing D1 / 1N4148WSQ-7-F_SOD2513X120N_1N41 / SOD2513X120N on Top.
+\i (00:35:45) pick grid 19528.9 17754.9
+\t (00:35:45) last pick:  19500.0  17800.0
+\w (00:35:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:35:45) Placing J1 / 2-PIN CONNECTOR_MOLEX_003929602 / MOLEX_0039296028 on Top.
+\i (00:35:46) pick grid 19005.6 17648.1
+\t (00:35:46) last pick:  19000.0  17600.0
+\w (00:35:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:35:46) Placing J2 / PIN HEADER_TE_2-104186-1_2-1041 / TE_2-104186-1 on Top.
+\i (00:35:48) pick grid 18418.3 17555.5
+\t (00:35:48) last pick:  18400.0  17600.0
+\w (00:35:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:35:48) Placing L1 / INDUCTOR_INDC2012X87N_MLF2012K3 / INDC2012X87N on Top.
+\i (00:35:48) pick grid 18386.3 17039.4
+\t (00:35:48) last pick:  18400.0  17000.0
+\w (00:35:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:35:48) Placing LS1 / BUZZER_CUI_CMT-1603-SMT_CMT-160 / CUI_CMT-1603-SMT on Top.
+\i (00:35:50) zoom out 1 
+\i (00:35:50) setwindow pcb
+\i (00:35:50) zoom out 18653.2 17085.7
+\i (00:35:50) trapsize 356
+\i (00:35:50) zoom out 1 
+\i (00:35:50) setwindow pcb
+\i (00:35:50) zoom out 18674.6 17021.6
+\i (00:35:50) trapsize 712
+\i (00:35:50) zoom out 1 
+\i (00:35:50) setwindow pcb
+\i (00:35:50) zoom out 18688.9 16779.5
+\i (00:35:50) trapsize 1424
+\i (00:35:50) zoom out 1 
+\i (00:35:50) setwindow pcb
+\i (00:35:50) zoom out 19221.2 16437.8
+\i (00:35:50) trapsize 2848
+\i (00:35:51) zoom in 1 
+\i (00:35:51) setwindow pcb
+\i (00:35:51) zoom in 37132.3 5581.2
+\i (00:35:51) trapsize 1424
+\i (00:35:51) zoom in 1 
+\i (00:35:51) setwindow pcb
+\i (00:35:51) zoom in 20820.8 5581.2
+\i (00:35:51) trapsize 712
+\i (00:35:51) zoom in 1 
+\i (00:35:51) setwindow pcb
+\i (00:35:51) zoom in 20820.8 5581.2
+\i (00:35:51) trapsize 356
+\i (00:35:51) zoom in 1 
+\i (00:35:51) setwindow pcb
+\i (00:35:51) zoom in 20827.9 5609.7
+\i (00:35:51) trapsize 178
+\i (00:35:53) zoom in 1 
+\i (00:35:53) setwindow pcb
+\i (00:35:53) zoom in 20739.0 6620.7
+\i (00:35:53) trapsize 89
+\i (00:35:53) zoom in 1 
+\i (00:35:53) setwindow pcb
+\i (00:35:53) zoom in 20778.1 6611.8
+\i (00:35:53) trapsize 44
+\i (00:35:54) zoom out 1 
+\i (00:35:54) setwindow pcb
+\i (00:35:54) zoom out 20821.7 6588.7
+\i (00:35:54) trapsize 89
+\i (00:35:54) zoom out 1 
+\i (00:35:54) setwindow pcb
+\i (00:35:54) zoom out 20825.2 6588.7
+\i (00:35:54) trapsize 178
+\i (00:35:54) zoom out 1 
+\i (00:35:54) setwindow pcb
+\i (00:35:54) zoom out 20914.2 6514.0
+\i (00:35:54) trapsize 356
+\i (00:35:54) zoom out 1 
+\i (00:35:54) setwindow pcb
+\i (00:35:54) zoom out 20921.3 6506.8
+\i (00:35:54) trapsize 712
+\i (00:35:54) zoom out 1 
+\i (00:35:54) setwindow pcb
+\i (00:35:54) zoom out 20921.3 6506.8
+\i (00:35:54) trapsize 1424
+\i (00:35:55) zoom out 1 
+\i (00:35:55) setwindow pcb
+\i (00:35:55) zoom out 21319.9 12330.0
+\i (00:35:55) trapsize 2848
+\i (00:35:55) zoom out 1 
+\i (00:35:55) setwindow pcb
+\i (00:35:55) zoom out 42485.8 26311.6
+\i (00:35:55) trapsize 2848
+\i (00:35:56) zoom in 1 
+\i (00:35:56) setwindow pcb
+\i (00:35:56) zoom in 32462.3 24033.5
+\i (00:35:56) trapsize 1424
+\i (00:35:56) zoom in 1 
+\i (00:35:56) setwindow pcb
+\i (00:35:56) zoom in 20108.9 23350.1
+\i (00:35:56) trapsize 712
+\i (00:35:57) zoom out 1 
+\i (00:35:57) setwindow pcb
+\i (00:35:57) zoom out 19795.7 19520.2
+\i (00:35:57) trapsize 1424
+\i (00:35:58) zoom in 1 
+\i (00:35:58) setwindow pcb
+\i (00:35:58) zoom in 18827.5 17982.5
+\i (00:35:58) trapsize 712
+\i (00:35:58) zoom in 1 
+\i (00:35:58) setwindow pcb
+\i (00:35:58) zoom in 18841.8 17868.6
+\i (00:35:58) trapsize 356
+\i (00:35:59) zoom in 1 
+\i (00:35:59) setwindow pcb
+\i (00:35:59) zoom in 18827.6 17811.7
+\i (00:35:59) trapsize 178
+\i (00:35:59) zoom out 1 
+\i (00:35:59) setwindow pcb
+\i (00:35:59) zoom out 18895.3 17651.5
+\i (00:35:59) trapsize 356
+\i (00:36:01) zoom in 1 
+\i (00:36:01) setwindow pcb
+\i (00:36:01) zoom in 18795.6 17672.9
+\i (00:36:01) trapsize 178
+\i (00:36:01) zoom out 1 
+\i (00:36:01) setwindow pcb
+\i (00:36:01) zoom out 18717.3 17665.8
+\i (00:36:01) trapsize 356
+\i (00:36:01) zoom out 1 
+\i (00:36:01) setwindow pcb
+\i (00:36:01) zoom out 18866.9 17744.1
+\i (00:36:01) trapsize 712
+\i (00:36:02) zoom in 1 
+\i (00:36:03) setwindow pcb
+\i (00:36:03) zoom in 19123.2 17388.1
+\i (00:36:03) trapsize 356
+\i (00:36:03) zoom in 1 
+\i (00:36:03) setwindow pcb
+\i (00:36:03) zoom in 19173.1 17452.2
+\i (00:36:03) trapsize 178
+\i (00:36:04) pick grid 19952.6 18160.5
+\t (00:36:04) last pick:  20000.0  18200.0
+\w (00:36:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:36:04) Placing Q1 / N CHANNEL MOSFET_SOT95P240X115- / SOT95P240X115-3N on Top.
+\i (00:36:06) pick grid 19550.4 18936.5
+\t (00:36:06) last pick:  19600.0  18900.0
+\w (00:36:06) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:36:06) Placing R1 / RESISITOR - 0805_RESC2012X60N_2 / RESC2012X60N on Top.
+\i (00:36:06) pick grid 20871.0 18740.7
+\t (00:36:06) last pick:  20900.0  18700.0
+\t (00:36:06) Placing R2 / RESISITOR - 0805_RESC2012X60N_1 / RESC2012X60N on Top.
+\i (00:36:07) pick grid 21052.5 18089.3
+\t (00:36:07) last pick:  21100.0  18100.0
+\t (00:36:07) Placing R3 / RESISITOR - 0805_RESC2012X60N_1 / RESC2012X60N on Top.
+\i (00:36:07) pick grid 21244.7 18342.1
+\t (00:36:07) last pick:  21200.0  18300.0
+\t (00:36:07) Placing R4 / RESISITOR - 0805_RESC2012X60N_3 / RESC2012X60N on Top.
+\i (00:36:08) pick grid 21191.3 17847.3
+\t (00:36:08) last pick:  21200.0  17800.0
+\t (00:36:08) Placing R5 / RESISITOR - 0805_RESC2012X60N_4 / RESC2012X60N on Top.
+\i (00:36:08) zoom out 1 
+\i (00:36:08) setwindow pcb
+\i (00:36:08) zoom out 20710.8 17416.6
+\i (00:36:08) trapsize 356
+\i (00:36:09) zoom out 1 
+\i (00:36:09) setwindow pcb
+\i (00:36:09) zoom out 20710.8 17423.7
+\i (00:36:09) trapsize 712
+\i (00:36:10) pick grid 18432.7 19032.6
+\t (00:36:10) last pick:  18400.0  19000.0
+\w (00:36:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:36:10) Placing S2 / JS102011JCQN_SW_JS102011JCQN_JS / SW_JS102011JCQN on Top.
+\i (00:36:10) pick grid 17564.1 20399.5
+\t (00:36:10) last pick:  17600.0  20400.0
+\w (00:36:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:36:10) Placing SW1 / PUSH BUTTON_SW_TL3342F160QG_TL3 / SW_TL3342F160QG on Top.
+\i (00:36:11) pick grid 19272.7 19986.6
+\t (00:36:11) last pick:  19300.0  20000.0
+\w (00:36:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:36:11) Placing U2 / TPS63031_10SON_TPS63031 / 10SON on Top.
+\i (00:36:11) pick grid 16838.0 19132.3
+\t (00:36:11) last pick:  16800.0  19100.0
+\w (00:36:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:36:11) Placing U? / BLUETOOTH_MODULE_MDBT40-256RV3_ / MODULE_MDBT40-256RV3 on Top.
+\i (00:36:11) pick grid 15642.0 18050.2
+\t (00:36:11) last pick:  15600.0  18100.0
+\i (00:36:12) pick grid 15257.6 19673.3
+\t (00:36:12) last pick:  15300.0  19700.0
+\i (00:36:13) setwindow form.plc_manual
+\i (00:36:13) FORM plc_manual cancel  
+\i (00:36:13) setwindow pcb
+\i (00:36:13) generaledit 
+\i (00:36:14) zoom out 1 
+\i (00:36:14) setwindow pcb
+\i (00:36:14) zoom out 16097.6 20029.3
+\i (00:36:14) trapsize 1424
+\i (00:36:14) zoom out 1 
+\i (00:36:15) setwindow pcb
+\i (00:36:15) zoom out 20445.7 20029.3
+\i (00:36:15) trapsize 2848
+\i (00:36:15) zoom out 1 
+\i (00:36:15) setwindow pcb
+\i (00:36:15) zoom out 40891.1 10479.1
+\i (00:36:15) trapsize 2848
+\i (00:36:15) zoom in 1 
+\i (00:36:15) setwindow pcb
+\i (00:36:15) zoom in 40891.1 10479.1
+\i (00:36:15) trapsize 1424
+\i (00:36:15) zoom in 1 
+\i (00:36:15) setwindow pcb
+\i (00:36:15) zoom in 22700.2 10479.1
+\i (00:36:15) trapsize 712
+\i (00:36:15) zoom in 1 
+\i (00:36:15) setwindow pcb
+\i (00:36:15) zoom in 22700.2 10479.2
+\i (00:36:15) trapsize 356
+\i (00:36:16) zoom out 1 
+\i (00:36:16) setwindow pcb
+\i (00:36:16) zoom out 22700.2 10479.2
+\i (00:36:16) trapsize 712
+\i (00:36:16) zoom out 1 
+\i (00:36:16) setwindow pcb
+\i (00:36:16) zoom out 22700.2 10479.2
+\i (00:36:16) trapsize 1424
+\i (00:36:16) zoom out 1 
+\i (00:36:16) setwindow pcb
+\i (00:36:16) zoom out 22700.2 10479.1
+\i (00:36:16) trapsize 2848
+\i (00:36:16) zoom out 1 
+\i (00:36:16) setwindow pcb
+\i (00:36:16) zoom out 40948.1 10479.1
+\i (00:36:16) trapsize 2848
+\i (00:36:16) zoom out 1 
+\i (00:36:16) setwindow pcb
+\i (00:36:16) zoom out 40948.1 10422.1
+\i (00:36:16) trapsize 2848
+\i (00:36:16) zoom out 1 
+\i (00:36:16) setwindow pcb
+\i (00:36:16) zoom out 40948.1 10422.1
+\i (00:36:16) trapsize 2848
+\i (00:36:17) zoom out 1 
+\i (00:36:17) setwindow pcb
+\i (00:36:17) zoom out 41062.0 10479.1
+\i (00:36:17) trapsize 2848
+\i (00:36:17) zoom out 1 
+\i (00:36:17) setwindow pcb
+\i (00:36:17) zoom out 41062.0 10479.1
+\i (00:36:17) trapsize 2848
+\i (00:36:17) zoom out 1 
+\i (00:36:17) setwindow pcb
+\i (00:36:17) zoom out 41062.0 10479.1
+\i (00:36:17) trapsize 2848
+\i (00:36:17) zoom out 1 
+\i (00:36:17) setwindow pcb
+\i (00:36:17) zoom out 41062.0 10479.1
+\i (00:36:17) trapsize 2848
+\i (00:36:17) zoom out 1 
+\i (00:36:17) setwindow pcb
+\i (00:36:17) zoom out 41062.0 10479.1
+\i (00:36:17) trapsize 2848
+\i (00:36:17) zoom out 1 
+\i (00:36:17) setwindow pcb
+\i (00:36:17) zoom out 41062.0 10479.1
+\i (00:36:17) trapsize 2848
+\i (00:36:17) zoom out 1 
+\i (00:36:17) setwindow pcb
+\i (00:36:17) zoom out 41062.0 10479.1
+\i (00:36:17) trapsize 2848
+\i (00:36:17) zoom out 1 
+\i (00:36:17) setwindow pcb
+\i (00:36:17) zoom out 41062.0 10479.1
+\i (00:36:17) trapsize 2848
+\i (00:36:17) zoom out 1 
+\i (00:36:17) setwindow pcb
+\i (00:36:17) zoom out 41062.0 10479.1
+\i (00:36:17) trapsize 2848
+\i (00:36:32) place manual 
+\i (00:36:34) setwindow form.plc_manual
+\i (00:36:34) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\w (00:36:34) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:36:34) Placing C1 / CAP- 0805_CAPC2012X140N_1UF / CAPC2012X140N on Top.
+\i (00:36:34) FORM plc_manual tree  'Components by refdes' 
+\i (00:36:36) setwindow pcb
+\i (00:36:36) pick grid 38385.3 22552.8
+\t (00:36:36) last pick:  38400.0  22600.0
+\t (00:36:36) Placing C2 / CAP- 0805_CAPC2012X140N_4.7UF / CAPC2012X140N on Top.
+\i (00:36:37) pick grid 42656.6 22381.9
+\t (00:36:37) last pick:  42700.0  22400.0
+\t (00:36:37) Placing C3 / CAP- 0805_CAPC2012X140N_10UF / CAPC2012X140N on Top.
+\i (00:36:38) pick grid 43795.7 24090.5
+\t (00:36:38) last pick:  43800.0  24100.0
+\e (00:36:38) ERROR(SPMHA1-73): Text line is outside of the extents.
+\t (00:36:38) Placing C3 / CAP- 0805_CAPC2012X140N_10UF / CAPC2012X140N on Top.
+\t (00:36:39) Placing C4 / CAP- 0805_CAPC2012X140N_1UF / CAPC2012X140N on Top.
+\t (00:36:39) last pick:  44023.5  21072.0
+\w (00:36:39) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:36:40) pick grid 39011.7 19762.1
+\t (00:36:40) last pick:  39000.0  19800.0
+\w (00:36:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:36:40) Placing D1 / 1N4148WSQ-7-F_SOD2513X120N_1N41 / SOD2513X120N on Top.
+\i (00:36:52) zoom out 1 
+\i (00:36:52) setwindow pcb
+\i (00:36:52) zoom out 39125.6 21356.8
+\i (00:36:52) trapsize 2848
+\i (00:36:53) zoom out 1 
+\i (00:36:53) setwindow pcb
+\i (00:36:53) zoom out 39638.2 21470.7
+\i (00:36:53) trapsize 2848
+\i (00:36:53) zoom out 1 
+\i (00:36:53) setwindow pcb
+\i (00:36:53) zoom out 39638.2 21470.7
+\i (00:36:53) trapsize 2848
+\i (00:36:53) zoom out 1 
+\i (00:36:53) setwindow pcb
+\i (00:36:53) zoom out 39638.2 21470.7
+\i (00:36:53) trapsize 2848
+\i (00:36:53) zoom out 1 
+\i (00:36:53) setwindow pcb
+\i (00:36:53) zoom out 39638.2 21470.7
+\i (00:36:53) trapsize 2848
+\i (00:36:53) zoom out 1 
+\i (00:36:53) setwindow pcb
+\i (00:36:53) zoom out 39638.2 21470.7
+\i (00:36:53) trapsize 2848
+\i (00:36:53) zoom out 1 
+\i (00:36:53) setwindow pcb
+\i (00:36:53) zoom out 39638.2 21470.7
+\i (00:36:53) trapsize 2848
+\i (00:36:53) zoom out 1 
+\i (00:36:53) setwindow pcb
+\i (00:36:53) zoom out 39638.2 21470.7
+\i (00:36:53) trapsize 2848
+\i (00:36:54) zoom in 1 
+\i (00:36:54) setwindow pcb
+\i (00:36:54) zoom in 39638.2 21470.7
+\i (00:36:54) trapsize 1424
+\i (00:36:54) zoom in 1 
+\i (00:36:54) setwindow pcb
+\i (00:36:54) zoom in 22073.7 21470.7
+\i (00:36:54) trapsize 712
+\i (00:36:54) zoom in 1 
+\i (00:36:54) setwindow pcb
+\i (00:36:54) zoom in 22073.7 21470.8
+\i (00:36:54) trapsize 356
+\i (00:36:54) zoom in 1 
+\i (00:36:54) setwindow pcb
+\i (00:36:54) zoom in 22073.8 21470.8
+\i (00:36:54) trapsize 178
+\i (00:36:55) zoom out 1 
+\i (00:36:55) setwindow pcb
+\i (00:36:55) zoom out 23729.0 21118.4
+\i (00:36:55) trapsize 356
+\i (00:36:55) zoom out 1 
+\i (00:36:55) setwindow pcb
+\i (00:36:55) zoom out 23728.9 21118.5
+\i (00:36:55) trapsize 712
+\i (00:36:55) zoom out 1 
+\i (00:36:55) setwindow pcb
+\i (00:36:55) zoom out 23728.9 21118.4
+\i (00:36:55) trapsize 1424
+\i (00:36:55) zoom out 1 
+\i (00:36:55) setwindow pcb
+\i (00:36:55) zoom out 39496.0 20150.3
+\i (00:36:55) trapsize 2848
+\i (00:36:56) zoom out 1 
+\i (00:36:56) setwindow pcb
+\i (00:36:56) zoom out 38442.2 21641.5
+\i (00:36:56) trapsize 2848
+\i (00:36:56) zoom out 1 
+\i (00:36:56) setwindow pcb
+\i (00:36:56) zoom out 39239.5 21641.5
+\i (00:36:56) trapsize 2848
+\i (00:36:57) zoom in 1 
+\i (00:36:57) setwindow pcb
+\i (00:36:57) zoom in 39638.2 21698.5
+\i (00:36:57) trapsize 1424
+\i (00:36:57) zoom in 1 
+\i (00:36:57) setwindow pcb
+\i (00:36:57) zoom in 22073.7 21698.5
+\i (00:36:57) trapsize 712
+\i (00:36:59) zoom out 1 
+\i (00:36:59) setwindow pcb
+\i (00:36:59) zoom out 32054.5 21285.6
+\i (00:36:59) trapsize 1424
+\i (00:36:59) zoom out 1 
+\i (00:36:59) setwindow pcb
+\i (00:36:59) zoom out 38983.3 21912.1
+\i (00:36:59) trapsize 2848
+\i (00:37:00) zoom in 1 
+\i (00:37:00) setwindow pcb
+\i (00:37:00) zoom in 40777.2 21869.4
+\i (00:37:00) trapsize 1424
+\i (00:37:01) zoom in 1 
+\i (00:37:01) setwindow pcb
+\i (00:37:01) zoom in 42206.0 21214.4
+\i (00:37:01) trapsize 712
+\i (00:37:02) zoom in 1 
+\i (00:37:02) setwindow pcb
+\i (00:37:02) zoom in 42547.7 21214.5
+\i (00:37:02) trapsize 356
+\i (00:37:02) zoom in 1 
+\i (00:37:02) setwindow pcb
+\i (00:37:02) zoom in 42547.7 21214.5
+\i (00:37:02) trapsize 178
+\i (00:37:02) zoom out 1 
+\i (00:37:02) setwindow pcb
+\i (00:37:02) zoom out 42163.4 21225.3
+\i (00:37:02) trapsize 356
+\i (00:37:03) zoom out 1 
+\i (00:37:03) setwindow pcb
+\i (00:37:03) zoom out 42070.8 21189.6
+\i (00:37:03) trapsize 712
+\i (00:37:03) zoom in 1 
+\i (00:37:03) setwindow pcb
+\i (00:37:03) zoom in 41707.7 21175.4
+\i (00:37:03) trapsize 356
+\i (00:37:05) pick grid 40348.0 21289.3
+\t (00:37:05) last pick:  40300.0  21300.0
+\w (00:37:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:37:05) Placing J1 / 2-PIN CONNECTOR_MOLEX_003929602 / MOLEX_0039296028 on Top.
+\i (00:37:05) pick grid 40661.3 21040.1
+\t (00:37:05) last pick:  40700.0  21000.0
+\w (00:37:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:37:05) Placing J2 / PIN HEADER_TE_2-104186-1_2-1041 / TE_2-104186-1 on Top.
+\i (00:37:06) pick grid 41152.5 20449.3
+\t (00:37:06) last pick:  41200.0  20400.0
+\w (00:37:06) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:37:06) Placing L1 / INDUCTOR_INDC2012X87N_MLF2012K3 / INDC2012X87N on Top.
+\i (00:37:07) pick grid 40732.4 19943.8
+\t (00:37:07) last pick:  40700.0  19900.0
+\w (00:37:07) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:37:07) Placing LS1 / BUZZER_CUI_CMT-1603-SMT_CMT-160 / CUI_CMT-1603-SMT on Top.
+\i (00:37:07) pick grid 41252.1 19495.3
+\t (00:37:07) last pick:  41300.0  19500.0
+\w (00:37:07) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:37:07) Placing Q1 / N CHANNEL MOSFET_SOT95P240X115- / SOT95P240X115-3N on Top.
+\i (00:37:08) pick grid 40340.9 19153.6
+\t (00:37:08) last pick:  40300.0  19200.0
+\w (00:37:08) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:37:08) Placing R1 / RESISITOR - 0805_RESC2012X60N_2 / RESC2012X60N on Top.
+\i (00:37:09) pick grid 39045.3 19089.5
+\t (00:37:09) last pick:  39000.0  19100.0
+\t (00:37:09) Placing R2 / RESISITOR - 0805_RESC2012X60N_1 / RESC2012X60N on Top.
+\i (00:37:09) pick grid 37649.9 19338.7
+\t (00:37:09) last pick:  37600.0  19300.0
+\t (00:37:09) Placing R3 / RESISITOR - 0805_RESC2012X60N_1 / RESC2012X60N on Top.
+\i (00:37:10) pick grid 37087.5 19950.9
+\t (00:37:10) last pick:  37100.0  20000.0
+\t (00:37:10) Placing R4 / RESISITOR - 0805_RESC2012X60N_3 / RESC2012X60N on Top.
+\i (00:37:10) pick grid 37151.6 20356.7
+\t (00:37:10) last pick:  37200.0  20400.0
+\t (00:37:10) Placing R5 / RESISITOR - 0805_RESC2012X60N_4 / RESC2012X60N on Top.
+\i (00:37:11) pick grid 37080.4 20954.7
+\t (00:37:11) last pick:  37100.0  21000.0
+\w (00:37:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:37:11) Placing S2 / JS102011JCQN_SW_JS102011JCQN_JS / SW_JS102011JCQN on Top.
+\i (00:37:12) pick grid 36959.4 21453.0
+\t (00:37:12) last pick:  37000.0  21500.0
+\w (00:37:12) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:37:12) Placing SW1 / PUSH BUTTON_SW_TL3342F160QG_TL3 / SW_TL3342F160QG on Top.
+\i (00:37:12) pick grid 38155.4 21488.6
+\t (00:37:12) last pick:  38200.0  21500.0
+\w (00:37:12) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:37:12) Placing U2 / TPS63031_10SON_TPS63031 / 10SON on Top.
+\i (00:37:13) pick grid 39116.4 20826.6
+\t (00:37:13) last pick:  39100.0  20800.0
+\w (00:37:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:37:13) Placing U? / BLUETOOTH_MODULE_MDBT40-256RV3_ / MODULE_MDBT40-256RV3 on Top.
+\i (00:37:13) pick grid 39209.0 21559.8
+\t (00:37:13) last pick:  39200.0  21600.0
+\i (00:37:16) prepopup 39878.2 21922.9
+\i (00:37:16) done 
+\i (00:37:17) generaledit 
+\i (00:37:20) drag_start grid 42106.4 20584.5
+\i (00:37:21) drag_stop 41643.7 20648.6
+\i (00:37:22) zoom in 1 
+\i (00:37:22) setwindow pcb
+\i (00:37:22) zoom in 41629.4 20655.7
+\i (00:37:22) trapsize 178
+\i (00:37:22) zoom in 1 
+\i (00:37:22) setwindow pcb
+\i (00:37:22) zoom in 41615.2 20630.8
+\i (00:37:22) trapsize 89
+\i (00:37:22) zoom out 1 
+\i (00

@@ -1,0 +1,114 @@
+\t (00:11:32) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:11:32)     Journal start - Tue Apr 28 20:26:29 2020
+\t (00:11:32)         Host=DESKTOP-U6TBUH8 User=user Pid=6112 CPUs=4
+\t (00:11:32) 
+\d (00:11:32) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/Slide switch/MLL1200S/SW_MLL1200S.dra
+\i (00:11:32) generaledit 
+\i (00:11:34) zoom out 1 
+\i (00:11:34) setwindow pcb
+\i (00:11:34) zoom out -2.1492 -0.9359
+\i (00:11:34) trapsize 5025
+\i (00:11:34) zoom out 1 
+\i (00:11:34) setwindow pcb
+\i (00:11:34) zoom out -2.1492 -0.9359
+\i (00:11:34) trapsize 5025
+\i (00:11:34) zoom out 1 
+\i (00:11:34) setwindow pcb
+\i (00:11:34) zoom out -2.1492 -0.9359
+\i (00:11:34) trapsize 5025
+\i (00:11:34) zoom out 1 
+\i (00:11:34) setwindow pcb
+\i (00:11:34) zoom out -2.1492 -0.9359
+\i (00:11:34) trapsize 5025
+\i (00:11:35) zoom in 1 
+\i (00:11:35) setwindow pcb
+\i (00:11:35) zoom in -0.6417 -4.6545
+\i (00:11:35) trapsize 2513
+\i (00:11:35) zoom in 1 
+\i (00:11:35) setwindow pcb
+\i (00:11:35) zoom in -7.3392 -4.6545
+\i (00:11:35) trapsize 1256
+\i (00:11:36) zoom in 1 
+\i (00:11:36) setwindow pcb
+\i (00:11:36) zoom in -7.3391 -4.6544
+\i (00:11:36) trapsize 628
+\i (00:11:36) zoom out 1 
+\i (00:11:36) setwindow pcb
+\i (00:11:36) zoom out -7.3265 -4.6418
+\i (00:11:36) trapsize 1256
+\e (00:11:58) Command not found: xdehilite
+\i (00:11:58) xname_flush 
+\i (00:11:58) done 
+\i (00:11:58) generaledit 
+\e (00:11:59) Command not found: xhilite
+\i (00:11:59) xname_flush 
+\i (00:11:59) done 
+\i (00:11:59) generaledit 
+\e (00:17:06) Command not found: xdehilite
+\i (00:17:06) xname_flush 
+\i (00:17:06) done 
+\e (00:17:06) Command not found: xhilite
+\i (00:17:06) xname_flush 
+\e (00:17:06) No command active
+\i (00:17:06) done 
+\e (00:17:06) No command active
+\i (00:17:06) generaledit 
+\e (00:17:07) Command not found: xdehilite
+\i (00:17:07) xname_flush 
+\i (00:17:07) done 
+\i (00:17:07) generaledit 
+\e (00:17:08) Command not found: xhilite
+\i (00:17:08) xname_flush 
+\i (00:17:08) done 
+\i (00:17:08) generaledit 
+\e (00:17:16) Command not found: xhilite
+\i (00:17:16) xname_flush 
+\i (00:17:16) done 
+\i (00:17:16) generaledit 
+\e (00:17:20) Command not found: xdehilite
+\i (00:17:20) xname_flush 
+\i (00:17:20) done 
+\e (00:17:20) Command not found: xhilite
+\i (00:17:20) xname_flush 
+\e (00:17:20) No command active
+\i (00:17:20) done 
+\e (00:17:20) No command active
+\i (00:17:20) generaledit 
+\e (00:17:23) Command not found: xhilite
+\i (00:17:23) xname_flush 
+\i (00:17:23) done 
+\i (00:17:23) generaledit 
+\e (00:17:26) Command not found: xdehilite
+\i (00:17:26) xname_flush 
+\i (00:17:26) done 
+\i (00:17:26) generaledit 
+\e (00:17:29) Command not found: xhilite
+\i (00:17:29) xname_flush 
+\i (00:17:29) done 
+\i (00:17:29) generaledit 
+\e (00:17:31) Command not found: xdehilite
+\i (00:17:31) xname_flush 
+\i (00:17:31) done 
+\i (00:17:31) generaledit 
+\e (00:17:31) Command not found: xhilite
+\i (00:17:31) xname_flush 
+\i (00:17:31) done 
+\i (00:17:31) generaledit 
+\e (00:17:32) Command not found: xdehilite
+\i (00:17:32) xname_flush 
+\i (00:17:32) done 
+\i (00:17:32) generaledit 
+\e (00:17:33) Command not found: xhilite
+\i (00:17:33) xname_flush 
+\i (00:17:33) done 
+\i (00:17:33) generaledit 
+\e (00:17:34) Command not found: xdehilite
+\i (00:17:34) xname_flush 
+\i (00:17:34) done 
+\i (00:17:34) generaledit 
+\e (00:20:36) Command not found: xhilite
+\i (00:20:36) xname_flush 
+\i (00:20:36) done 
+\i (00:20:36) generaledit 
+\i (00:28:44) exit 
+\t (00:28:45)     Journal end - Tue Apr 28 20:43:41 2020
