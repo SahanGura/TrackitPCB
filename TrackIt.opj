@@ -4,6 +4,10 @@
   (Folder "Design Resources"
     (Folder "Library"
       (File ".\library1.olb"
+        (Type "Schematic Library"))
+      (File ".\footprints\slide switch\js102011jcqn\js102011jcqn.olb"
+        (Type "Schematic Library"))
+      (File ".\footprints\transistor\mmbt3904\mmbt3904.olb"
         (Type "Schematic Library")))
     (NoModify)
     (File ".\trackit.dsn"
@@ -28,7 +32,7 @@
     (width_End "80")
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory"
-       "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\ALLERGO")
+       "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\ALLEGRO1")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -90,6 +94,42 @@
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (CON3
+      (FullPartName "CON3.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("Resisitor - 0805"
+      (FullPartName "Resisitor - 0805.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (Inductor
+      (FullPartName "Inductor.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (Transistor
+      (FullPartName "Transistor.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (BC547
+      (FullPartName "BC547.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    ("4 HEADER"
+      (FullPartName "4 HEADER.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (JS102011JCQN
+      (FullPartName "JS102011JCQN.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (MLL1200S
+      (FullPartName "MLL1200S.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
     ("2-pin Connector"
       (FullPartName "2-pin Connector.Normal")
       (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
@@ -102,20 +142,12 @@
       (FullPartName "Cap- 0805.Normal")
       (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
       (DeviceIndex "0"))
-    (Inductor
-      (FullPartName "Inductor.Normal")
-      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
-      (DeviceIndex "0"))
     (Bluetooth
       (FullPartName "Bluetooth.Normal")
       (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
       (DeviceIndex "0"))
     ("Push Button"
       (FullPartName "Push Button.Normal")
-      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
-      (DeviceIndex "0"))
-    ("Resisitor - 0805"
-      (FullPartName "Resisitor - 0805.Normal")
       (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
       (DeviceIndex "0"))
     ("N Channel MOSFET"
@@ -164,9 +196,15 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\trackit.dsn")
       (Path "Design Resources" ".\trackit.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\trackit.dsn" "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\library1.olb")
-      (Path "Outputs"))
+      (Path "Design Resources" "Library"
+         "c:\users\user\documents\github\trackitpcb\footprints\slide switch\js102011jcqn\js102011jcqn.olb")
+      (Path "Design Resources" "Library"
+         "c:\users\user\documents\github\trackitpcb\footprints\transistor\mmbt3904\mmbt3904.olb")
+      (Path "Outputs")
+      (Select "Design Resources" ".\trackit.dsn" "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -174,25 +212,47 @@
         (Placement "44 2 3 -1 -1 -9 -38 0 200 0 401"))
       (Tab 0))
     (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 64 1716 64 528")
-        (Scroll "-389 18")
-        (Zoom "85")
-        (Occurrence "/"))
-      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))
-    (Doc
       (Type "COrPartDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -9 -38 32 1313 32 496")
         (PackageScroll "0 0")
         (PackageZoom "1")
         (PartPackage "Part")
-        (Scroll "2913 929")
+        (Scroll "3258 511")
         (Zoom "570"))
-      (Path "C:\Users\user\Documents\GitHub\TrackitPCB\LIBRARY1.OLB")
-      (Package "Pin Header")))
+      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (Package "Pin Header"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 128 1780 128 592")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "122 21")
+        (Zoom "116"))
+      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (Package "Bluetooth"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 96 1378 96 560")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "4453 1413")
+        (Zoom "817"))
+      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (Package "JS102011JCQN"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 64 1716 64 528")
+        (Scroll "-389 0")
+        (Zoom "85")
+        (Occurrence "/"))
+      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
   (MPSSessionName "user")
   (ISPCBBASICLICENSE "false"))
