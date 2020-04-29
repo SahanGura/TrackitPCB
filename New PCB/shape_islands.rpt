@@ -1,0 +1,26 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : unnamed.brd                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Apr 30 04:53:21 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 9
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (1390.9681 201.5750)  Net: GND_POWER
+	Point on shape: (446.2710 1041.4691)  Net: GND_POWER
+	Point on shape: (908.1505 1093.5687)  Net: GND_POWER
+	Point on shape: (1053.9845 1316.7175)  Net: GND_POWER
+	Point on shape: (432.5002 1344.3112)  Net: GND_POWER
+	Point on shape: (1225.0000 50.0000)  Net: GND_POWER
+	Point on shape: (1177.3192 808.2876)  Net: GND_POWER
+	Point on shape: (985.6714 1035.2258)  Net: GND_POWER
+	Point on shape: (1170.2908 1032.5002)  Net: GND_POWER
