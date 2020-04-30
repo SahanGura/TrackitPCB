@@ -200,16 +200,16 @@
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\library1.olb")
       (Path "Design Resources" "Library"
-         "c:\users\user\documents\github\trackitpcb\footprints\slide switch\js102011jcqn\js102011jcqn.olb")
+         ".\footprints\slide switch\js102011jcqn\js102011jcqn.olb")
       (Path "Design Resources" "Library"
-         "c:\users\user\documents\github\trackitpcb\footprints\transistor\mmbt3904\mmbt3904.olb")
+         ".\footprints\transistor\mmbt3904\mmbt3904.olb")
       (Path "Outputs")
       (Select "Design Resources" ".\trackit.dsn" "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -9 -38 0 200 0 401"))
+        (Placement "44 0 1 -1 -1 -9 -38 0 200 0 401"))
       (Tab 0))
     (Doc
       (Type "COrPartDoc")
@@ -247,8 +247,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 64 1716 64 528")
-        (Scroll "-389 0")
+        (Placement "44 2 3 -1 -1 -9 -38 64 1716 64 528")
+        (Scroll "-526 -6")
         (Zoom "85")
         (Occurrence "/"))
       (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
