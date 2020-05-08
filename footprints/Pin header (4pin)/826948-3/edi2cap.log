@@ -4,7 +4,7 @@ Copyright (c) 1998-2005, Electronic Tools Company
 
 EDIF 2 0 0 to OrCAD Capture Schematic Conversion Program SPB 16.60_1.090 built Aug 29 2012
 
-Started on Wed Apr 29 14:07:31 2020
+Started on Fri May 08 10:37:52 2020
 
 Reading config file C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Pin header (4pin)\826948-3\EDI2CAP.CFG
 
@@ -35,7 +35,7 @@ Library C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\FOOTPRINTS\PIN HEADER (4PIN)\8
         'Min pin to pin spacing'=0.01250 inch(s), 'Grid'=1250 design unit(s), 
              results in 0 hotspots out of grid
 
-Finished on Wed Apr 29 14:07:32 2020
+Finished on Fri May 08 10:37:53 2020
 
 
 0 errors detected, 0 warnings detected

@@ -4,10 +4,6 @@
   (Folder "Design Resources"
     (Folder "Library"
       (File ".\library1.olb"
-        (Type "Schematic Library"))
-      (File ".\footprints\slide switch\js102011jcqn\js102011jcqn.olb"
-        (Type "Schematic Library"))
-      (File ".\footprints\transistor\mmbt3904\mmbt3904.olb"
         (Type "Schematic Library")))
     (NoModify)
     (File ".\trackit.dsn"
@@ -94,6 +90,41 @@
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (Inductor
+      (FullPartName "Inductor.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (GND_POWER
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC_ARROW
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("Pin Header"
+      (FullPartName "Pin Header.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("2-pin Connector"
+      (FullPartName "2-pin Connector.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-L
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("Resisitor - 0805"
+      (FullPartName "Resisitor - 0805.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (826948-3
+      (FullPartName "826948-3.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
     (CON3
       (FullPartName "CON3.Normal")
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
@@ -101,14 +132,6 @@
     (CON2
       (FullPartName "CON2.Normal")
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
-      (DeviceIndex "0"))
-    ("Resisitor - 0805"
-      (FullPartName "Resisitor - 0805.Normal")
-      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
-      (DeviceIndex "0"))
-    (Inductor
-      (FullPartName "Inductor.Normal")
-      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
       (DeviceIndex "0"))
     (Transistor
       (FullPartName "Transistor.Normal")
@@ -128,10 +151,6 @@
       (DeviceIndex "0"))
     (MLL1200S
       (FullPartName "MLL1200S.Normal")
-      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
-      (DeviceIndex "0"))
-    ("2-pin Connector"
-      (FullPartName "2-pin Connector.Normal")
       (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
       (DeviceIndex "0"))
     (TPS63031
@@ -162,97 +181,76 @@
       (FullPartName "Buzzer.Normal")
       (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
       (DeviceIndex "0"))
-    ("Pin Header"
-      (FullPartName "Pin Header.Normal")
-      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
-      (DeviceIndex "0"))
     ("Slide Switch"
       (FullPartName "Slide Switch.Normal")
       (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
-      (DeviceIndex "0"))
-    (CR0805-FX-3002ELF
-      (FullPartName "CR0805-FX-3002ELF.Normal")
-      (LibraryName
-         "C:\USERS\USER\DESKTOP\TRACKIT\FOOTPRINTS\RESISTOR 30K\CR0805-FX-3002ELF.OLB")
-      (DeviceIndex "0"))
-    (VCC_BAR
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (SS312SAH4-R
-      (FullPartName "SS312SAH4-R.Normal")
-      (LibraryName
-         "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\FOOTPRINTS\SLIDE SWITCH\SS312SAH4-R\SS312SAH4-R.OLB")
-      (DeviceIndex "0"))
-    (0805YD106KAT4A
-      (FullPartName "0805YD106KAT4A.Normal")
-      (LibraryName
-         "C:\USERS\USER\DESKTOP\TRACKIT\FOOTPRINTS\CAPACITOR\0805YD106KAT4A.OLB")
-      (DeviceIndex "0"))
-    (GND_POWER
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\trackit.dsn")
-      (Path "Design Resources" ".\trackit.dsn" "SCHEMATIC1")
-      (Path "Design Resources" ".\trackit.dsn" "Design Cache")
+      (Path "Design Resources"
+         "c:\users\user\documents\github\trackitpcb\trackit.dsn")
+      (Path "Design Resources"
+         "c:\users\user\documents\github\trackitpcb\trackit.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "c:\users\user\documents\github\trackitpcb\trackit.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" ".\library1.olb")
-      (Path "Design Resources" "Library"
-         ".\footprints\slide switch\js102011jcqn\js102011jcqn.olb")
-      (Path "Design Resources" "Library"
-         ".\footprints\transistor\mmbt3904\mmbt3904.olb")
-      (Path "Outputs")
-      (Select "Design Resources" ".\trackit.dsn" "SCHEMATIC1" "PAGE1"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 0 200 0 401"))
+        (Placement "44 2 3 -1 -1 -9 -38 0 200 0 401"))
       (Tab 0))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 32 1313 32 496")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "3258 511")
-        (Zoom "570"))
-      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
-      (Package "Pin Header"))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 128 1780 128 592")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "122 21")
-        (Zoom "116"))
-      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
-      (Package "Bluetooth"))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 96 1378 96 560")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "4453 1413")
-        (Zoom "817"))
-      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
-      (Package "JS102011JCQN"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -9 -38 64 1716 64 528")
-        (Scroll "-526 -6")
+        (Placement "44 0 1 -1 -1 -9 -38 192 1908 192 656")
+        (Scroll "-421 0")
         (Zoom "85")
         (Occurrence "/"))
       (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1")))
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 0 1716 0 464")
+        (Scroll "0 244")
+        (Zoom "148")
+        (Occurrence "/"))
+      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 160 1505 160 624")
+        (Scroll "426 436")
+        (Zoom "200")
+        (Occurrence "/Regulator"))
+      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
+      (Schematic "Power Supply")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 192 1537 192 656")
+        (Scroll "-215 0")
+        (Zoom "74")
+        (Occurrence "/IC"))
+      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
+      (Schematic "IC")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 0 1345 0 464")
+        (Scroll "216 324")
+        (Zoom "148")
+        (Occurrence "/Buzzer"))
+      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
+      (Schematic "Buzzer")
+      (Page "Buzzer")))
   (MPSSessionName "user")
   (ISPCBBASICLICENSE "false"))
