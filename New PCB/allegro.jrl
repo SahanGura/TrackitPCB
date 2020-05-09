@@ -1558,4 +1558,1862 @@ Run 'lic_error LMF-02015' for more information.'
 \i (187:38:27) xname_flush 
 \i (187:38:27) done 
 \i (187:38:27) generaledit 
-\i (187:39:
+\i (187:39:23) xhilite 
+\i (187:39:23) xNet Gnd_Power 
+\i (187:39:23) xNet 3.3V 
+\i (187:39:23) xname_flush 
+\i (187:39:23) trapsize 118704
+\t (187:39:23) Net "Gnd_Power" highlighted.
+\t (187:39:23) Net "3.3V" highlighted.
+\i (187:39:23) done 
+\i (187:39:23) generaledit 
+\i (187:39:25) xdehilite 
+\i (187:39:26) xNet Gnd_Power 
+\i (187:39:26) xNet 3.3V 
+\i (187:39:26) xname_flush 
+\t (187:39:26) Net "Gnd_Power" dehighlighted.
+\t (187:39:26) Net "3.3V" dehighlighted.
+\i (187:39:26) done 
+\i (187:39:26) generaledit 
+\i (187:41:36) xhilite 
+\i (187:41:36) xname_flush 
+\i (187:41:36) done 
+\i (187:41:36) generaledit 
+\i (187:41:57) xdehilite 
+\i (187:41:57) xname_flush 
+\i (187:41:57) done 
+\i (187:41:58) generaledit 
+\i (187:43:50) xhilite 
+\i (187:43:50) xname_flush 
+\i (187:43:50) done 
+\i (187:43:50) generaledit 
+\i (187:43:59) xdehilite 
+\i (187:43:59) xname_flush 
+\i (187:43:59) done 
+\i (187:43:59) generaledit 
+\i (187:44:01) xhilite 
+\i (187:44:01) xname_flush 
+\i (187:44:01) done 
+\i (187:44:01) generaledit 
+\i (187:44:16) xdehilite 
+\i (187:44:16) xname_flush 
+\i (187:44:16) done 
+\i (187:44:16) generaledit 
+\i (187:44:18) xhilite 
+\i (187:44:19) xname_flush 
+\i (187:44:19) done 
+\i (187:44:19) generaledit 
+\i (187:44:25) xhilite 
+\i (187:44:25) xname_flush 
+\i (187:44:25) done 
+\i (187:44:25) generaledit 
+\i (187:44:26) xdehilite 
+\i (187:44:26) xname_flush 
+\i (187:44:26) done 
+\i (187:44:26) generaledit 
+\i (196:04:35) xhilite 
+\i (196:04:35) xNet Gnd_Power 
+\i (196:04:35) xNet 3.3V 
+\i (196:04:35) xname_flush 
+\i (196:04:36) trapsize 118704
+\t (196:04:36) Net "Gnd_Power" highlighted.
+\t (196:04:36) Net "3.3V" highlighted.
+\i (196:04:36) done 
+\i (196:04:36) xdehilite 
+\i (196:04:36) xNet Gnd_Power 
+\i (196:04:36) xNet 3.3V 
+\i (196:04:36) xname_flush 
+\t (196:04:36) Net "Gnd_Power" dehighlighted.
+\t (196:04:36) Net "3.3V" dehighlighted.
+\i (196:04:36) done 
+\i (196:04:36) generaledit 
+\i (196:04:44) xhilite 
+\i (196:04:44) xNet Gnd_Power 
+\i (196:04:44) xNet 3.3V 
+\i (196:04:44) xname_flush 
+\i (196:04:44) trapsize 118704
+\t (196:04:44) Net "Gnd_Power" highlighted.
+\t (196:04:44) Net "3.3V" highlighted.
+\i (196:04:44) done 
+\i (196:04:44) generaledit 
+\i (196:04:45) xdehilite 
+\i (196:04:45) xNet Gnd_Power 
+\i (196:04:45) xNet 3.3V 
+\i (196:04:45) xname_flush 
+\t (196:04:45) Net "Gnd_Power" dehighlighted.
+\t (196:04:45) Net "3.3V" dehighlighted.
+\i (196:04:45) done 
+\i (196:04:45) generaledit 
+\i (196:04:48) xhilite 
+\i (196:04:49) xNet Gnd_Power 
+\i (196:04:49) xNet 3.3V 
+\i (196:04:49) xname_flush 
+\i (196:04:49) trapsize 118704
+\t (196:04:49) Net "Gnd_Power" highlighted.
+\t (196:04:49) Net "3.3V" highlighted.
+\i (196:04:49) done 
+\i (196:04:49) generaledit 
+\i (196:04:49) xdehilite 
+\i (196:04:49) xNet Gnd_Power 
+\i (196:04:49) xNet 3.3V 
+\i (196:04:49) xname_flush 
+\t (196:04:49) Net "Gnd_Power" dehighlighted.
+\t (196:04:49) Net "3.3V" dehighlighted.
+\i (196:04:49) done 
+\i (196:04:49) generaledit 
+\i (196:06:21) xhilite 
+\i (196:06:21) xNet Gnd_Power 
+\i (196:06:21) xNet 3.3V 
+\i (196:06:21) xname_flush 
+\i (196:06:21) trapsize 118704
+\t (196:06:21) Net "Gnd_Power" highlighted.
+\t (196:06:21) Net "3.3V" highlighted.
+\i (196:06:21) done 
+\i (196:06:21) generaledit 
+\i (196:06:22) xdehilite 
+\i (196:06:22) xNet Gnd_Power 
+\i (196:06:22) xNet 3.3V 
+\i (196:06:22) xname_flush 
+\t (196:06:22) Net "Gnd_Power" dehighlighted.
+\t (196:06:22) Net "3.3V" dehighlighted.
+\i (196:06:22) done 
+\i (196:06:22) generaledit 
+\i (211:19:47) xhilite 
+\i (211:19:47) xNet Gnd_Power 
+\i (211:19:47) xname_flush 
+\i (211:19:47) trapsize 118704
+\t (211:19:47) Net "Gnd_Power" highlighted.
+\i (211:19:47) done 
+\i (211:19:47) generaledit 
+\i (211:19:48) xdehilite 
+\i (211:19:48) xNet Gnd_Power 
+\i (211:19:48) xname_flush 
+\t (211:19:48) Net "Gnd_Power" dehighlighted.
+\i (211:19:48) done 
+\i (211:19:48) xhilite 
+\i (211:19:48) xNet Gnd_Power 
+\i (211:19:48) xname_flush 
+\i (211:19:48) trapsize 118704
+\t (211:19:48) Net "Gnd_Power" highlighted.
+\i (211:19:48) done 
+\i (211:19:48) generaledit 
+\i (211:19:49) xdehilite 
+\i (211:19:49) xNet Gnd_Power 
+\i (211:19:49) xname_flush 
+\t (211:19:49) Net "Gnd_Power" dehighlighted.
+\i (211:19:49) done 
+\i (211:19:49) generaledit 
+\i (211:29:38) xhilite 
+\i (211:29:38) xNet Gnd_Power 
+\i (211:29:38) xNet 3.3V 
+\i (211:29:38) xname_flush 
+\i (211:29:38) trapsize 118704
+\t (211:29:38) Net "Gnd_Power" highlighted.
+\t (211:29:38) Net "3.3V" highlighted.
+\i (211:29:38) done 
+\i (211:29:38) generaledit 
+\i (211:29:39) xdehilite 
+\i (211:29:39) xNet Gnd_Power 
+\i (211:29:39) xNet 3.3V 
+\i (211:29:39) xname_flush 
+\t (211:29:39) Net "Gnd_Power" dehighlighted.
+\t (211:29:39) Net "3.3V" dehighlighted.
+\i (211:29:39) done 
+\i (211:29:39) generaledit 
+\i (211:29:46) xhilite 
+\i (211:29:47) xNet Gnd_Power 
+\i (211:29:47) xNet 3.3V 
+\i (211:29:47) xname_flush 
+\i (211:29:47) trapsize 118704
+\t (211:29:47) Net "Gnd_Power" highlighted.
+\t (211:29:47) Net "3.3V" highlighted.
+\i (211:29:47) done 
+\i (211:29:47) generaledit 
+\i (211:29:48) xdehilite 
+\i (211:29:48) xNet Gnd_Power 
+\i (211:29:48) xNet 3.3V 
+\i (211:29:48) xname_flush 
+\t (211:29:48) Net "Gnd_Power" dehighlighted.
+\t (211:29:48) Net "3.3V" dehighlighted.
+\i (211:29:48) done 
+\i (211:29:48) generaledit 
+\i (211:29:50) xhilite 
+\i (211:29:50) xNet Gnd_Power 
+\i (211:29:50) xNet 3.3V 
+\i (211:29:50) xname_flush 
+\i (211:29:50) trapsize 118704
+\t (211:29:50) Net "Gnd_Power" highlighted.
+\t (211:29:50) Net "3.3V" highlighted.
+\i (211:29:50) done 
+\i (211:29:50) generaledit 
+\i (211:29:50) xdehilite 
+\i (211:29:50) xNet Gnd_Power 
+\i (211:29:50) xNet 3.3V 
+\i (211:29:50) xname_flush 
+\t (211:29:50) Net "Gnd_Power" dehighlighted.
+\t (211:29:50) Net "3.3V" dehighlighted.
+\i (211:29:50) done 
+\i (211:29:51) generaledit 
+\i (211:30:04) xhilite 
+\i (211:30:04) xNet Gnd_Power 
+\i (211:30:04) xNet 3.3V 
+\i (211:30:04) xname_flush 
+\i (211:30:04) trapsize 118704
+\t (211:30:04) Net "Gnd_Power" highlighted.
+\t (211:30:04) Net "3.3V" highlighted.
+\i (211:30:04) done 
+\i (211:30:04) generaledit 
+\i (211:30:05) xdehilite 
+\i (211:30:05) xNet Gnd_Power 
+\i (211:30:05) xNet 3.3V 
+\i (211:30:05) xname_flush 
+\t (211:30:05) Net "Gnd_Power" dehighlighted.
+\t (211:30:05) Net "3.3V" dehighlighted.
+\i (211:30:05) done 
+\i (211:30:05) generaledit 
+\i (211:30:10) xhilite 
+\i (211:30:10) xNet Gnd_Power 
+\i (211:30:10) xNet 3.3V 
+\i (211:30:10) xname_flush 
+\i (211:30:10) trapsize 118704
+\t (211:30:10) Net "Gnd_Power" highlighted.
+\t (211:30:10) Net "3.3V" highlighted.
+\i (211:30:10) done 
+\i (211:30:10) generaledit 
+\i (211:30:10) xdehilite 
+\i (211:30:10) xNet Gnd_Power 
+\i (211:30:10) xNet 3.3V 
+\i (211:30:10) xname_flush 
+\t (211:30:10) Net "Gnd_Power" dehighlighted.
+\t (211:30:10) Net "3.3V" dehighlighted.
+\i (211:30:10) done 
+\i (211:30:11) generaledit 
+\i (211:30:13) xhilite 
+\i (211:30:13) xNet Gnd_Power 
+\i (211:30:13) xNet 3.3V 
+\i (211:30:13) xname_flush 
+\i (211:30:13) trapsize 118704
+\t (211:30:13) Net "Gnd_Power" highlighted.
+\t (211:30:13) Net "3.3V" highlighted.
+\i (211:30:13) done 
+\i (211:30:13) generaledit 
+\i (211:30:14) xdehilite 
+\i (211:30:14) xNet Gnd_Power 
+\i (211:30:14) xNet 3.3V 
+\i (211:30:14) xname_flush 
+\t (211:30:14) Net "Gnd_Power" dehighlighted.
+\t (211:30:14) Net "3.3V" dehighlighted.
+\i (211:30:14) done 
+\i (211:30:14) generaledit 
+\i (211:31:00) xhilite 
+\i (211:31:00) xNet Gnd_Power 
+\i (211:31:00) xNet 3.3V 
+\i (211:31:00) xname_flush 
+\i (211:31:00) trapsize 118704
+\t (211:31:00) Net "Gnd_Power" highlighted.
+\t (211:31:00) Net "3.3V" highlighted.
+\i (211:31:00) done 
+\i (211:31:00) generaledit 
+\i (211:31:00) xdehilite 
+\i (211:31:00) xNet Gnd_Power 
+\i (211:31:00) xNet 3.3V 
+\i (211:31:00) xname_flush 
+\t (211:31:00) Net "Gnd_Power" dehighlighted.
+\t (211:31:00) Net "3.3V" dehighlighted.
+\i (211:31:00) done 
+\i (211:31:00) generaledit 
+\i (211:31:05) xhilite 
+\i (211:31:05) xNet Gnd_Power 
+\i (211:31:05) xNet 3.3V 
+\i (211:31:05) xname_flush 
+\i (211:31:05) trapsize 118704
+\t (211:31:05) Net "Gnd_Power" highlighted.
+\t (211:31:05) Net "3.3V" highlighted.
+\i (211:31:05) done 
+\i (211:31:05) generaledit 
+\i (211:31:06) xdehilite 
+\i (211:31:06) xNet Gnd_Power 
+\i (211:31:06) xNet 3.3V 
+\i (211:31:06) xname_flush 
+\t (211:31:06) Net "Gnd_Power" dehighlighted.
+\t (211:31:06) Net "3.3V" dehighlighted.
+\i (211:31:06) done 
+\i (211:31:06) generaledit 
+\i (211:31:16) xhilite 
+\i (211:31:16) xNet Gnd_Power 
+\i (211:31:16) xNet 3.3V 
+\i (211:31:16) xname_flush 
+\i (211:31:16) trapsize 118704
+\t (211:31:16) Net "Gnd_Power" highlighted.
+\t (211:31:16) Net "3.3V" highlighted.
+\i (211:31:16) done 
+\i (211:31:16) generaledit 
+\i (211:31:17) xdehilite 
+\i (211:31:17) xNet Gnd_Power 
+\i (211:31:17) xNet 3.3V 
+\i (211:31:17) xname_flush 
+\t (211:31:17) Net "Gnd_Power" dehighlighted.
+\t (211:31:17) Net "3.3V" dehighlighted.
+\i (211:31:17) done 
+\i (211:31:17) generaledit 
+\i (211:31:21) xhilite 
+\i (211:31:21) xNet Gnd_Power 
+\i (211:31:21) xNet 3.3V 
+\i (211:31:21) xname_flush 
+\i (211:31:21) trapsize 118704
+\t (211:31:21) Net "Gnd_Power" highlighted.
+\t (211:31:21) Net "3.3V" highlighted.
+\i (211:31:21) done 
+\i (211:31:21) generaledit 
+\i (211:31:22) xdehilite 
+\i (211:31:22) xNet Gnd_Power 
+\i (211:31:22) xNet 3.3V 
+\i (211:31:22) xname_flush 
+\t (211:31:22) Net "Gnd_Power" dehighlighted.
+\t (211:31:22) Net "3.3V" dehighlighted.
+\i (211:31:22) done 
+\i (211:31:22) generaledit 
+\i (211:35:58) xhilite 
+\i (211:35:58) xNet 3.3V 
+\i (211:35:58) xname_flush 
+\i (211:35:58) trapsize 118704
+\t (211:35:58) Net "3.3V" highlighted.
+\i (211:35:59) done 
+\i (211:35:59) generaledit 
+\i (211:36:01) xdehilite 
+\i (211:36:01) xname_flush 
+\i (211:36:01) done 
+\i (211:36:01) generaledit 
+\i (211:36:03) xhilite 
+\i (211:36:03) xNet 3.3V 
+\i (211:36:03) xname_flush 
+\i (211:36:03) trapsize 118704
+\t (211:36:03) Net "3.3V" highlighted.
+\i (211:36:03) done 
+\i (211:36:03) generaledit 
+\i (211:36:05) xdehilite 
+\i (211:36:05) xNet 3.3V 
+\i (211:36:05) xname_flush 
+\t (211:36:05) Net "3.3V" dehighlighted.
+\i (211:36:05) done 
+\i (211:36:05) generaledit 
+\i (211:36:06) xhilite 
+\i (211:36:06) xNet 3.3V 
+\i (211:36:06) xname_flush 
+\i (211:36:06) trapsize 118704
+\t (211:36:06) Net "3.3V" highlighted.
+\i (211:36:06) done 
+\i (211:36:06) generaledit 
+\i (211:36:08) xdehilite 
+\i (211:36:08) xNet 3.3V 
+\i (211:36:08) xname_flush 
+\t (211:36:08) Net "3.3V" dehighlighted.
+\i (211:36:08) done 
+\i (211:36:08) xhilite 
+\i (211:36:08) xNet 3.3V 
+\i (211:36:08) xname_flush 
+\i (211:36:08) trapsize 118704
+\t (211:36:08) Net "3.3V" highlighted.
+\i (211:36:08) done 
+\i (211:36:08) generaledit 
+\i (211:36:10) xdehilite 
+\i (211:36:10) xNet 3.3V 
+\i (211:36:10) xname_flush 
+\t (211:36:10) Net "3.3V" dehighlighted.
+\i (211:36:10) done 
+\i (211:36:10) generaledit 
+\i (211:36:13) xhilite 
+\i (211:36:13) xNet 3.3V 
+\i (211:36:13) xname_flush 
+\i (211:36:13) trapsize 118704
+\t (211:36:13) Net "3.3V" highlighted.
+\i (211:36:13) done 
+\i (211:36:13) generaledit 
+\i (211:36:23) xdehilite 
+\i (211:36:23) xNet 3.3V 
+\i (211:36:23) xname_flush 
+\t (211:36:23) Net "3.3V" dehighlighted.
+\i (211:36:24) done 
+\i (211:36:24) generaledit 
+\i (211:36:33) xhilite 
+\i (211:36:33) xNet Gnd_Power 
+\i (211:36:33) xNet 3.3V 
+\i (211:36:33) xname_flush 
+\i (211:36:33) trapsize 118704
+\t (211:36:33) Net "Gnd_Power" highlighted.
+\t (211:36:33) Net "3.3V" highlighted.
+\i (211:36:33) done 
+\i (211:36:33) generaledit 
+\i (211:36:34) xdehilite 
+\i (211:36:34) xNet Gnd_Power 
+\i (211:36:34) xNet 3.3V 
+\i (211:36:34) xname_flush 
+\t (211:36:34) Net "Gnd_Power" dehighlighted.
+\t (211:36:34) Net "3.3V" dehighlighted.
+\i (211:36:34) done 
+\i (211:36:34) generaledit 
+\i (211:36:38) xhilite 
+\i (211:36:38) xNet Gnd_Power 
+\i (211:36:38) xNet 3.3V 
+\i (211:36:38) xname_flush 
+\i (211:36:38) trapsize 118704
+\t (211:36:38) Net "Gnd_Power" highlighted.
+\t (211:36:38) Net "3.3V" highlighted.
+\i (211:36:38) done 
+\i (211:36:38) generaledit 
+\i (211:36:40) xdehilite 
+\i (211:36:40) xNet Gnd_Power 
+\i (211:36:40) xNet 3.3V 
+\i (211:36:40) xname_flush 
+\t (211:36:40) Net "Gnd_Power" dehighlighted.
+\t (211:36:40) Net "3.3V" dehighlighted.
+\i (211:36:40) done 
+\i (211:36:40) generaledit 
+\i (211:36:44) xhilite 
+\i (211:36:44) xNet Gnd_Power 
+\i (211:36:44) xNet 3.3V 
+\i (211:36:44) xname_flush 
+\i (211:36:44) trapsize 118704
+\t (211:36:44) Net "Gnd_Power" highlighted.
+\t (211:36:44) Net "3.3V" highlighted.
+\i (211:36:44) done 
+\i (211:36:44) generaledit 
+\i (211:36:45) xdehilite 
+\i (211:36:45) xNet Gnd_Power 
+\i (211:36:45) xNet 3.3V 
+\i (211:36:45) xname_flush 
+\t (211:36:45) Net "Gnd_Power" dehighlighted.
+\t (211:36:45) Net "3.3V" dehighlighted.
+\i (211:36:45) done 
+\i (211:36:45) generaledit 
+\i (211:36:48) xhilite 
+\i (211:36:48) xNet Gnd_Power 
+\i (211:36:48) xNet 3.3V 
+\i (211:36:48) xname_flush 
+\i (211:36:48) trapsize 118704
+\t (211:36:48) Net "Gnd_Power" highlighted.
+\t (211:36:48) Net "3.3V" highlighted.
+\i (211:36:48) done 
+\i (211:36:48) generaledit 
+\i (211:36:50) xdehilite 
+\i (211:36:50) xNet Gnd_Power 
+\i (211:36:50) xNet 3.3V 
+\i (211:36:50) xname_flush 
+\t (211:36:50) Net "Gnd_Power" dehighlighted.
+\t (211:36:50) Net "3.3V" dehighlighted.
+\i (211:36:50) done 
+\i (211:36:50) generaledit 
+\i (211:39:34) xhilite 
+\i (211:39:34) xNet Gnd_Power 
+\i (211:39:34) xNet 3.3V 
+\i (211:39:34) xname_flush 
+\i (211:39:34) trapsize 118704
+\t (211:39:34) Net "Gnd_Power" highlighted.
+\t (211:39:34) Net "3.3V" highlighted.
+\i (211:39:34) done 
+\i (211:39:34) generaledit 
+\i (211:39:35) xdehilite 
+\i (211:39:35) xNet Gnd_Power 
+\i (211:39:35) xNet 3.3V 
+\i (211:39:35) xname_flush 
+\t (211:39:35) Net "Gnd_Power" dehighlighted.
+\t (211:39:35) Net "3.3V" dehighlighted.
+\i (211:39:35) done 
+\i (211:39:35) generaledit 
+\i (211:40:16) xhilite 
+\i (211:40:16) xNet Gnd_Power 
+\i (211:40:16) xNet 3.3V 
+\i (211:40:16) xname_flush 
+\i (211:40:16) trapsize 118704
+\t (211:40:16) Net "Gnd_Power" highlighted.
+\t (211:40:16) Net "3.3V" highlighted.
+\i (211:40:16) done 
+\i (211:40:16) generaledit 
+\i (211:40:17) xdehilite 
+\i (211:40:17) xNet Gnd_Power 
+\i (211:40:17) xNet 3.3V 
+\i (211:40:17) xname_flush 
+\t (211:40:17) Net "Gnd_Power" dehighlighted.
+\t (211:40:17) Net "3.3V" dehighlighted.
+\i (211:40:17) done 
+\i (211:40:17) generaledit 
+\i (211:42:43) xhilite 
+\i (211:42:43) xname_flush 
+\i (211:42:43) done 
+\i (211:42:43) generaledit 
+\i (211:42:46) xdehilite 
+\i (211:42:46) xname_flush 
+\i (211:42:46) done 
+\i (211:42:46) generaledit 
+\i (211:45:51) xhilite 
+\i (211:45:51) xNet Gnd_Power 
+\i (211:45:51) xNet 3.3V 
+\i (211:45:51) xname_flush 
+\i (211:45:51) trapsize 118704
+\t (211:45:51) Net "Gnd_Power" highlighted.
+\t (211:45:51) Net "3.3V" highlighted.
+\i (211:45:51) done 
+\i (211:45:51) generaledit 
+\i (211:45:52) xdehilite 
+\i (211:45:52) xNet Gnd_Power 
+\i (211:45:52) xNet 3.3V 
+\i (211:45:52) xname_flush 
+\t (211:45:52) Net "Gnd_Power" dehighlighted.
+\t (211:45:52) Net "3.3V" dehighlighted.
+\i (211:45:52) done 
+\i (211:45:52) generaledit 
+\i (211:49:55) xhilite 
+\i (211:49:55) xNet Gnd_Power 
+\i (211:49:55) xNet 3.3V 
+\i (211:49:55) xname_flush 
+\i (211:49:55) trapsize 118704
+\t (211:49:55) Net "Gnd_Power" highlighted.
+\t (211:49:55) Net "3.3V" highlighted.
+\i (211:49:55) done 
+\i (211:49:55) generaledit 
+\i (211:49:55) xdehilite 
+\i (211:49:55) xNet Gnd_Power 
+\i (211:49:55) xNet 3.3V 
+\i (211:49:55) xname_flush 
+\t (211:49:55) Net "Gnd_Power" dehighlighted.
+\t (211:49:55) Net "3.3V" dehighlighted.
+\i (211:49:55) done 
+\i (211:49:55) generaledit 
+\i (211:50:07) xhilite 
+\i (211:50:07) xNet Gnd_Power 
+\i (211:50:07) xNet 3.3V 
+\i (211:50:07) xname_flush 
+\i (211:50:07) trapsize 118704
+\t (211:50:07) Net "Gnd_Power" highlighted.
+\t (211:50:07) Net "3.3V" highlighted.
+\i (211:50:07) done 
+\i (211:50:07) generaledit 
+\i (211:50:08) xdehilite 
+\i (211:50:08) xNet Gnd_Power 
+\i (211:50:08) xNet 3.3V 
+\i (211:50:08) xname_flush 
+\t (211:50:08) Net "Gnd_Power" dehighlighted.
+\t (211:50:08) Net "3.3V" dehighlighted.
+\i (211:50:08) done 
+\i (211:50:08) generaledit 
+\i (211:50:13) xhilite 
+\i (211:50:13) xNet Gnd_Power 
+\i (211:50:13) xNet 3.3V 
+\i (211:50:13) xname_flush 
+\i (211:50:13) trapsize 118704
+\t (211:50:13) Net "Gnd_Power" highlighted.
+\t (211:50:13) Net "3.3V" highlighted.
+\i (211:50:13) done 
+\i (211:50:13) generaledit 
+\i (211:50:13) xdehilite 
+\i (211:50:13) xNet Gnd_Power 
+\i (211:50:13) xNet 3.3V 
+\i (211:50:13) xname_flush 
+\t (211:50:13) Net "Gnd_Power" dehighlighted.
+\t (211:50:13) Net "3.3V" dehighlighted.
+\i (211:50:13) done 
+\i (211:50:13) generaledit 
+\i (211:50:22) xhilite 
+\i (211:50:22) xNet Gnd_Power 
+\i (211:50:22) xNet 3.3V 
+\i (211:50:22) xname_flush 
+\i (211:50:22) trapsize 118704
+\t (211:50:22) Net "Gnd_Power" highlighted.
+\t (211:50:22) Net "3.3V" highlighted.
+\i (211:50:22) done 
+\i (211:50:22) generaledit 
+\i (211:50:22) xdehilite 
+\i (211:50:22) xNet Gnd_Power 
+\i (211:50:22) xNet 3.3V 
+\i (211:50:22) xname_flush 
+\t (211:50:22) Net "Gnd_Power" dehighlighted.
+\t (211:50:22) Net "3.3V" dehighlighted.
+\i (211:50:22) done 
+\i (211:50:22) generaledit 
+\i (211:50:25) xhilite 
+\i (211:50:26) xname_flush 
+\i (211:50:26) done 
+\i (211:50:26) generaledit 
+\i (211:50:26) xdehilite 
+\i (211:50:26) xname_flush 
+\i (211:50:26) done 
+\i (211:50:26) generaledit 
+\i (211:50:35) xhilite 
+\i (211:50:35) xNet Gnd_Power 
+\i (211:50:35) xNet 3.3V 
+\i (211:50:35) xname_flush 
+\i (211:50:35) trapsize 118704
+\t (211:50:35) Net "Gnd_Power" highlighted.
+\t (211:50:35) Net "3.3V" highlighted.
+\i (211:50:35) done 
+\i (211:50:35) generaledit 
+\i (211:50:35) xdehilite 
+\i (211:50:35) xNet Gnd_Power 
+\i (211:50:35) xNet 3.3V 
+\i (211:50:35) xname_flush 
+\t (211:50:35) Net "Gnd_Power" dehighlighted.
+\t (211:50:35) Net "3.3V" dehighlighted.
+\i (211:50:35) done 
+\i (211:50:35) generaledit 
+\i (211:50:47) xhilite 
+\i (211:50:47) xNet Gnd_Power 
+\i (211:50:47) xname_flush 
+\i (211:50:47) trapsize 118704
+\t (211:50:47) Net "Gnd_Power" highlighted.
+\i (211:50:47) done 
+\i (211:50:47) generaledit 
+\i (211:50:49) xdehilite 
+\i (211:50:49) xNet Gnd_Power 
+\i (211:50:49) xname_flush 
+\t (211:50:49) Net "Gnd_Power" dehighlighted.
+\i (211:50:49) done 
+\i (211:50:49) generaledit 
+\i (211:50:52) xhilite 
+\i (211:50:52) xNet Gnd_Power 
+\i (211:50:52) xname_flush 
+\i (211:50:52) trapsize 118704
+\t (211:50:52) Net "Gnd_Power" highlighted.
+\i (211:50:52) done 
+\i (211:50:52) generaledit 
+\i (211:50:55) xdehilite 
+\i (211:50:55) xNet Gnd_Power 
+\i (211:50:55) xname_flush 
+\t (211:50:55) Net "Gnd_Power" dehighlighted.
+\i (211:50:55) done 
+\i (211:50:55) generaledit 
+\i (211:50:56) xhilite 
+\i (211:50:56) xNet Gnd_Power 
+\i (211:50:56) xname_flush 
+\i (211:50:56) trapsize 118704
+\t (211:50:56) Net "Gnd_Power" highlighted.
+\i (211:50:56) done 
+\i (211:50:56) generaledit 
+\i (211:51:02) xhilite 
+\i (211:51:02) xNet Gnd_Power 
+\i (211:51:02) xname_flush 
+\i (211:51:02) trapsize 118704
+\t (211:51:02) Net "Gnd_Power" highlighted.
+\i (211:51:02) done 
+\i (211:51:02) generaledit 
+\i (211:51:03) xdehilite 
+\i (211:51:03) xNet Gnd_Power 
+\i (211:51:03) xname_flush 
+\t (211:51:03) Net "Gnd_Power" dehighlighted.
+\i (211:51:03) done 
+\i (211:51:03) generaledit 
+\i (211:51:06) xhilite 
+\i (211:51:06) xNet Gnd_Power 
+\i (211:51:06) xname_flush 
+\i (211:51:06) trapsize 118704
+\t (211:51:06) Net "Gnd_Power" highlighted.
+\i (211:51:06) done 
+\i (211:51:06) generaledit 
+\i (211:51:08) xdehilite 
+\i (211:51:08) xname_flush 
+\i (211:51:08) done 
+\i (211:51:08) generaledit 
+\i (211:51:09) xhilite 
+\i (211:51:09) xNet Gnd_Power 
+\i (211:51:09) xname_flush 
+\i (211:51:09) trapsize 118704
+\t (211:51:09) Net "Gnd_Power" highlighted.
+\i (211:51:09) done 
+\i (211:51:09) generaledit 
+\i (211:51:12) xdehilite 
+\i (211:51:12) xNet Gnd_Power 
+\i (211:51:12) xname_flush 
+\t (211:51:12) Net "Gnd_Power" dehighlighted.
+\i (211:51:12) done 
+\i (211:51:12) generaledit 
+\i (211:51:19) xhilite 
+\i (211:51:19) xNet Gnd_Power 
+\i (211:51:19) xname_flush 
+\i (211:51:19) trapsize 118704
+\t (211:51:19) Net "Gnd_Power" highlighted.
+\i (211:51:19) done 
+\i (211:51:19) generaledit 
+\i (211:51:21) xdehilite 
+\i (211:51:21) xNet Gnd_Power 
+\i (211:51:21) xname_flush 
+\t (211:51:21) Net "Gnd_Power" dehighlighted.
+\i (211:51:21) done 
+\i (211:51:21) generaledit 
+\i (211:51:23) xhilite 
+\i (211:51:23) xNet Gnd_Power 
+\i (211:51:23) xname_flush 
+\i (211:51:23) trapsize 118704
+\t (211:51:23) Net "Gnd_Power" highlighted.
+\i (211:51:23) done 
+\i (211:51:23) generaledit 
+\i (211:51:23) xdehilite 
+\i (211:51:23) xNet Gnd_Power 
+\i (211:51:23) xname_flush 
+\t (211:51:23) Net "Gnd_Power" dehighlighted.
+\i (211:51:23) done 
+\i (211:51:24) generaledit 
+\i (211:52:24) xhilite 
+\i (211:52:24) xname_flush 
+\i (211:52:24) done 
+\i (211:52:24) generaledit 
+\i (211:52:51) xdehilite 
+\i (211:52:51) xname_flush 
+\i (211:52:51) done 
+\i (211:52:51) generaledit 
+\i (211:53:02) xhilite 
+\i (211:53:02) xname_flush 
+\i (211:53:02) done 
+\i (211:53:02) generaledit 
+\i (211:53:31) xdehilite 
+\i (211:53:31) xname_flush 
+\i (211:53:31) done 
+\i (211:53:31) generaledit 
+\i (211:54:18) xhilite 
+\i (211:54:18) xname_flush 
+\i (211:54:18) done 
+\i (211:54:18) generaledit 
+\i (211:54:19) xdehilite 
+\i (211:54:19) xname_flush 
+\i (211:54:19) done 
+\i (211:54:19) generaledit 
+\i (211:54:27) xhilite 
+\i (211:54:27) xname_flush 
+\i (211:54:27) done 
+\i (211:54:27) generaledit 
+\i (211:54:28) xdehilite 
+\i (211:54:28) xname_flush 
+\i (211:54:28) done 
+\i (211:54:28) generaledit 
+\i (212:01:37) xhilite 
+\i (212:01:37) xNet 3.3V 
+\i (212:01:37) xNet Gnd_Power 
+\i (212:01:37) xname_flush 
+\i (212:01:37) trapsize 118704
+\t (212:01:37) Net "3.3V" highlighted.
+\t (212:01:37) Net "Gnd_Power" highlighted.
+\i (212:01:37) done 
+\i (212:01:37) generaledit 
+\i (212:01:39) xdehilite 
+\i (212:01:39) xNet 3.3V 
+\i (212:01:39) xNet Gnd_Power 
+\i (212:01:39) xname_flush 
+\t (212:01:39) Net "3.3V" dehighlighted.
+\t (212:01:39) Net "Gnd_Power" dehighlighted.
+\i (212:01:39) done 
+\i (212:01:39) generaledit 
+\i (212:01:47) xhilite 
+\i (212:01:47) xNet 3.3V 
+\i (212:01:47) xNet Gnd_Power 
+\i (212:01:47) xname_flush 
+\i (212:01:47) trapsize 118704
+\t (212:01:47) Net "3.3V" highlighted.
+\t (212:01:47) Net "Gnd_Power" highlighted.
+\i (212:01:47) done 
+\i (212:01:47) generaledit 
+\i (212:01:53) xdehilite 
+\i (212:01:53) xNet 3.3V 
+\i (212:01:53) xNet Gnd_Power 
+\i (212:01:53) xname_flush 
+\t (212:01:53) Net "3.3V" dehighlighted.
+\t (212:01:53) Net "Gnd_Power" dehighlighted.
+\i (212:01:53) done 
+\i (212:01:53) generaledit 
+\i (212:01:58) xhilite 
+\i (212:01:58) xNet Gnd_Power 
+\i (212:01:58) xNet 3.3V 
+\i (212:01:58) xname_flush 
+\i (212:01:58) trapsize 118704
+\t (212:01:58) Net "Gnd_Power" highlighted.
+\t (212:01:58) Net "3.3V" highlighted.
+\i (212:01:58) done 
+\i (212:01:58) generaledit 
+\i (212:02:01) xdehilite 
+\i (212:02:01) xNet Gnd_Power 
+\i (212:02:01) xNet 3.3V 
+\i (212:02:01) xname_flush 
+\t (212:02:01) Net "Gnd_Power" dehighlighted.
+\t (212:02:01) Net "3.3V" dehighlighted.
+\i (212:02:01) done 
+\i (212:02:01) generaledit 
+\i (212:02:02) xhilite 
+\i (212:02:02) xNet Gnd_Power 
+\i (212:02:02) xname_flush 
+\i (212:02:02) trapsize 118704
+\t (212:02:02) Net "Gnd_Power" highlighted.
+\i (212:02:02) done 
+\i (212:02:02) generaledit 
+\i (212:02:05) xdehilite 
+\i (212:02:05) xname_flush 
+\i (212:02:05) done 
+\i (212:02:05) generaledit 
+\i (212:02:12) xhilite 
+\i (212:02:12) xNet Gnd_Power 
+\i (212:02:13) xNet 3.3V 
+\i (212:02:13) xname_flush 
+\i (212:02:13) trapsize 118704
+\t (212:02:13) Net "Gnd_Power" highlighted.
+\t (212:02:13) Net "3.3V" highlighted.
+\i (212:02:13) done 
+\i (212:02:13) generaledit 
+\i (212:02:13) xdehilite 
+\i (212:02:13) xNet Gnd_Power 
+\i (212:02:13) xNet 3.3V 
+\i (212:02:13) xname_flush 
+\t (212:02:13) Net "Gnd_Power" dehighlighted.
+\t (212:02:13) Net "3.3V" dehighlighted.
+\i (212:02:13) done 
+\i (212:02:13) generaledit 
+\i (212:02:16) xhilite 
+\i (212:02:16) xNet Gnd_Power 
+\i (212:02:16) xNet 3.3V 
+\i (212:02:16) xname_flush 
+\i (212:02:16) trapsize 118704
+\t (212:02:16) Net "Gnd_Power" highlighted.
+\t (212:02:16) Net "3.3V" highlighted.
+\i (212:02:16) done 
+\i (212:02:16) generaledit 
+\i (212:02:16) xdehilite 
+\i (212:02:16) xNet Gnd_Power 
+\i (212:02:16) xNet 3.3V 
+\i (212:02:16) xname_flush 
+\t (212:02:16) Net "Gnd_Power" dehighlighted.
+\t (212:02:16) Net "3.3V" dehighlighted.
+\i (212:02:16) done 
+\i (212:02:16) generaledit 
+\i (212:02:19) xhilite 
+\i (212:02:19) xNet Gnd_Power 
+\i (212:02:19) xNet 3.3V 
+\i (212:02:19) xname_flush 
+\i (212:02:19) trapsize 118704
+\t (212:02:19) Net "Gnd_Power" highlighted.
+\t (212:02:19) Net "3.3V" highlighted.
+\i (212:02:19) done 
+\i (212:02:19) generaledit 
+\i (212:02:20) xdehilite 
+\i (212:02:20) xNet Gnd_Power 
+\i (212:02:20) xNet 3.3V 
+\i (212:02:20) xname_flush 
+\t (212:02:20) Net "Gnd_Power" dehighlighted.
+\t (212:02:20) Net "3.3V" dehighlighted.
+\i (212:02:21) done 
+\i (212:02:21) generaledit 
+\i (212:02:27) xhilite 
+\i (212:02:27) xNet 3.3V 
+\i (212:02:27) xNet Gnd_Power 
+\i (212:02:27) xname_flush 
+\i (212:02:27) trapsize 118704
+\t (212:02:27) Net "3.3V" highlighted.
+\t (212:02:27) Net "Gnd_Power" highlighted.
+\i (212:02:27) done 
+\i (212:02:27) generaledit 
+\i (212:02:29) xdehilite 
+\i (212:02:29) xNet 3.3V 
+\i (212:02:29) xNet Gnd_Power 
+\i (212:02:29) xname_flush 
+\t (212:02:29) Net "3.3V" dehighlighted.
+\t (212:02:29) Net "Gnd_Power" dehighlighted.
+\i (212:02:29) done 
+\i (212:02:29) generaledit 
+\i (212:06:19) xhilite 
+\i (212:06:19) xname_flush 
+\i (212:06:19) done 
+\i (212:06:19) generaledit 
+\i (212:06:21) xdehilite 
+\i (212:06:21) xname_flush 
+\i (212:06:21) done 
+\i (212:06:21) generaledit 
+\i (212:06:42) xhilite 
+\i (212:06:42) xname_flush 
+\i (212:06:42) done 
+\i (212:06:43) generaledit 
+\i (212:06:44) xdehilite 
+\i (212:06:44) xname_flush 
+\i (212:06:44) done 
+\i (212:06:44) generaledit 
+\i (212:06:48) xhilite 
+\i (212:06:48) xname_flush 
+\i (212:06:48) done 
+\i (212:06:48) generaledit 
+\i (212:09:07) xhilite 
+\i (212:09:07) xname_flush 
+\i (212:09:07) done 
+\i (212:09:07) generaledit 
+\i (212:09:08) xdehilite 
+\i (212:09:09) xname_flush 
+\i (212:09:09) done 
+\i (212:09:09) generaledit 
+\i (212:09:15) xhilite 
+\i (212:09:15) xname_flush 
+\i (212:09:15) done 
+\i (212:09:15) generaledit 
+\i (212:09:26) xdehilite 
+\i (212:09:26) xname_flush 
+\i (212:09:26) done 
+\i (212:09:26) generaledit 
+\i (212:09:26) xhilite 
+\i (212:09:26) xname_flush 
+\i (212:09:26) done 
+\i (212:09:26) generaledit 
+\i (212:10:16) xhilite 
+\i (212:10:16) xname_flush 
+\i (212:10:16) done 
+\i (212:10:16) generaledit 
+\i (212:10:18) xdehilite 
+\i (212:10:18) xname_flush 
+\i (212:10:18) done 
+\i (212:10:18) generaledit 
+\i (212:10:24) xhilite 
+\i (212:10:24) xname_flush 
+\i (212:10:24) done 
+\i (212:10:24) generaledit 
+\i (212:10:26) xdehilite 
+\i (212:10:26) xname_flush 
+\i (212:10:26) done 
+\i (212:10:26) generaledit 
+\i (212:10:30) xhilite 
+\i (212:10:30) xNet 3.3V 
+\i (212:10:30) xname_flush 
+\i (212:10:30) trapsize 118704
+\t (212:10:30) Net "3.3V" highlighted.
+\i (212:10:30) done 
+\i (212:10:30) generaledit 
+\i (212:10:34) xdehilite 
+\i (212:10:34) xNet 3.3V 
+\i (212:10:34) xname_flush 
+\t (212:10:34) Net "3.3V" dehighlighted.
+\i (212:10:34) done 
+\i (212:10:34) generaledit 
+\i (212:10:36) xhilite 
+\i (212:10:37) xNet 3.3V 
+\i (212:10:37) xname_flush 
+\i (212:10:37) trapsize 118704
+\t (212:10:37) Net "3.3V" highlighted.
+\i (212:10:37) done 
+\i (212:10:37) generaledit 
+\i (212:10:38) xdehilite 
+\i (212:10:38) xNet 3.3V 
+\i (212:10:38) xname_flush 
+\t (212:10:38) Net "3.3V" dehighlighted.
+\i (212:10:38) done 
+\i (212:10:38) xhilite 
+\i (212:10:38) xNet 3.3V 
+\i (212:10:38) xname_flush 
+\i (212:10:38) trapsize 118704
+\t (212:10:38) Net "3.3V" highlighted.
+\i (212:10:38) done 
+\i (212:10:38) generaledit 
+\i (212:10:38) xdehilite 
+\i (212:10:38) xNet 3.3V 
+\i (212:10:38) xname_flush 
+\t (212:10:38) Net "3.3V" dehighlighted.
+\i (212:10:38) done 
+\i (212:10:38) xhilite 
+\i (212:10:38) xname_flush 
+\i (212:10:38) done 
+\i (212:10:38) generaledit 
+\i (212:10:39) xdehilite 
+\i (212:10:39) xname_flush 
+\i (212:10:39) done 
+\i (212:10:39) generaledit 
+\i (212:10:40) xhilite 
+\i (212:10:40) xname_flush 
+\i (212:10:40) done 
+\i (212:10:40) generaledit 
+\i (212:10:46) xdehilite 
+\i (212:10:46) xname_flush 
+\i (212:10:46) done 
+\i (212:10:46) generaledit 
+\i (212:10:47) xhilite 
+\i (212:10:47) xname_flush 
+\i (212:10:47) done 
+\i (212:10:47) generaledit 
+\i (212:10:54) xdehilite 
+\i (212:10:54) xname_flush 
+\i (212:10:54) done 
+\i (212:10:54) generaledit 
+\i (212:11:22) xhilite 
+\i (212:11:22) xname_flush 
+\i (212:11:22) done 
+\i (212:11:22) generaledit 
+\i (212:11:24) xdehilite 
+\i (212:11:24) xname_flush 
+\i (212:11:24) done 
+\i (212:11:24) generaledit 
+\i (212:11:46) xhilite 
+\i (212:11:46) xname_flush 
+\i (212:11:46) done 
+\i (212:11:46) generaledit 
+\i (212:12:52) xhilite 
+\i (212:12:52) xNet Gnd_Power 
+\i (212:12:52) xname_flush 
+\i (212:12:52) trapsize 118704
+\t (212:12:52) Net "Gnd_Power" highlighted.
+\i (212:12:52) done 
+\i (212:12:52) generaledit 
+\i (212:12:58) xdehilite 
+\i (212:12:58) xNet Gnd_Power 
+\i (212:12:58) xname_flush 
+\t (212:12:58) Net "Gnd_Power" dehighlighted.
+\i (212:12:58) done 
+\i (212:12:58) generaledit 
+\i (212:13:11) xhilite 
+\i (212:13:11) xNet Gnd_Power 
+\i (212:13:11) xname_flush 
+\i (212:13:11) trapsize 118704
+\t (212:13:11) Net "Gnd_Power" highlighted.
+\i (212:13:11) done 
+\i (212:13:11) generaledit 
+\i (212:13:13) xhilite 
+\i (212:13:13) xname_flush 
+\i (212:13:13) done 
+\i (212:13:13) generaledit 
+\i (212:13:13) xdehilite 
+\i (212:13:13) xname_flush 
+\i (212:13:13) done 
+\i (212:13:14) generaledit 
+\i (212:13:21) xhilite 
+\i (212:13:21) xNet 3.3V 
+\i (212:13:21) xname_flush 
+\i (212:13:21) trapsize 118704
+\t (212:13:21) Net "3.3V" highlighted.
+\i (212:13:21) done 
+\i (212:13:21) generaledit 
+\i (212:13:21) xdehilite 
+\i (212:13:21) xNet 3.3V 
+\i (212:13:21) xname_flush 
+\t (212:13:21) Net "3.3V" dehighlighted.
+\i (212:13:22) done 
+\i (212:13:22) generaledit 
+\i (212:14:35) xhilite 
+\i (212:14:35) xNet Gnd_Power 
+\i (212:14:35) xNet 3.3V 
+\i (212:14:35) xname_flush 
+\i (212:14:35) trapsize 118704
+\t (212:14:35) Net "Gnd_Power" highlighted.
+\t (212:14:35) Net "3.3V" highlighted.
+\i (212:14:35) done 
+\i (212:14:35) generaledit 
+\i (212:14:40) xdehilite 
+\i (212:14:40) xNet Gnd_Power 
+\i (212:14:40) xNet 3.3V 
+\i (212:14:40) xname_flush 
+\t (212:14:40) Net "Gnd_Power" dehighlighted.
+\t (212:14:40) Net "3.3V" dehighlighted.
+\i (212:14:40) done 
+\i (212:14:40) generaledit 
+\i (212:14:41) xhilite 
+\i (212:14:41) xNet Gnd_Power 
+\i (212:14:41) xname_flush 
+\i (212:14:41) trapsize 118704
+\t (212:14:41) Net "Gnd_Power" highlighted.
+\i (212:14:41) done 
+\i (212:14:41) generaledit 
+\i (212:14:48) xdehilite 
+\i (212:14:48) xNet Gnd_Power 
+\i (212:14:48) xname_flush 
+\t (212:14:48) Net "Gnd_Power" dehighlighted.
+\i (212:14:48) done 
+\i (212:14:48) generaledit 
+\i (212:14:55) xhilite 
+\i (212:14:55) xname_flush 
+\i (212:14:55) done 
+\i (212:14:55) generaledit 
+\i (212:14:57) xdehilite 
+\i (212:14:57) xname_flush 
+\i (212:14:57) done 
+\i (212:14:57) generaledit 
+\i (212:14:59) xhilite 
+\i (212:14:59) xname_flush 
+\i (212:14:59) done 
+\i (212:14:59) generaledit 
+\i (212:16:27) xhilite 
+\i (212:16:27) xname_flush 
+\i (212:16:27) done 
+\i (212:16:27) generaledit 
+\i (212:18:01) xhilite 
+\i (212:18:02) xNet Gnd_Power 
+\i (212:18:02) xNet 3.3V 
+\i (212:18:02) xname_flush 
+\i (212:18:02) trapsize 118704
+\t (212:18:02) Net "Gnd_Power" highlighted.
+\t (212:18:02) Net "3.3V" highlighted.
+\i (212:18:02) done 
+\i (212:18:02) generaledit 
+\i (212:18:03) xdehilite 
+\i (212:18:03) xNet Gnd_Power 
+\i (212:18:03) xNet 3.3V 
+\i (212:18:03) xname_flush 
+\t (212:18:03) Net "Gnd_Power" dehighlighted.
+\t (212:18:03) Net "3.3V" dehighlighted.
+\i (212:18:04) done 
+\i (212:18:04) generaledit 
+\i (212:18:07) xhilite 
+\i (212:18:07) xNet Gnd_Power 
+\i (212:18:07) xNet 3.3V 
+\i (212:18:07) xname_flush 
+\i (212:18:07) trapsize 118704
+\t (212:18:07) Net "Gnd_Power" highlighted.
+\t (212:18:07) Net "3.3V" highlighted.
+\i (212:18:07) done 
+\i (212:18:07) generaledit 
+\i (212:18:10) xdehilite 
+\i (212:18:10) xNet Gnd_Power 
+\i (212:18:10) xNet 3.3V 
+\i (212:18:10) xname_flush 
+\t (212:18:10) Net "Gnd_Power" dehighlighted.
+\t (212:18:10) Net "3.3V" dehighlighted.
+\i (212:18:10) done 
+\i (212:18:10) generaledit 
+\i (212:18:12) xhilite 
+\i (212:18:12) xNet Gnd_Power 
+\i (212:18:12) xNet 3.3V 
+\i (212:18:12) xname_flush 
+\i (212:18:12) trapsize 118704
+\t (212:18:12) Net "Gnd_Power" highlighted.
+\t (212:18:12) Net "3.3V" highlighted.
+\i (212:18:12) done 
+\i (212:18:12) generaledit 
+\i (212:18:16) xdehilite 
+\i (212:18:16) xNet Gnd_Power 
+\i (212:18:16) xNet 3.3V 
+\i (212:18:16) xname_flush 
+\t (212:18:16) Net "Gnd_Power" dehighlighted.
+\t (212:18:16) Net "3.3V" dehighlighted.
+\i (212:18:16) done 
+\i (212:18:16) generaledit 
+\i (212:18:35) xhilite 
+\i (212:18:35) xNet Gnd_Power 
+\i (212:18:35) xNet 3.3V 
+\i (212:18:35) xname_flush 
+\i (212:18:35) trapsize 118704
+\t (212:18:35) Net "Gnd_Power" highlighted.
+\t (212:18:35) Net "3.3V" highlighted.
+\i (212:18:35) done 
+\i (212:18:35) generaledit 
+\i (212:18:38) xdehilite 
+\i (212:18:38) xNet Gnd_Power 
+\i (212:18:38) xNet 3.3V 
+\i (212:18:38) xname_flush 
+\t (212:18:38) Net "Gnd_Power" dehighlighted.
+\t (212:18:38) Net "3.3V" dehighlighted.
+\i (212:18:38) done 
+\i (212:18:38) generaledit 
+\i (212:18:42) xhilite 
+\i (212:18:42) xNet Gnd_Power 
+\i (212:18:42) xname_flush 
+\i (212:18:42) trapsize 118704
+\t (212:18:42) Net "Gnd_Power" highlighted.
+\i (212:18:42) done 
+\i (212:18:42) generaledit 
+\i (212:18:44) xdehilite 
+\i (212:18:44) xNet Gnd_Power 
+\i (212:18:44) xname_flush 
+\t (212:18:44) Net "Gnd_Power" dehighlighted.
+\i (212:18:44) done 
+\i (212:18:45) generaledit 
+\i (212:19:07) xhilite 
+\i (212:19:07) xname_flush 
+\i (212:19:07) done 
+\i (212:19:07) generaledit 
+\i (212:19:11) xdehilite 
+\i (212:19:11) xname_flush 
+\i (212:19:11) done 
+\i (212:19:11) generaledit 
+\i (212:19:12) xhilite 
+\i (212:19:12) xname_flush 
+\i (212:19:12) done 
+\i (212:19:12) generaledit 
+\i (212:19:17) xdehilite 
+\i (212:19:17) xname_flush 
+\i (212:19:17) done 
+\i (212:19:17) generaledit 
+\i (212:20:09) xhilite 
+\i (212:20:09) xNet Gnd_Power 
+\i (212:20:09) xNet 3.3V 
+\i (212:20:09) xname_flush 
+\i (212:20:09) trapsize 118704
+\t (212:20:09) Net "Gnd_Power" highlighted.
+\t (212:20:09) Net "3.3V" highlighted.
+\i (212:20:09) done 
+\i (212:20:09) generaledit 
+\i (212:20:11) xdehilite 
+\i (212:20:11) xNet Gnd_Power 
+\i (212:20:11) xNet 3.3V 
+\i (212:20:11) xname_flush 
+\t (212:20:11) Net "Gnd_Power" dehighlighted.
+\t (212:20:11) Net "3.3V" dehighlighted.
+\i (212:20:11) done 
+\i (212:20:12) generaledit 
+\i (212:20:35) xhilite 
+\i (212:20:35) xNet Gnd_Power 
+\i (212:20:35) xNet 3.3V 
+\i (212:20:35) xname_flush 
+\i (212:20:35) trapsize 118704
+\t (212:20:35) Net "Gnd_Power" highlighted.
+\t (212:20:35) Net "3.3V" highlighted.
+\i (212:20:35) done 
+\i (212:20:35) generaledit 
+\i (212:20:39) xdehilite 
+\i (212:20:39) xNet Gnd_Power 
+\i (212:20:39) xNet 3.3V 
+\i (212:20:39) xname_flush 
+\t (212:20:39) Net "Gnd_Power" dehighlighted.
+\t (212:20:39) Net "3.3V" dehighlighted.
+\i (212:20:39) done 
+\i (212:20:39) generaledit 
+\i (212:20:44) xhilite 
+\i (212:20:44) xname_flush 
+\i (212:20:44) done 
+\i (212:20:44) generaledit 
+\i (212:20:48) xhilite 
+\i (212:20:48) xname_flush 
+\i (212:20:48) done 
+\i (212:20:48) generaledit 
+\i (212:20:56) xhilite 
+\i (212:20:56) xname_flush 
+\i (212:20:56) done 
+\i (212:20:56) generaledit 
+\i (212:20:57) xdehilite 
+\i (212:20:57) xname_flush 
+\i (212:20:57) done 
+\i (212:20:57) xhilite 
+\i (212:20:57) xname_flush 
+\i (212:20:57) done 
+\i (212:20:57) generaledit 
+\i (212:20:59) xdehilite 
+\i (212:20:59) xname_flush 
+\i (212:20:59) done 
+\i (212:20:59) generaledit 
+\i (212:21:02) xhilite 
+\i (212:21:02) xname_flush 
+\i (212:21:02) done 
+\i (212:21:02) generaledit 
+\i (212:21:03) xdehilite 
+\i (212:21:03) xname_flush 
+\i (212:21:03) done 
+\i (212:21:03) generaledit 
+\i (212:21:05) xhilite 
+\i (212:21:05) xname_flush 
+\i (212:21:05) done 
+\i (212:21:05) generaledit 
+\i (212:21:05) xdehilite 
+\i (212:21:05) xname_flush 
+\i (212:21:05) done 
+\i (212:21:05) generaledit 
+\i (212:21:08) xhilite 
+\i (212:21:08) xname_flush 
+\i (212:21:08) done 
+\i (212:21:08) generaledit 
+\i (212:21:09) xdehilite 
+\i (212:21:09) xname_flush 
+\i (212:21:09) done 
+\i (212:21:09) generaledit 
+\i (212:21:46) xhilite 
+\i (212:21:46) xname_flush 
+\i (212:21:46) done 
+\i (212:21:46) generaledit 
+\i (212:21:47) xdehilite 
+\i (212:21:47) xname_flush 
+\i (212:21:47) done 
+\i (212:21:47) generaledit 
+\i (212:21:48) xhilite 
+\i (212:21:48) xname_flush 
+\i (212:21:48) done 
+\i (212:21:48) generaledit 
+\i (212:21:50) xdehilite 
+\i (212:21:50) xname_flush 
+\i (212:21:50) done 
+\i (212:21:50) generaledit 
+\i (212:21:56) xhilite 
+\i (212:21:56) xname_flush 
+\i (212:21:56) done 
+\i (212:21:56) generaledit 
+\i (212:21:56) xdehilite 
+\i (212:21:56) xname_flush 
+\i (212:21:56) done 
+\i (212:21:56) xhilite 
+\i (212:21:56) xname_flush 
+\i (212:21:56) done 
+\i (212:21:56) generaledit 
+\i (212:21:57) xdehilite 
+\i (212:21:57) xname_flush 
+\i (212:21:57) done 
+\i (212:21:57) generaledit 
+\i (212:22:00) xhilite 
+\i (212:22:00) xname_flush 
+\i (212:22:00) done 
+\i (212:22:00) generaledit 
+\i (212:22:03) xdehilite 
+\i (212:22:03) xname_flush 
+\i (212:22:03) done 
+\i (212:22:03) generaledit 
+\i (212:22:30) xhilite 
+\i (212:22:30) xNet Gnd_Power 
+\i (212:22:30) xNet 3.3V 
+\i (212:22:30) xname_flush 
+\i (212:22:30) trapsize 118704
+\t (212:22:30) Net "Gnd_Power" highlighted.
+\t (212:22:30) Net "3.3V" highlighted.
+\i (212:22:30) done 
+\i (212:22:30) generaledit 
+\i (212:22:33) xdehilite 
+\i (212:22:33) xNet Gnd_Power 
+\i (212:22:33) xNet 3.3V 
+\i (212:22:33) xname_flush 
+\t (212:22:33) Net "Gnd_Power" dehighlighted.
+\t (212:22:33) Net "3.3V" dehighlighted.
+\i (212:22:33) done 
+\i (212:22:33) generaledit 
+\i (212:22:34) xhilite 
+\i (212:22:34) xname_flush 
+\i (212:22:34) done 
+\i (212:22:34) generaledit 
+\i (212:22:36) xdehilite 
+\i (212:22:36) xname_flush 
+\i (212:22:36) done 
+\i (212:22:36) generaledit 
+\i (212:22:42) xhilite 
+\i (212:22:43) xname_flush 
+\i (212:22:43) done 
+\i (212:22:43) generaledit 
+\i (212:22:53) xhilite 
+\i (212:22:53) xname_flush 
+\i (212:22:53) done 
+\i (212:22:53) generaledit 
+\i (212:22:54) xdehilite 
+\i (212:22:54) xname_flush 
+\i (212:22:54) done 
+\i (212:22:54) generaledit 
+\i (212:23:04) xhilite 
+\i (212:23:04) xname_flush 
+\i (212:23:04) done 
+\i (212:23:04) generaledit 
+\i (212:23:05) xdehilite 
+\i (212:23:05) xname_flush 
+\i (212:23:05) done 
+\i (212:23:05) generaledit 
+\i (212:23:31) xhilite 
+\i (212:23:31) xNet 3.3V 
+\i (212:23:31) xname_flush 
+\i (212:23:31) trapsize 118704
+\t (212:23:31) Net "3.3V" highlighted.
+\i (212:23:31) done 
+\i (212:23:31) generaledit 
+\i (212:23:59) xdehilite 
+\i (212:23:59) xNet 3.3V 
+\i (212:23:59) xname_flush 
+\t (212:23:59) Net "3.3V" dehighlighted.
+\i (212:23:59) done 
+\i (212:23:59) generaledit 
+\i (212:24:02) xhilite 
+\i (212:24:02) xNet 3.3V 
+\i (212:24:02) xname_flush 
+\i (212:24:02) trapsize 118704
+\t (212:24:02) Net "3.3V" highlighted.
+\i (212:24:02) done 
+\i (212:24:02) generaledit 
+\i (212:24:02) xdehilite 
+\i (212:24:02) xNet 3.3V 
+\i (212:24:02) xname_flush 
+\t (212:24:02) Net "3.3V" dehighlighted.
+\i (212:24:02) done 
+\i (212:24:02) generaledit 
+\i (212:26:22) xhilite 
+\i (212:26:22) xNet 3.3V 
+\i (212:26:22) xname_flush 
+\i (212:26:22) trapsize 118704
+\t (212:26:22) Net "3.3V" highlighted.
+\i (212:26:22) done 
+\i (212:26:22) generaledit 
+\i (212:26:22) xdehilite 
+\i (212:26:23) xNet 3.3V 
+\i (212:26:23) xname_flush 
+\t (212:26:23) Net "3.3V" dehighlighted.
+\i (212:26:23) done 
+\i (212:26:23) generaledit 
+\i (212:26:55) xhilite 
+\i (212:26:55) xNet Gnd_Power 
+\i (212:26:55) xname_flush 
+\i (212:26:55) trapsize 118704
+\t (212:26:55) Net "Gnd_Power" highlighted.
+\i (212:26:55) done 
+\i (212:26:55) generaledit 
+\i (212:28:46) xhilite 
+\i (212:28:46) xNet Gnd_Power 
+\i (212:28:46) xname_flush 
+\i (212:28:46) trapsize 118704
+\t (212:28:46) Net "Gnd_Power" highlighted.
+\i (212:28:46) done 
+\i (212:28:46) generaledit 
+\i (212:28:47) xdehilite 
+\i (212:28:47) xNet Gnd_Power 
+\i (212:28:47) xname_flush 
+\t (212:28:47) Net "Gnd_Power" dehighlighted.
+\i (212:28:47) done 
+\i (212:28:47) xhilite 
+\i (212:28:47) xNet Gnd_Power 
+\i (212:28:47) xname_flush 
+\i (212:28:47) trapsize 118704
+\t (212:28:47) Net "Gnd_Power" highlighted.
+\i (212:28:47) done 
+\i (212:28:47) generaledit 
+\i (212:28:48) xdehilite 
+\i (212:28:48) xNet Gnd_Power 
+\i (212:28:48) xname_flush 
+\t (212:28:48) Net "Gnd_Power" dehighlighted.
+\i (212:28:48) done 
+\i (212:28:48) generaledit 
+\i (212:29:21) xhilite 
+\i (212:29:21) xname_flush 
+\i (212:29:21) done 
+\i (212:29:21) generaledit 
+\i (212:29:22) xdehilite 
+\i (212:29:22) xname_flush 
+\i (212:29:22) done 
+\i (212:29:22) generaledit 
+\i (212:29:49) xhilite 
+\i (212:29:49) xNet Gnd_Power 
+\i (212:29:49) xNet 3.3V 
+\i (212:29:49) xname_flush 
+\i (212:29:49) trapsize 118704
+\t (212:29:49) Net "Gnd_Power" highlighted.
+\t (212:29:49) Net "3.3V" highlighted.
+\i (212:29:49) done 
+\i (212:29:49) generaledit 
+\i (212:29:51) xdehilite 
+\i (212:29:51) xNet Gnd_Power 
+\i (212:29:51) xNet 3.3V 
+\i (212:29:51) xname_flush 
+\t (212:29:51) Net "Gnd_Power" dehighlighted.
+\t (212:29:51) Net "3.3V" dehighlighted.
+\i (212:29:51) done 
+\i (212:29:51) generaledit 
+\i (212:30:15) xhilite 
+\i (212:30:15) xNet Gnd_Power 
+\i (212:30:15) xname_flush 
+\i (212:30:15) trapsize 118704
+\t (212:30:15) Net "Gnd_Power" highlighted.
+\i (212:30:15) done 
+\i (212:30:15) generaledit 
+\i (212:30:18) xdehilite 
+\i (212:30:18) xNet Gnd_Power 
+\i (212:30:18) xname_flush 
+\t (212:30:18) Net "Gnd_Power" dehighlighted.
+\i (212:30:18) done 
+\i (212:30:18) generaledit 
+\i (212:30:48) xhilite 
+\i (212:30:49) xNet Gnd_Power 
+\i (212:30:49) xNet 3.3V 
+\i (212:30:49) xname_flush 
+\i (212:30:49) trapsize 118704
+\t (212:30:49) Net "Gnd_Power" highlighted.
+\t (212:30:49) Net "3.3V" highlighted.
+\i (212:30:49) done 
+\i (212:30:49) generaledit 
+\i (212:30:55) xdehilite 
+\i (212:30:55) xNet Gnd_Power 
+\i (212:30:55) xNet 3.3V 
+\i (212:30:55) xname_flush 
+\t (212:30:55) Net "Gnd_Power" dehighlighted.
+\t (212:30:55) Net "3.3V" dehighlighted.
+\i (212:30:55) done 
+\i (212:30:55) generaledit 
+\i (212:32:22) xhilite 
+\i (212:32:22) xNet Gnd_Power 
+\i (212:32:22) xname_flush 
+\i (212:32:22) trapsize 118704
+\t (212:32:22) Net "Gnd_Power" highlighted.
+\i (212:32:22) done 
+\i (212:32:22) generaledit 
+\i (212:32:27) xhilite 
+\i (212:32:27) xname_flush 
+\i (212:32:27) done 
+\i (212:32:27) generaledit 
+\i (212:32:28) xdehilite 
+\i (212:32:28) xname_flush 
+\i (212:32:28) done 
+\i (212:32:28) xhilite 
+\i (212:32:28) xname_flush 
+\i (212:32:28) done 
+\i (212:32:28) generaledit 
+\i (212:32:29) xdehilite 
+\i (212:32:30) xname_flush 
+\i (212:32:30) done 
+\i (212:32:30) generaledit 
+\i (212:32:32) xhilite 
+\i (212:32:32) xNet Gnd_Power 
+\i (212:32:32) xname_flush 
+\i (212:32:32) trapsize 118704
+\t (212:32:32) Net "Gnd_Power" highlighted.
+\i (212:32:32) done 
+\i (212:32:32) generaledit 
+\i (212:32:34) xdehilite 
+\i (212:32:34) xNet Gnd_Power 
+\i (212:32:34) xname_flush 
+\t (212:32:34) Net "Gnd_Power" dehighlighted.
+\i (212:32:34) done 
+\i (212:32:34) generaledit 
+\i (212:32:35) xhilite 
+\i (212:32:35) xNet Gnd_Power 
+\i (212:32:35) xname_flush 
+\i (212:32:35) trapsize 118704
+\t (212:32:35) Net "Gnd_Power" highlighted.
+\i (212:32:35) done 
+\i (212:32:35) generaledit 
+\i (212:32:36) xdehilite 
+\i (212:32:36) xNet Gnd_Power 
+\i (212:32:36) xname_flush 
+\t (212:32:36) Net "Gnd_Power" dehighlighted.
+\i (212:32:36) done 
+\i (212:32:36) generaledit 
+\i (212:32:55) xhilite 
+\i (212:32:55) xNet 3.3V 
+\i (212:32:55) xname_flush 
+\i (212:32:55) trapsize 118704
+\t (212:32:55) Net "3.3V" highlighted.
+\i (212:32:55) done 
+\i (212:32:55) generaledit 
+\i (212:33:03) xdehilite 
+\i (212:33:03) xNet 3.3V 
+\i (212:33:03) xname_flush 
+\t (212:33:03) Net "3.3V" dehighlighted.
+\i (212:33:03) done 
+\i (212:33:03) xhilite 
+\i (212:33:04) xNet 3.3V 
+\i (212:33:04) xname_flush 
+\i (212:33:04) trapsize 118704
+\t (212:33:04) Net "3.3V" highlighted.
+\i (212:33:04) done 
+\i (212:33:04) generaledit 
+\i (212:33:06) xdehilite 
+\i (212:33:06) xNet 3.3V 
+\i (212:33:06) xname_flush 
+\t (212:33:06) Net "3.3V" dehighlighted.
+\i (212:33:06) done 
+\i (212:33:06) xhilite 
+\i (212:33:06) xNet 3.3V 
+\i (212:33:06) xname_flush 
+\i (212:33:06) trapsize 118704
+\t (212:33:06) Net "3.3V" highlighted.
+\i (212:33:06) done 
+\i (212:33:06) generaledit 
+\i (212:33:08) xdehilite 
+\i (212:33:08) xNet 3.3V 
+\i (212:33:08) xname_flush 
+\t (212:33:08) Net "3.3V" dehighlighted.
+\i (212:33:08) done 
+\i (212:33:08) generaledit 
+\i (212:33:09) xhilite 
+\i (212:33:09) xname_flush 
+\i (212:33:09) done 
+\i (212:33:09) generaledit 
+\i (212:33:12) xdehilite 
+\i (212:33:12) xname_flush 
+\i (212:33:12) done 
+\i (212:33:12) generaledit 
+\i (212:33:13) xhilite 
+\i (212:33:13) xname_flush 
+\i (212:33:13) done 
+\i (212:33:13) generaledit 
+\i (212:33:14) xdehilite 
+\i (212:33:14) xname_flush 
+\i (212:33:14) done 
+\i (212:33:14) xhilite 
+\i (212:33:14) xname_flush 
+\i (212:33:14) done 
+\i (212:33:14) generaledit 
+\i (212:33:16) xdehilite 
+\i (212:33:16) xname_flush 
+\i (212:33:16) done 
+\i (212:33:16) xhilite 
+\i (212:33:16) xname_flush 
+\i (212:33:16) done 
+\i (212:33:16) generaledit 
+\i (212:33:18) xdehilite 
+\i (212:33:19) xname_flush 
+\i (212:33:19) done 
+\i (212:33:19) generaledit 
+\i (212:33:25) xhilite 
+\i (212:33:25) xname_flush 
+\i (212:33:25) done 
+\i (212:33:25) generaledit 
+\i (212:33:27) xdehilite 
+\i (212:33:27) xname_flush 
+\i (212:33:27) done 
+\i (212:33:27) generaledit 
+\i (212:33:30) xhilite 
+\i (212:33:30) xname_flush 
+\i (212:33:30) done 
+\i (212:33:30) generaledit 
+\i (212:33:31) xdehilite 
+\i (212:33:31) xname_flush 
+\i (212:33:31) done 
+\i (212:33:31) generaledit 
+\i (212:33:35) xhilite 
+\i (212:33:35) xname_flush 
+\i (212:33:35) done 
+\i (212:33:35) generaledit 
+\i (212:33:39) xdehilite 
+\i (212:33:39) xname_flush 
+\i (212:33:39) done 
+\i (212:33:39) generaledit 
+\i (212:33:41) xhilite 
+\i (212:33:41) xNet Gnd_Power 
+\i (212:33:41) xname_flush 
+\i (212:33:41) trapsize 118704
+\t (212:33:41) Net "Gnd_Power" highlighted.
+\i (212:33:41) done 
+\i (212:33:41) generaledit 
+\i (212:33:43) xdehilite 
+\i (212:33:44) xNet Gnd_Power 
+\i (212:33:44) xname_flush 
+\t (212:33:44) Net "Gnd_Power" dehighlighted.
+\i (212:33:44) done 
+\i (212:33:44) generaledit 
+\i (212:33:47) xhilite 
+\i (212:33:47) xNet Gnd_Power 
+\i (212:33:47) xname_flush 
+\i (212:33:47) trapsize 118704
+\t (212:33:47) Net "Gnd_Power" highlighted.
+\i (212:33:47) done 
+\i (212:33:47) generaledit 
+\i (212:33:49) xdehilite 
+\i (212:33:49) xNet Gnd_Power 
+\i (212:33:49) xname_flush 
+\t (212:33:49) Net "Gnd_Power" dehighlighted.
+\i (212:33:49) done 
+\i (212:33:49) xhilite 
+\i (212:33:50) xNet Gnd_Power 
+\i (212:33:50) xname_flush 
+\i (212:33:50) trapsize 118704
+\t (212:33:50) Net "Gnd_Power" highlighted.
+\i (212:33:50) done 
+\i (212:33:50) generaledit 
+\i (212:33:52) xdehilite 
+\i (212:33:52) xNet Gnd_Power 
+\i (212:33:52) xname_flush 
+\t (212:33:52) Net "Gnd_Power" dehighlighted.
+\i (212:33:52) done 
+\i (212:33:52) generaledit 
+\i (212:33:59) xhilite 
+\i (212:33:59) xNet Gnd_Power 
+\i (212:33:59) xname_flush 
+\i (212:33:59) trapsize 118704
+\t (212:33:59) Net "Gnd_Power" highlighted.
+\i (212:33:59) done 
+\i (212:34:00) generaledit 
+\i (212:34:02) xdehilite 
+\i (212:34:02) xNet Gnd_Power 
+\i (212:34:02) xname_flush 
+\t (212:34:02) Net "Gnd_Power" dehighlighted.
+\i (212:34:02) done 
+\i (212:34:02) generaledit 
+\i (212:34:02) xhilite 
+\i (212:34:02) xNet Gnd_Power 
+\i (212:34:02) xname_flush 
+\i (212:34:02) trapsize 118704
+\t (212:34:02) Net "Gnd_Power" highlighted.
+\i (212:34:02) done 
+\i (212:34:02) generaledit 
+\i (212:34:03) xdehilite 
+\i (212:34:03) xNet Gnd_Power 
+\i (212:34:03) xname_flush 
+\t (212:34:03) Net "Gnd_Power" dehighlighted.
+\i (212:34:03) done 
+\i (212:34:04) generaledit 
+\i (212:34:16) xhilite 
+\i (212:34:16) xNet 3.3V 
+\i (212:34:16) xname_flush 
+\i (212:34:16) trapsize 118704
+\t (212:34:16) Net "3.3V" highlighted.
+\i (212:34:16) done 
+\i (212:34:16) generaledit 
+\i (212:34:21) xdehilite 
+\i (212:34:21) xNet 3.3V 
+\i (212:34:21) xname_flush 
+\t (212:34:21) Net "3.3V" dehighlighted.
+\i (212:34:21) done 
+\i (212:34:21) generaledit 
+\i (212:34:23) xhilite 
+\i (212:34:24) xNet 3.3V 
+\i (212:34:24) xname_flush 
+\i (212:34:24) trapsize 118704
+\t (212:34:24) Net "3.3V" highlighted.
+\i (212:34:24) done 
+\i (212:34:24) generaledit 
+\i (212:34:27) xdehilite 
+\i (212:34:27) xNet 3.3V 
+\i (212:34:27) xname_flush 
+\t (212:34:27) Net "3.3V" dehighlighted.
+\i (212:34:27) done 
+\i (212:34:27) generaledit 
+\i (212:34:28) xhilite 
+\i (212:34:28) xname_flush 
+\i (212:34:28) done 
+\i (212:34:28) generaledit 
+\i (212:34:29) xdehilite 
+\i (212:34:29) xname_flush 
+\i (212:34:29) done 
+\i (212:34:29) xhilite 
+\i (212:34:29) xname_flush 
+\i (212:34:29) done 
+\i (212:34:29) generaledit 
+\i (212:34:32) xdehilite 
+\i (212:34:32) xname_flush 
+\i (212:34:32) done 
+\i (212:34:32) xhilite 
+\i (212:34:32) xname_flush 
+\i (212:34:32) done 
+\i (212:34:32) generaledit 
+\i (212:34:34) xdehilite 
+\i (212:34:34) xname_flush 
+\i (212:34:34) done 
+\i (212:34:34) generaledit 
+\i (212:34:35) xhilite 
+\i (212:34:35) xNet 3.3V 
+\i (212:34:35) xname_flush 
+\i (212:34:35) trapsize 118704
+\t (212:34:35) Net "3.3V" highlighted.
+\i (212:34:35) done 
+\i (212:34:35) generaledit 
+\i (212:34:36) xdehilite 
+\i (212:34:36) xNet 3.3V 
+\i (212:34:36) xname_flush 
+\t (212:34:36) Net "3.3V" dehighlighted.
+\i (212:34:36) done 
+\i (212:34:36) xhilite 
+\i (212:34:36) xNet 3.3V 
+\i (212:34:36) xname_flush 
+\i (212:34:36) trapsize 118704
+\t (212:34:36) Net "3.3V" highlighted.
+\i (212:34:36) done 
+\i (212:34:36) generaledit 
+\i (212:34:38) xdehilite 
+\i (212:34:38) xNet 3.3V 
+\i (212:34:38) xname_flush 
+\t (212:34:38) Net "3.3V" dehighlighted.
+\i (212:34:38) done 
+\i (212:34:38) generaledit 
+\i (212:34:42) xhilite 
+\i (212:34:42) xname_flush 
+\i (212:34:42) done 
+\i (212:34:42) generaledit 
+\i (212:34:44) xdehilite 
+\i (212:34:44) xname_flush 
+\i (212:34:44) done 
+\i (212:34:44) generaledit 
+\i (212:34:45) xhilite 
+\i (212:34:45) xname_flush 
+\i (212:34:45) done 
+\i (212:34:45) generaledit 
+\i (212:34:47) xdehilite 
+\i (212:34:47) xname_flush 
+\i (212:34:47) done 
+\i (212:34:48) generaledit 
+\i (212:34:51) xhilite 
+\i (212:34:51) xname_flush 
+\i (212:34:51) done 
+\i (212:34:51) generaledit 
+\i (212:34:53) xdehilite 
+\i (212:34:53) xname_flush 
+\i (212:34:53) done 
+\i (212:34:53) xhilite 
+\i (212:34:53) xname_flush 
+\i (212:34:53) done 
+\i (212:34:53) generaledit 
+\i (212:34:54) xdehilite 
+\i (212:34:55) xname_flush 
+\i (212:34:55) done 
+\i (212:34:55) generaledit 
+\i (212:34:58) xhilite 
+\i (212:34:58) xname_flush 
+\i (212:34:58) done 
+\i (212:34:58) generaledit 
+\i (212:35:01) xdehilite 
+\i (212:35:01) xname_flush 
+\i (212:35:01) done 
+\i (212:35:01) generaledit 
+\i (212:35:03) xhilite 
+\i (212:35:03) xname_flush 
+\i (212:35:03) done 
+\i (212:35:03) generaledit 
+\i (212:35:05) xdehilite 
+\i (212:35:05) xname_flush 
+\i (212:35:05) done 
+\i (212:35:05) generaledit 
+\i (212:35:08) xhilite 
+\i (212:35:08) xNet 3.3V 
+\i (212:35:08) xname_flush 
+\i (212:35:08) trapsize 118704
+\t (212:35:08) Net "3.3V" highlighted.
+\i (212:35:08) done 
+\i (212:35:08) generaledit 
+\i (212:35:08) xdehilite 
+\i (212:35:08) xNet 3.3V 
+\i (212:35:08) xname_flush 
+\t (212:35:08) Net "3.3V" dehighlighted.
+\i (212:35:08) done 
+\i (212:35:08) xhilite 
+\i (212:35:08) xNet 3.3V 
+\i (212:35:08) xname_flush 
+\i (212:35:08) trapsize 118704
+\t (212:35:08) Net "3.3V" highlighted.
+\i (212:35:08) done 
+\i (212:35:08) generaledit 
+\i (212:35:09) xdehilite 
+\i (212:35:09) xNet 3.3V 
+\i (212:35:09) xname_flush 
+\t (212:35:09) Net "3.3V" dehighlighted.
+\i (212:35:09) done 
+\i (212:35:10) generaledit 
+\i (212:35:10) xhilite 
+\i (212:35:10) xname_flush 
+\i (212:35:10) done 
+\i (212:35:10) generaledit 
+\i (212:35:11) xdehilite 
+\i (212:35:11) xname_flush 
+\i (212:35:11) done 
+\i (212:35:11) generaledit 
+\i (212:35:20) xhilite 
+\i (212:35:20) xname_flush 
+\i (212:35:20) done 
+\i (212:35:20) generaledit 
+\i (212:35:22) xdehilite 
+\i (212:35:22) xname_flush 
+\i (212:35:22) done 
+\i (212:35:22) generaledit 
+\i (212:35:24) xhilite 
+\i (212:35:24) xname_flush 
+\i (212:35:24) done 
+\i (212:35:24) generaledit 
+\i (212:35:46) xdehilite 
+\i (212:35:46) xname_flush 
+\i (212:35:46) done 
+\i (212:35:46) generaledit 
+\i (212:36:42) xhilite 
+\i (212:36:42) xname_flush 
+\i (212:36:42) done 
+\i (212:36:42) generaledit 
+\i (212:37:13) xhilite 
+\i (212:37:13) xNet 3.3V 
+\i (212:37:13) xNet Gnd_Power 
+\i (212:37:13) xname_flush 
+\i (212:37:13) trapsize 118704
+\t (212:37:13) Net "3.3V" highlighted.
+\t (212:37:13) Net "Gnd_Power" highlighted.
+\i (212:37:13) done 
+\i (212:37:13) generaledit 
+\i (212:37:16) xdehilite 
+\i (212:37:16) xNet 3.3V 
+\i (212:37:16) xNet Gnd_Power 
+\i (212:37:16) xname_flush 
+\t (212:37:16) Net "3.3V" dehighlighted.
+\t (212:37:16) Net "Gnd_Power" dehighlighted.
+\i (212:37:16) done 
+\i (212:37:16) generaledit 
+\i (212:37:34) xhilite 
+\i (212:37:34) xname_flush 
+\i (212:37:34) done 
+\i (212:37:34) generaledit 
+\i (212:37:36) xdehilite 
+\i (212:37:36) xname_flush 
+\i (212:37:36) done 
