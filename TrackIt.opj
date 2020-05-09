@@ -192,41 +192,31 @@
       (Path "Design Resources" ".\trackit.dsn" "SCHEMATIC1")
       (Path "Design Resources" ".\trackit.dsn" "Buzzer")
       (Path "Design Resources" ".\trackit.dsn" "MCU")
-      (Path "Design Resources" ".\trackit.dsn" "Design Cache")
+      (Path "Design Resources" ".\trackit.dsn" "Power Supply")
       (Path "Design Resources" "Library")
       (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 0 200 0 401"))
+        (Placement "44 2 3 -1 -1 -9 -38 0 200 0 401"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 192 1908 192 656")
-        (Scroll "-391 0")
-        (Zoom "91")
+        (Placement "44 0 1 -1 -1 -9 -38 0 1716 0 464")
+        (Scroll "0 269")
+        (Zoom "148")
         (Occurrence "/"))
       (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))
+      (Page "Trackit  main"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -9 -38 0 1716 0 464")
-        (Scroll "-291 -6")
-        (Zoom "79")
-        (Occurrence "/"))
-      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE2"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 160 1505 160 624")
-        (Scroll "-206 0")
-        (Zoom "91")
+        (Placement "44 0 1 -1 -1 -9 -38 32 1748 32 496")
+        (Scroll "0 488")
+        (Zoom "174")
         (Occurrence "/Regulator"))
       (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
       (Schematic "Power Supply")
@@ -234,9 +224,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 192 1537 192 656")
-        (Scroll "-186 0")
-        (Zoom "79")
+        (Placement "44 0 1 -1 -1 -9 -38 64 1780 64 528")
+        (Scroll "0 417")
+        (Zoom "148")
         (Occurrence "/MCU"))
       (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
       (Schematic "MCU")
@@ -244,9 +234,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 0 1345 0 464")
-        (Scroll "191 277")
-        (Zoom "158")
+        (Placement "44 0 1 -1 -1 -9 -38 96 1812 96 560")
+        (Scroll "-248 80")
+        (Zoom "100")
         (Occurrence "/Buzzer"))
       (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
       (Schematic "Buzzer")
