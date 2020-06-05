@@ -1,0 +1,82 @@
+\t (00:03:51) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:03:51)     Journal start - Sat Jun 06 00:27:52 2020
+\t (00:03:51)         Host=DESKTOP-U6TBUH8 User=user Pid=18940 CPUs=4
+\t (00:03:51) 
+\d (00:03:51) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/push button/SW_TL3342F160QG.dra
+\i (00:03:51) generaledit 
+\i (00:03:53) zoom in 1 
+\i (00:03:53) setwindow pcb
+\i (00:03:53) zoom in -8.5698 -0.8345
+\i (00:03:53) trapsize 2027
+\i (00:03:53) zoom in 1 
+\i (00:03:53) setwindow pcb
+\i (00:03:53) zoom in -8.6104 -1.1182
+\i (00:03:53) trapsize 1013
+\i (00:03:54) zoom out 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom out -8.0226 -0.9763
+\i (00:03:54) trapsize 2027
+\i (00:03:57) add line 
+\i (00:03:58) pick grid -4.6986 -2.3951
+\t (00:03:58) last pick:  -5.0800  -2.5400
+\i (00:04:00) pick grid -4.3743 1.3342
+\t (00:04:00) last pick:  -5.0800  2.5400
+\i (00:04:05) Esc 
+\i (00:04:06) prepopup -6.6848 3.6448
+\i (00:04:07) cancel 
+\i (00:04:07) generaledit 
+\i (00:04:10) define grid 
+\t (00:04:10) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:04:11) generaledit 
+\i (00:04:14) setwindow form.grid
+\i (00:04:14) FORM grid non_etch non_etch_x_grids 1 
+\i (00:04:15) FORM grid non_etch non_etch_y_grids 1 
+\i (00:04:15) FORM grid display YES 
+\i (00:04:16) FORM grid done  
+\i (00:04:18) setwindow pcb
+\i (00:04:18) prepopup -5.2255 3.3610
+\i (00:04:20) pick grid -9.5223 4.6987
+\t (00:04:20) last pick:  -10.0000  5.0000
+\i (00:04:21) add line 
+\i (00:04:22) pick grid -5.0634 0.9694
+\t (00:04:22) last pick:  -5.0000  1.0000
+\i (00:04:23) pick grid -4.9418 2.5097
+\t (00:04:23) last pick:  -5.0000  3.0000
+\i (00:04:25) pick grid 5.4760 2.5908
+\t (00:04:25) last pick:  5.0000  3.0000
+\i (00:04:26) pick grid 4.5031 -2.5167
+\t (00:04:26) last pick:  5.0000  -3.0000
+\i (00:04:27) pick grid -4.5364 -2.8410
+\t (00:04:27) last pick:  -5.0000  -3.0000
+\i (00:04:30) pick grid -5.0229 0.5640
+\t (00:04:31) last pick:  -5.0000  1.0000
+\i (00:04:32) prepopup -6.7659 0.4829
+\i (00:04:32) done 
+\i (00:04:33) generaledit 
+\i (00:04:45) setwindow form.mini
+\i (00:04:45) FORM mini class MANUFACTURING 
+\i (00:04:51) FORM mini class BOARD GEOMETRY 
+\i (00:04:56) FORM mini class EMBEDDED GEOMETRY 
+\i (00:05:04) FORM mini class PACKAGE GEOMETRY 
+\i (00:05:06) FORM mini subclass ASSEMBLY_TOP 
+\i (00:05:08) setwindow pcb
+\i (00:05:08) add line 
+\i (00:05:10) pick grid -5.1039 3.1178
+\t (00:05:10) last pick:  -5.0000  3.0000
+\i (00:05:11) pick grid 4.9085 2.5097
+\t (00:05:11) last pick:  5.0000  3.0000
+\i (00:05:13) pick grid 4.9490 -2.5573
+\t (00:05:13) last pick:  5.0000  -3.0000
+\i (00:05:14) pick grid -4.5364 -2.6383
+\t (00:05:14) last pick:  -5.0000  -3.0000
+\i (00:05:15) pick grid -5.0229 2.5097
+\t (00:05:15) last pick:  -5.0000  3.0000
+\i (00:05:16) prepopup 3.4492 6.8876
+\i (00:05:16) done 
+\i (00:05:16) generaledit 
+\i (00:05:20) save 
+\i (00:05:21) fillin yes 
+\t (00:05:22) Symbol 'sw_tl3342f160qg.psm' created.
+\i (00:05:22) generaledit 
+\i (00:05:23) exit 
+\t (00:05:24)     Journal end - Sat Jun 06 00:29:24 2020

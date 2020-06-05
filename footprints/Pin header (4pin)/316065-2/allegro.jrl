@@ -1,0 +1,12 @@
+\t (00:00:40) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:40)     Journal start - Fri Jun 05 19:34:10 2020
+\t (00:00:40)         Host=DESKTOP-U6TBUH8 User=user Pid=10948 CPUs=4
+\t (00:00:40) 
+\d (00:00:40) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/Pin header (4pin)/316065-2/TE_316065-2.dra
+\i (00:00:41) generaledit 
+\i (00:00:42) open 
+\i (00:00:51) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Pin header (4pin)\2-104186-1 old\TE_2-104186-1.dra"
+\i (00:00:51) cd "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Pin header (4pin)\2-104186-1 old"
+\t (00:00:51) Opening existing design...
+\i (00:00:51) trapsize 5464
+\t (00:00:51)     Journal end - Fri Jun 05 19:34:21 2020

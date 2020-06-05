@@ -1,0 +1,15 @@
+\t (00:00:14) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:14)     Journal start - Fri Jun 05 16:36:11 2020
+\t (00:00:14)         Host=DESKTOP-U6TBUH8 User=user Pid=7384 CPUs=4
+\t (00:00:14) 
+\t (00:00:17) Opening existing design...
+\d (00:00:17) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/test_point/test_point1.dra
+\i (00:00:18) trapsize 80
+\i (00:00:18) trapsize 78
+\i (00:00:18) trapsize 80
+\i (00:00:18) trapsize 67
+\i (00:00:18) trapsize 67
+\i (00:00:19) generaledit 
+\i (00:00:46) new 
+\i (00:03:57) newdrawfillin "trackitpcbnew.brd" "Board (Wizard)"
+\t (00:03:57)     Journal end - Fri Jun 05 16:39:55 2020

@@ -1,51 +1,17 @@
 \t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
-\t (00:00:00)     Journal start - Tue Apr 28 17:07:12 2020
-\t (00:00:00)         Host=DESKTOP-U6TBUH8 User=user Pid=7532 CPUs=4
+\t (00:00:00)     Journal start - Thu Jun 04 19:40:00 2020
+\t (00:00:00)         Host=DESKTOP-U6TBUH8 User=user Pid=14084 CPUs=4
 \t (00:00:00) 
-\i (00:00:01) setwindow form.padedit
-\i (00:00:01) replay s_r114_145m114_145p114_145_pad.scr 
-\i (00:00:01) version 16.3 
-\t (00:00:01) Script version: 16.3
-\i (00:00:01) setwindow form.padedit 
-\i (00:00:01) pse_new 
-\i (00:00:01) fillin s_r114_145m114_145p114_145 
-\i (00:00:01) FORM padedit units Millimeter 
-\i (00:00:01) FORM padedit units Millimeter 
-\i (00:00:08) fillin no 
-\i (00:00:08) FORM padedit decimal_places 4 
-\i (00:00:08) FORM padedit decimal_places 4 
-\i (00:00:08) FORM padedit inner_layer_opt YES 
-\e (00:00:08) Form field label not found
-\i (00:00:08) FORM padedit single YES 
-\e (00:00:08) Field is currently invisible or disabled.
-\i (00:00:08) setwindow Form.padedit 
-\i (00:00:08) FORM padedit layers 
-\i (00:00:08) FORM padedit layers  
-\i (00:00:08) FORM padedit grid row begin_layer 
-\i (00:00:08) FORM padedit grid row begin_layer 
-\i (00:00:08) FORM padedit geometry Rectangle 
-\i (00:00:08) FORM padedit geometry Rectangle 
-\i (00:00:08) FORM padedit width 1.15 
-\i (00:00:08) FORM padedit width 1.15 
-\i (00:00:08) FORM padedit height 1.45 
-\i (00:00:08) FORM padedit height 1.45 
-\i (00:00:08) FORM padedit grid row SOLDERMASK_TOP 
-\i (00:00:08) FORM padedit grid row soldermask_top 
-\i (00:00:08) FORM padedit geometry Rectangle 
-\i (00:00:08) FORM padedit geometry Rectangle 
-\i (00:00:08) FORM padedit width 1.15 
-\i (00:00:08) FORM padedit width 1.15 
-\i (00:00:08) FORM padedit height 1.45 
-\i (00:00:08) FORM padedit height 1.45 
-\i (00:00:08) FORM padedit grid row PASTEMASK_TOP 
-\i (00:00:08) FORM padedit grid row pastemask_top 
-\i (00:00:08) FORM padedit geometry Rectangle 
-\i (00:00:08) FORM padedit geometry Rectangle 
-\i (00:00:08) FORM padedit width 1.15 
-\i (00:00:08) FORM padedit width 1.15 
-\i (00:00:08) FORM padedit height 1.45 
-\i (00:00:08) FORM padedit height 1.45 
-\i (00:00:08) pse_check 
-\i (00:00:08) pse_save 
-\i (00:00:08) pse_exit 
-\t (00:00:08)     Journal end - Tue Apr 28 17:07:20 2020
+\i (00:00:09) setwindow form.padedit
+\i (00:00:09) FORM padedit units Millimeter 
+\i (00:00:18) fillin no 
+\i (00:01:22) FORM padedit layers  
+\i (00:01:36) FORM padedit geometry Circle 
+\i (00:01:37) FORM padedit single YES 
+\i (00:01:47) FORM padedit shapebutton  
+\i (00:01:53) fillin "menu_cancel"
+\i (00:04:43) FORM padedit parameters  
+\i (00:06:06) pse_new 
+\i (00:06:12) fillin yes 
+\i (00:06:43) fillin "testpoint.pad"
+\t (00:06:43)     Journal end - Thu Jun 04 19:46:43 2020

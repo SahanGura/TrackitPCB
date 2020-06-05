@@ -1,50 +1,74 @@
 \t (00:00:03) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:03)     Journal start - Thu Apr 30 15:56:49 2020
-\t (00:00:03)         Host=DESKTOP-U6TBUH8 User=user Pid=1192 CPUs=4
+\t (00:00:03)     Journal start - Thu May 28 15:28:43 2020
+\t (00:00:03)         Host=DESKTOP-U6TBUH8 User=user Pid=1108 CPUs=4
 \t (00:00:03) 
 \t (00:00:06) Starting new design...
-\i (00:00:07) trapsize 857
-\i (00:00:07) trapsize 837
-\i (00:00:07) trapsize 861
+\i (00:00:06) trapsize 857
+\i (00:00:06) trapsize 837
+\i (00:00:06) trapsize 861
 \i (00:00:07) trapsize 716
 \i (00:00:07) trapsize 1424
 \i (00:00:08) generaledit 
-\i (00:00:08) open 
-\i (00:00:10) fillin "New board.brd"
-\t (00:00:10) Opening existing design...
-\i (00:00:10) trapsize 136704
-\d (00:00:10) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/New PCB/New board.brd
-\i (00:00:10) generaledit 
-\i (00:00:13) zoom in 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom in 1350.5588 957.1106
-\i (00:00:13) trapsize 68352
-\i (00:00:14) zoom in 1 
-\i (00:00:14) setwindow pcb
-\i (00:00:14) zoom in 1320.4839 994.0208
-\i (00:00:14) trapsize 34176
-\i (00:00:14) zoom in 1 
-\i (00:00:14) setwindow pcb
-\i (00:00:14) zoom in 1320.4839 994.0208
-\i (00:00:14) trapsize 17088
-\i (00:00:14) zoom out 1 
-\i (00:00:14) setwindow pcb
-\i (00:00:14) zoom out 1317.7498 993.3373
-\i (00:00:14) trapsize 34176
-\i (00:00:14) zoom out 1 
-\i (00:00:14) setwindow pcb
-\i (00:00:14) zoom out 1317.7498 991.2868
-\i (00:00:14) trapsize 68352
-\i (00:00:15) zoom out 1 
-\i (00:00:15) setwindow pcb
-\i (00:00:15) zoom out 1317.7499 989.9198
-\i (00:00:15) trapsize 136704
-\i (00:00:15) zoom out 1 
-\i (00:00:15) setwindow pcb
-\i (00:00:15) zoom out 1317.7498 968.0472
-\i (00:00:15) trapsize 273408
-\i (00:00:20) save_as 
-\i (00:00:29) fillin "New board2.brd"
-\i (00:00:29) generaledit 
-\i (00:00:32) exit 
-\t (00:00:32)     Journal end - Thu Apr 30 15:57:18 2020
+\i (00:00:16) place manual 
+\i (00:00:25) setwindow form.plc_manual
+\i (00:00:25) FORM plc_manual alpha_filter 'test point' 
+\i (00:00:25) FORM plc_manual done  
+\i (00:00:25) setwindow pcb
+\i (00:00:25) generaledit 
+\i (00:00:29) place manual 
+\i (00:00:37) setwindow form.plc_manual
+\i (00:00:37) FORM plc_manual categories Package symbols 
+\i (00:00:38) FORM plc_manual tree  'Package symbols' 
+\i (00:00:46) FORM plc_manual alpha_filter capacitor 
+\i (00:00:46) FORM plc_manual tree 'MULTISEL YES' 'Package symbols' 
+\i (00:00:47) FORM plc_manual tree 'MULTISEL YES' 'Package symbols' 
+\i (00:00:48) FORM plc_manual advanced_settings  
+\i (00:00:49) FORM plc_manual placement_list  
+\i (00:00:51) FORM plc_manual categories Components by net group 
+\i (00:00:53) FORM plc_manual categories Components by refdes 
+\i (00:00:58) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:59) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:01:00) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:01:19) FORM plc_manual advanced_settings  
+\i (00:01:20) FORM plc_manual library YES 
+\i (00:01:21) FORM plc_manual placement_list  
+\i (00:01:27) FORM plc_manual categories Package symbols 
+\i (00:02:20) FORM plc_manual alpha_filter *0402* 
+\i (00:02:20) FORM plc_manual done  
+\i (00:02:20) setwindow pcb
+\i (00:02:20) generaledit 
+\i (00:02:24) place manual 
+\i (00:03:06) setwindow form.plc_manual
+\i (00:03:06) FORM plc_manual alpha_filter *0402* 
+\t (00:03:06) last pick:  35708.5  12102.2
+\w (00:03:07) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:03:13) FORM plc_manual alpha_filter 0402 
+\t (00:03:13) last pick:  36762.1  13269.7
+\w (00:03:13) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:03:15) FORM plc_manual advanced_settings  
+\i (00:03:16) FORM plc_manual placement_list  
+\i (00:03:18) FORM plc_manual alpha_filter  
+\t (00:03:18) last pick:  38043.6  12757.1
+\w (00:03:18) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:03:24) FORM plc_manual alpha_filter 0402 
+\t (00:03:24) last pick:  40207.7  14636.5
+\w (00:03:24) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:03:27) FORM plc_manual alpha_filter cap 
+\t (00:03:27) last pick:  36505.9  14579.6
+\w (00:03:27) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:03:31) FORM plc_manual alpha_filter 0602 
+\t (00:03:31) last pick:  35053.6  13753.8
+\w (00:03:31) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:03:34) FORM plc_manual alpha_filter 06 
+\i (00:03:36) FORM plc_manual alpha_filter  
+\t (00:03:37) last pick:  36648.2  11504.2
+\w (00:03:37) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:03:44) FORM plc_manual alpha_filter capck06 
+\i (00:04:44) FORM plc_manual alpha_filter TestPoint_Pad 
+\t (00:04:44) last pick:  36705.2  13013.4
+\w (00:04:44) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:56:31) setwindow pcb
+\i (00:56:31) exit 
+\e (00:56:31) Do you want to save the changes you made to New.brd?
+\i (00:56:32) fillin no 
+\t (00:56:33)     Journal end - Thu May 28 16:25:13 2020

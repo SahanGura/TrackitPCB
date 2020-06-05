@@ -1,0 +1,48 @@
+\t (00:01:17) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:01:17)     Journal start - Fri Jun 05 19:34:47 2020
+\t (00:01:17)         Host=DESKTOP-U6TBUH8 User=user Pid=10948 CPUs=4
+\t (00:01:17) 
+\d (00:01:17) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/Pin header (4pin)/2-104186-1 old/TE_2-104186-1.dra
+\i (00:01:17) generaledit 
+\i (00:01:18) zoom in 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in 2.1313 -2.1106
+\i (00:01:18) trapsize 2732
+\i (00:01:18) zoom in 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in 1.1101 -1.6735
+\i (00:01:18) trapsize 1366
+\i (00:01:18) zoom in 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in 1.0828 -1.6734
+\i (00:01:18) trapsize 683
+\i (00:01:18) zoom in 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in 1.0829 -1.6734
+\i (00:01:18) trapsize 342
+\i (00:01:20) zoom out 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom out 1.0829 -1.6734
+\i (00:01:20) trapsize 683
+\i (00:01:20) zoom out 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom out 1.0830 -1.6734
+\i (00:01:20) trapsize 1366
+\i (00:01:21) zoom out 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom out 1.1102 -1.6187
+\i (00:01:21) trapsize 2732
+\i (00:01:27) zoom in 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom in -2.8244 0.5124
+\i (00:01:27) trapsize 1366
+\i (00:01:27) zoom in 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom in -2.5785 0.5944
+\i (00:01:27) trapsize 683
+\i (00:01:30) open 
+\i (00:01:34) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Pin header (4pin)\1987374-4\TE_1987374-4.dra"
+\i (00:01:34) cd "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Pin header (4pin)\1987374-4"
+\t (00:01:34) Opening existing design...
+\i (00:01:34) trapsize 3386
+\t (00:01:34)     Journal end - Fri Jun 05 19:35:04 2020

@@ -1,30 +1,63 @@
-Date and Time : 04/29/20 13:50:39
+Date and Time : 06/05/20 18:58:53
+
+--------------------------------------------------
+Checking Schematic: MCU
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict U1,SWDIO/RESET  Bidirectional Connected to Input Port
+                    MCU, PAGE1  (96.52, 78.74) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,P0.30  Bidirectional Connected to Power
+                    MCU, PAGE1  (160.02, 119.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,GND__4  Power Connected to Bidirectional
+                    MCU, PAGE1  (160.02, 137.16) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,GND__3  Power Connected to Bidirectional
+                    MCU, PAGE1  (160.02, 134.62) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,GND__2  Power Connected to Bidirectional
+                    MCU, PAGE1  (160.02, 132.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,GND__1  Power Connected to Bidirectional
+                    MCU, PAGE1  (160.02, 129.54) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,GND  Power Connected to Bidirectional
+                    MCU, PAGE1  (160.02, 127.00) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,P0.22  Bidirectional Connected to Input Port
+                    MCU, PAGE1  (160.02, 99.06) 
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: Buzzer
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: Power Supply
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict U2,VOUT  Bidirectional Connected to Input Port
+                    Power Supply, PAGE1  (177.80, 91.44) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,FB  Bidirectional Connected to Input Port
+                    Power Supply, PAGE1  (144.78, 114.30) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,VINA  Bidirectional Connected to Input Port
+                    Power Supply, PAGE1  (144.78, 91.44) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,VIN  Bidirectional Connected to Input Port
+                    Power Supply, PAGE1  (144.78, 96.52) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,EN  Bidirectional Connected to Input Port
+                    Power Supply, PAGE1  (144.78, 109.22) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,PS/SYNC  Bidirectional Connected to Input Port
+                    Power Supply, PAGE1  (144.78, 119.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,GND  Bidirectional Connected to Power
+                    Power Supply, PAGE1  (144.78, 127.00) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,PGND  Bidirectional Connected to Power
+                    Power Supply, PAGE1  (144.78, 124.46) 
+
+Checking For Unconnected Bus Nets
 
 --------------------------------------------------
 Checking Schematic: SCHEMATIC1
 --------------------------------------------------
 Checking Electrical Rules 
-WARNING(ORCAP-1829): Possible pin type conflict U2,GND  Bidirectional Connected to Power
-                    SCHEMATIC1, PAGE1  (6.90, 2.60) 
-WARNING(ORCAP-1829): Possible pin type conflict U1,GND__4  Power Connected to Bidirectional
-                    SCHEMATIC1, PAGE1  (3.20, 3.20) 
-WARNING(ORCAP-1829): Possible pin type conflict U1,GND__3  Power Connected to Bidirectional
-                    SCHEMATIC1, PAGE1  (3.20, 3.10) 
-WARNING(ORCAP-1829): Possible pin type conflict U1,GND__1  Power Connected to Bidirectional
-                    SCHEMATIC1, PAGE1  (3.20, 2.90) 
-WARNING(ORCAP-1829): Possible pin type conflict U1,P0.30  Bidirectional Connected to Power
-                    SCHEMATIC1, PAGE1  (3.20, 2.50) 
-WARNING(ORCAP-1829): Possible pin type conflict U1,GND  Power Connected to Bidirectional
-                    SCHEMATIC1, PAGE1  (3.20, 2.80) 
-WARNING(ORCAP-1829): Possible pin type conflict U2,PGND  Bidirectional Connected to Power
-                    SCHEMATIC1, PAGE1  (6.90, 2.50) 
-WARNING(ORCAP-1829): Possible pin type conflict U2,VOUT  Bidirectional Connected to Power
-                    SCHEMATIC1, PAGE1  (8.20, 1.20) 
-WARNING(ORCAP-1829): Possible pin type conflict U2,FB  Bidirectional Connected to Power
-                    SCHEMATIC1, PAGE1  (6.90, 2.10) 
-WARNING(ORCAP-1829): Possible pin type conflict U1,VDD  Power Connected to Bidirectional
-                    SCHEMATIC1, PAGE1  (3.20, 0.40) 
-WARNING(ORCAP-1829): Possible pin type conflict U1,AVDD  Power Connected to Bidirectional
-                    SCHEMATIC1, PAGE1  (3.20, 0.50) 
+WARNING(ORCAP-1608): Net has no driving source N26606 
+                    SCHEMATIC1, Trackit  main  (205.74, 116.84) 
 
 Checking For Unconnected Bus Nets

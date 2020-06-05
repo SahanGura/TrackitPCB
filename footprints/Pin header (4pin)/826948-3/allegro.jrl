@@ -1,0 +1,12 @@
+\t (00:00:42) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:42)     Journal start - Sat Jun 06 00:24:43 2020
+\t (00:00:42)         Host=DESKTOP-U6TBUH8 User=user Pid=18940 CPUs=4
+\t (00:00:42) 
+\d (00:00:42) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/Pin header (4pin)/826948-3/con3new.dra
+\i (00:00:43) generaledit 
+\i (00:03:29) open 
+\i (00:03:51) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\push button\SW_TL3342F160QG.dra"
+\i (00:03:51) cd "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\push button"
+\t (00:03:51) Opening existing design...
+\i (00:03:51) trapsize 4054
+\t (00:03:51)     Journal end - Sat Jun 06 00:27:52 2020

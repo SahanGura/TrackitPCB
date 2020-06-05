@@ -1,0 +1,203 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/TrackitPCB/footprints/Pin header (4pin)/1987374-4/unnamed.brd  |
+|                                                    Fri Jun 05 19:40:57 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  3.3V         pins ADDED TO this new net
+                                 C1.2           C2.1           C4.1           
+                                 CON2.1         D1.C           L1.2           
+                                 R1.2           R6.2           R8.1           
+                                 S1.1           S2.3           TP1.1          
+                                 U1.3           U1.14          U2.1           
+                                 U2.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUTTON       pins ADDED TO this new net
+                                 S2.1           TP4.1          U1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CTS_3V       pins ADDED TO this new net
+                                 R8.2           U1.28          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_POWER    pins ADDED TO this new net
+                                 C1.1           C2.2           C3.2           
+                                 C4.2           CON1.2         CON2.4         
+                                 Q1.2           R3.1           R7.2           
+                                 S1.3           TP2.1          U1.1           
+                                 U1.2           U1.13          U1.16          
+                                 U1.25          U1.42          U2.3           
+                                 U2.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MODE_3V      pins ADDED TO this new net
+                                 R5.1           U1.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N17667       pins ADDED TO this new net
+                                 L2.2           U2.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N17687       pins ADDED TO this new net
+                                 L2.1           U2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N24007       pins ADDED TO this new net
+                                 CON3.2         D1.A           Q1.3           
+                                 Q2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N24041       pins ADDED TO this new net
+                                 CON3.3         R4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N24073       pins ADDED TO this new net
+                                 Q1.1           R2.2           R3.2           
+                                 TP3.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N25874       pins ADDED TO this new net
+                                 Q2.1           R1.1           R4.2           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/TrackitPCB/footprints/Pin header (4pin)/1987374-4/unnamed.brd  |
+|                                                    Fri Jun 05 19:40:57 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N25919       pins ADDED TO this new net
+                                 CON3.1         L1.1           Q2.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26385       pins ADDED TO this new net
+                                 C3.1           CON1.1         U2.5           
+                                 U2.6           U2.7           U2.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26541       pins ADDED TO this new net
+                                 CON2.2         U1.36          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26545       pins ADDED TO this new net
+                                 CON2.3         U1.35          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26606       pins ADDED TO this new net
+                                 R2.1           U1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N170631      pins ADDED TO this new net
+                                 R5.2           S1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N172990      pins ADDED TO this new net
+                                 R7.1           S2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RXD_3V       pins ADDED TO this new net
+                                 R6.1           U1.29          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/TrackitPCB/footprints/Pin header (4pin)/1987374-4/unnamed.brd  |
+|                                                    Fri Jun 05 19:40:57 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 1N4148WSQ-7-F_3_SOD2513X120N_1N
+ 2-PIN CONNECTOR_0_MOLEX_0039296
+ 826948-3_3_TE_826948-3_826948-3
+ BLUETOOTH_4_MODULE_MDBT40-256RV
+ CAP- 0805_CAPC2012X140N_10UF
+ CAP- 0805_CAPC2012X140N_1UF
+ CAP- 0805_CAPC2012X140N_4.7UF
+ INDUCTOR_INDC2012X87N_1.5UH
+ INDUCTOR_INDC2012X87N_20UH
+ JS102011JCQN_SW_JS102011JCQN_JS
+ N CHANNEL MOSFET_SOT95P240X115-
+ PIN HEADER_0_TE_1987374-4_2-104
+ PUSH BUTTON_SW_TL3342F160QG_TL3
+ RESISITOR - 0805_RESC2012X60N_1
+ RESISITOR - 0805_RESC2012X60N_2
+ RESISITOR - 0805_RESC2012X60N_3
+ RESISITOR - 0805_RESC2012X60N_4
+ TEST POINT_TEST_POINT1_TEST POI
+ TPS63031_10SON_TPS63031
+ TRANSISTOR_SOT95P240X120-3N_MMB
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/TrackitPCB/footprints/Pin header (4pin)/1987374-4/unnamed.brd  |
+|                                                    Fri Jun 05 19:40:57 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP- 0805_CAPC2012X140N_1UF 
+ C2                  CAP- 0805_CAPC2012X140N_1UF 
+ C3                  CAP- 0805_CAPC2012X140N_4.7UF 
+ C4                  CAP- 0805_CAPC2012X140N_10UF 
+ CON1                2-PIN CONNECTOR_0_MOLEX_0039296 
+ CON2                PIN HEADER_0_TE_1987374-4_2-104 
+ CON3                826948-3_3_TE_826948-3_826948-3 
+ D1                  1N4148WSQ-7-F_3_SOD2513X120N_1N 
+ L1                  INDUCTOR_INDC2012X87N_20UH 
+ L2                  INDUCTOR_INDC2012X87N_1.5UH 
+ Q1                  N CHANNEL MOSFET_SOT95P240X115- 
+ Q2                  TRANSISTOR_SOT95P240X120-3N_MMB 
+ R1                  RESISITOR - 0805_RESC2012X60N_1 
+ R2                  RESISITOR - 0805_RESC2012X60N_1 
+ R3                  RESISITOR - 0805_RESC2012X60N_4 
+ R4                  RESISITOR - 0805_RESC2012X60N_1 
+ R5                  RESISITOR - 0805_RESC2012X60N_2 
+ R6                  RESISITOR - 0805_RESC2012X60N_3 
+ R7                  RESISITOR - 0805_RESC2012X60N_1 
+ R8                  RESISITOR - 0805_RESC2012X60N_3 
+ S1                  JS102011JCQN_SW_JS102011JCQN_JS 
+ S2                  PUSH BUTTON_SW_TL3342F160QG_TL3 
+ TP1                 TEST POINT_TEST_POINT1_TEST POI 
+ TP2                 TEST POINT_TEST_POINT1_TEST POI 
+ TP3                 TEST POINT_TEST_POINT1_TEST POI 
+ TP4                 TEST POINT_TEST_POINT1_TEST POI 
+ U1                  BLUETOOTH_4_MODULE_MDBT40-256RV 
+ U2                  TPS63031_10SON_TPS63031 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/TrackitPCB/footprints/Pin header (4pin)/1987374-4/unnamed.brd  |
+|                                                    Fri Jun 05 19:40:57 2020  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ CON1.1                         PRIM_FILE      .\pstchip.dat
+ CON2.3                         PRIM_FILE      .\pstchip.dat
+ CON3.1                         PRIM_FILE      .\pstchip.dat
+ D1.C                           PRIM_FILE      .\pstchip.dat
+ L1.2                           PRIM_FILE      .\pstchip.dat
+ L2.2                           PRIM_FILE      .\pstchip.dat
+ Q1.2                           PRIM_FILE      .\pstchip.dat
+ Q2.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ S1.3                           PRIM_FILE      .\pstchip.dat
+ S2.4                           PRIM_FILE      .\pstchip.dat
+ TP1.1                          PRIM_FILE      .\pstchip.dat
+ TP2.1                          PRIM_FILE      .\pstchip.dat
+ TP3.1                          PRIM_FILE      .\pstchip.dat
+ TP4.1                          PRIM_FILE      .\pstchip.dat
+ U1.14                          PRIM_FILE      .\pstchip.dat
+ U2.1                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  156                                            |
+|------------------------------------------------------------------------------|

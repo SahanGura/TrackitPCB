@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : test_point1.dra                               )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Jun 05 09:15:33 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/user/Documents/GitHub/TrackitPCB/footprints/test_point
+    Name      = test_point1.psm
+    User      = user
+    Machine   = DESKTOP-U6TBUH8
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

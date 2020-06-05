@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SW_TL3342F160QG.dra                           )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Jun 06 00:29:22 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/user/Documents/GitHub/TrackitPCB/footprints/push button
+    Name      = sw_tl3342f160qg.psm
+    User      = user
+    Machine   = DESKTOP-U6TBUH8
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

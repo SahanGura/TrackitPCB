@@ -1,0 +1,82 @@
+\t (00:00:03) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:03)     Journal start - Sat Jun 06 00:32:08 2020
+\t (00:00:03)         Host=DESKTOP-U6TBUH8 User=user Pid=7972 CPUs=4
+\t (00:00:03) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/push button/SW_TL3342F160QG.dra
+\i (00:00:03) trapsize 2426
+\i (00:00:03) trapsize 2368
+\i (00:00:03) trapsize 2435
+\i (00:00:04) trapsize 2027
+\i (00:00:04) trapsize 2027
+\i (00:00:05) generaledit 
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -0.2396 2.9962
+\i (00:00:06) trapsize 1013
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -0.2396 2.9962
+\i (00:00:06) trapsize 507
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -0.2902 2.8543
+\i (00:00:07) trapsize 1013
+\i (00:00:09) delete 
+\i (00:00:11) pick grid -1.8914 2.9355
+\t (00:00:11) last pick:  -2.0000  3.0000
+\t (00:00:11) Line "Package Geometry/Assembly_Top"
+\i (00:00:12) pick grid -1.8306 2.9963
+\t (00:00:12) last pick:  -2.0000  3.0000
+\t (00:00:12) Line "Device Type/Assembly_Top"
+\i (00:00:14) delete 
+\i (00:00:18) define grid 
+\t (00:00:18) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:00:23) setwindow form.grid
+\i (00:00:23) FORM grid non_etch non_etch_x_grids 0.5 
+\i (00:00:26) FORM grid non_etch non_etch_y_grids 0.5 
+\i (00:00:26) FORM grid done  
+\i (00:00:28) setwindow pcb
+\i (00:00:28) add line 
+\i (00:00:31) pick grid -4.5465 1.9829
+\t (00:00:31) last pick:  -4.5000  2.0000
+\i (00:00:35) pick grid -4.5263 2.7530
+\t (00:00:35) last pick:  -4.5000  3.0000
+\i (00:00:37) pick grid 4.5538 2.7530
+\t (00:00:37) last pick:  4.5000  3.0000
+\i (00:00:38) pick grid 4.5741 -2.7599
+\t (00:00:38) last pick:  4.5000  -3.0000
+\i (00:00:41) pick grid -4.2830 -3.1044
+\t (00:00:41) last pick:  -4.5000  -3.0000
+\i (00:00:42) pick grid -4.6884 1.7599
+\t (00:00:42) last pick:  -4.5000  2.0000
+\i (00:00:43) prepopup -6.2896 2.2058
+\i (00:00:44) done 
+\i (00:00:44) generaledit 
+\i (00:01:02) setwindow form.mini
+\i (00:01:02) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) add line 
+\i (00:01:05) pick grid -4.4654 3.0571
+\t (00:01:05) last pick:  -4.5000  3.0000
+\i (00:01:07) pick grid 4.6754 2.7530
+\t (00:01:07) last pick:  4.5000  3.0000
+\i (00:01:08) pick grid 4.2701 -2.7801
+\t (00:01:08) last pick:  4.5000  -3.0000
+\i (00:01:09) pick grid -4.6884 -3.2463
+\t (00:01:09) last pick:  -4.5000  -3.0000
+\i (00:01:11) pick grid -4.3033 2.7530
+\t (00:01:11) last pick:  -4.5000  3.0000
+\i (00:01:11) prepopup -5.8031 3.3408
+\i (00:01:12) done 
+\i (00:01:12) generaledit 
+\i (00:01:14) save 
+\i (00:01:15) fillin yes 
+\t (00:01:16) Symbol 'sw_tl3342f160qg.psm' created.
+\i (00:01:16) generaledit 
+\i (00:03:26) open 
+\i (00:03:50) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\tps63031\10SON.dra"
+\i (00:03:50) cd "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\tps63031"
+\t (00:03:50) Opening existing design...
+\i (00:03:50) trapsize 3406
+\t (00:03:50)     Journal end - Sat Jun 06 00:35:56 2020

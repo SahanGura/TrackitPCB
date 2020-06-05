@@ -1,0 +1,122 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Testprep Automatic Log File                                      )
+(                                                                     )
+(    Drawing          : New board.brd                                 )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu May 28 14:36:19 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ Probes accessing bottom of the board.
+ Pad type restricted to 'THRU'.
+ Pin type restricted to 'ANY POINT'.
+ Minimum pad dimension is : 0.0000
+ Test pad grid: X: 0.0000 Y: 0.0000
+ Minimum test point spacing is : 0.0000
+ No test points allowed under components.
+ Component representation is ASSEMBLY data.
+ Bare board switch off, no test points allowed on
+   component pins on tested side.
+ Tested one pin per net.
+ No unused pins tested.
+ No direct pin testing allowed, EXCEPT on vias.
+ No direct trace testing allowed.
+ Automatic test point insertion disabled.
+ Test pad displacement: Min: 0.0000, Max: 0.0000
+ Via replacement NOT allowed.
+ Cline bubbling  allowed.
+ Test SMT/blind pad: 
+ Test thru via     : 
+ Executed in OVERWRITE mode.
+ Probe text angle: 0 degrees.
+ Probe text offset: X: 0.0000 Y: 0.0000
+
+
+  NET        PIN                                        PROBE TEXT
+==================================================================
+
+Processing net BUTTON (1 out of 20),(c=0, f=0, i=0).
+ Net BUTTON NOT ACCESSIBLE from bottom side.
+    (no pin-escape=2)
+
+Processing net BUZZER (2 out of 20),(c=0, f=1, i=0).
+ Net BUZZER NOT ACCESSIBLE from bottom side.
+    (no pin-escape=3)
+
+Processing net SWDIO (3 out of 20),(c=0, f=2, i=0).
+ Net SWDIO NOT ACCESSIBLE from bottom side.
+    (no pin-escape=2)
+
+Processing net SWCLK (4 out of 20),(c=0, f=3, i=0).
+ Net SWCLK NOT ACCESSIBLE from bottom side.
+    (no pin-escape=2)
+
+Processing net N15440 (5 out of 20),(c=0, f=4, i=0).
+  N15440     VIA             @(  1410.3504,  1172.2520) N15440      
+
+Processing net MODE_3V (6 out of 20),(c=1, f=4, i=0).
+ Net MODE_3V NOT ACCESSIBLE from bottom side.
+    (no pin-escape=2)
+
+Processing net RXD_3V (7 out of 20),(c=1, f=5, i=0).
+ Net RXD_3V NOT ACCESSIBLE from bottom side.
+    (no pin-escape=2)
+
+Processing net N03993 (8 out of 20),(c=1, f=6, i=0).
+  N03993     VIA             @(  1439.3504,  1191.7520) N03993      
+
+Processing net N15436 (9 out of 20),(c=2, f=6, i=0).
+  N15436     VIA             @(  1119.5000,  1300.1259) N15436      
+
+Processing net N15361 (10 out of 20),(c=3, f=6, i=0).
+ Net N15361 NOT ACCESSIBLE from bottom side.
+    (no pin-escape=3)
+
+Processing net CTS_3V (11 out of 20),(c=3, f=7, i=0).
+ Net CTS_3V NOT ACCESSIBLE from bottom side.
+    (no pin-escape=2)
+
+Processing net GND_POWER (12 out of 20),(c=3, f=8, i=0).
+  GND_POWER  VIA             @(  1300.0000,  1019.5000) GND_POWER   
+
+Processing net 3.3V (13 out of 20),(c=4, f=8, i=0).
+  3.3V       VIA             @(  1044.9528,  1302.3149) 3.3V        
+
+Processing net N13311 (14 out of 20),(c=5, f=8, i=0).
+  N13311     VIA             @(  1200.0000,  1373.4961) N13311      
+
+Processing net N00847 (15 out of 20),(c=6, f=8, i=0).
+ Net N00847 NOT ACCESSIBLE from bottom side.
+    (no pin-escape=6)
+
+Processing net N00727 (16 out of 20),(c=6, f=9, i=0).
+ Net N00727 NOT ACCESSIBLE from bottom side.
+    (no pin-escape=2)
+
+Processing net N00675 (17 out of 20),(c=6, f=10, i=0).
+ Net N00675 NOT ACCESSIBLE from bottom side.
+    (no pin-escape=2)
+
+Processing net DCC (18 out of 20),(c=6, f=11, i=0).
+ Net DCC NOT ACCESSIBLE from bottom side.
+    (no pin-escape=1)
+
+Processing net DEC2 (19 out of 20),(c=6, f=12, i=0).
+ Net DEC2 NOT ACCESSIBLE from bottom side.
+    (no pin-escape=1)
+
+Processing net N083160 (20 out of 20),(c=6, f=13, i=0).
+ Net N083160 NOT ACCESSIBLE from bottom side.
+    (no pin-escape=2)
+
+  Total nets processed:	20
+
+  Total nets failed:	14
+  Total nets ignored: 0
+  Total warnings: 0
+
+  Total test points on bottom:	6
+
+  Test Point Total:	6
