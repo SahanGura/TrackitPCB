@@ -1,12 +1,16 @@
-\t (00:00:40) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:40)     Journal start - Fri Jun 05 19:34:10 2020
-\t (00:00:40)         Host=DESKTOP-U6TBUH8 User=user Pid=10948 CPUs=4
-\t (00:00:40) 
-\d (00:00:40) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/Pin header (4pin)/316065-2/TE_316065-2.dra
-\i (00:00:41) generaledit 
-\i (00:00:42) open 
-\i (00:00:51) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Pin header (4pin)\2-104186-1 old\TE_2-104186-1.dra"
-\i (00:00:51) cd "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Pin header (4pin)\2-104186-1 old"
-\t (00:00:51) Opening existing design...
-\i (00:00:51) trapsize 5464
-\t (00:00:51)     Journal end - Fri Jun 05 19:34:21 2020
+\t (00:00:30) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:30)     Journal start - Mon Jun 08 22:07:19 2020
+\t (00:00:30)         Host=DESKTOP-U6TBUH8 User=user Pid=9908 CPUs=4
+\t (00:00:30) 
+\d (00:00:30) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/Pin header (4pin)/316065-2/TE_316065-2.dra
+\i (00:00:31) generaledit 
+\e (00:01:59) Command not found: xhilite
+\i (00:01:59) xname_flush 
+\i (00:01:59) done 
+\i (00:02:00) generaledit 
+\i (00:04:13) open 
+\i (00:04:20) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\2 pin Connector\0039296028\MOLEX_0039296028.dra"
+\i (00:04:20) cd "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\2 pin Connector\0039296028"
+\t (00:04:20) Opening existing design...
+\i (00:04:20) trapsize 8543
+\t (00:04:20)     Journal end - Mon Jun 08 22:11:09 2020

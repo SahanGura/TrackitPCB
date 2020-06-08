@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : MODULE_MDBT40-256RV3.dra                      )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Jun 08 22:00:24 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/user/Documents/GitHub/TrackitPCB/footprints/bluetooth module
+    Name      = module_mdbt40-256rv3.psm
+    User      = user
+    Machine   = DESKTOP-U6TBUH8
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

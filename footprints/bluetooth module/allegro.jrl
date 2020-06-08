@@ -1,0 +1,151 @@
+\t (00:02:12) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:02:12)     Journal start - Mon Jun 08 21:57:08 2020
+\t (00:02:12)         Host=DESKTOP-U6TBUH8 User=user Pid=10840 CPUs=4
+\t (00:02:12) 
+\d (00:02:12) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/bluetooth module/MODULE_MDBT40-256RV3.dra
+\i (00:02:12) generaledit 
+\i (00:02:13) zoom in 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom in -13.3197 5.7692
+\i (00:02:13) trapsize 6717
+\i (00:02:13) zoom in 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom in -26.4848 6.0379
+\i (00:02:13) trapsize 3358
+\i (00:02:14) zoom in 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom in -28.7344 6.2394
+\i (00:02:14) trapsize 1679
+\i (00:02:14) zoom out 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom out -0.0196 5.8029
+\i (00:02:14) trapsize 3358
+\i (00:02:14) zoom out 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom out 24.7652 5.8028
+\i (00:02:14) trapsize 6717
+\i (00:02:15) zoom in 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom in -0.1545 -13.8105
+\i (00:02:15) trapsize 3358
+\i (00:02:15) zoom in 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom in -13.5542 -11.8626
+\i (00:02:15) trapsize 1679
+\i (00:02:16) zoom out 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom out -2.0683 -6.9256
+\i (00:02:16) trapsize 3358
+\i (00:02:17) zoom in 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom in 4.9503 9.7324
+\i (00:02:17) trapsize 1679
+\i (00:02:17) zoom out 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom out 5.0175 8.9264
+\i (00:02:17) trapsize 3358
+\i (00:02:26) setwindow form.mini
+\i (00:02:26) FORM mini subclass ASSEMBLY_BOTTOM 
+\i (00:02:28) setwindow pcb
+\i (00:02:28) zoom in 1 
+\i (00:02:28) setwindow pcb
+\i (00:02:28) zoom in 4.0100 5.7694
+\i (00:02:28) trapsize 1679
+\i (00:02:28) zoom in 1 
+\i (00:02:28) setwindow pcb
+\i (00:02:28) zoom in 4.0100 5.7694
+\i (00:02:28) trapsize 840
+\i (00:02:30) zoom in 1 
+\i (00:02:30) setwindow pcb
+\i (00:02:30) zoom in 4.0100 5.7694
+\i (00:02:30) trapsize 420
+\i (00:02:31) zoom out 1 
+\i (00:02:31) setwindow pcb
+\i (00:02:31) zoom out 4.0184 5.7695
+\i (00:02:31) trapsize 840
+\i (00:02:31) zoom out 1 
+\i (00:02:31) setwindow pcb
+\i (00:02:31) zoom out 4.0184 5.7695
+\i (00:02:31) trapsize 1679
+\i (00:02:33) zoom in 1 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) zoom in -4.9823 8.7585
+\i (00:02:33) trapsize 840
+\i (00:02:33) zoom in 1 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) zoom in -4.9823 8.7585
+\i (00:02:33) trapsize 420
+\i (00:02:34) zoom out 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom out -4.9823 8.7585
+\i (00:02:34) trapsize 840
+\i (00:02:34) zoom out 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom out -4.9822 8.7586
+\i (00:02:34) trapsize 1679
+\i (00:02:46) setwindow form.mini
+\i (00:02:46) FORM mini subcolor 0 
+\i (00:02:47) FORM mini subcolor 1 
+\i (00:02:47) FORM mini subcolor 0 
+\i (00:02:48) FORM mini subcolor 1 
+\i (00:02:48) FORM mini subcolor 0 
+\i (00:02:49) setwindow pcb
+\i (00:02:49) pick grid 20.9451 5.3330
+\t (00:02:49) last pick:  20.3200  5.0800
+\i (00:02:55) setwindow form.mini
+\i (00:02:55) FORM mini subcolor 1 
+\i (00:03:29) setwindow pcb
+\i (00:03:29) color192 
+\i (00:03:29) setwindow cvf.dialog
+\i (00:03:29) cvf layer_mode
+\i (00:03:29) setwindow pcb
+\i (00:03:29) generaledit 
+\i (00:03:32) setwindow cvf.dialog
+\i (00:03:32) cvf layers_color package_geometry/assembly_bottom 1
+\i (00:03:32) cvf layers_color package_geometry/assembly_bottom 1
+\i (00:03:34) cvf layers_color package_geometry/assembly_bottom 1
+\i (00:03:34) cvf layers_color package_geometry/assembly_bottom 1
+\i (00:03:37) cvf layers_color package_geometry/body_center 1
+\i (00:03:38) cvf layers_color package_geometry/assembly_bottom 1
+\i (00:03:41) cvf cancel
+\i (00:03:46) setwindow pcb
+\i (00:03:46) color192 
+\i (00:03:46) generaledit 
+\i (00:03:47) setwindow cvf.dialog
+\i (00:03:47) cvf layers_color package_geometry/assembly_bottom 1
+\i (00:03:57) cvf select_color_cell 32
+\i (00:04:01) cvf layers_color package_geometry/assembly_bottom 33
+\i (00:04:05) cvf apply
+\i (00:04:06) cvf okay
+\i (00:04:17) setwindow pcb
+\i (00:04:17) color192 
+\i (00:04:17) setwindow cvf.dialog
+\i (00:04:17) cvf layer_mode
+\i (00:04:17) setwindow pcb
+\i (00:04:17) generaledit 
+\i (00:05:03) setwindow cvf.dialog
+\i (00:05:03) cvf select_color_cell 77
+\i (00:05:05) cvf layers_color package_geometry/all_row 78
+\i (00:05:08) cvf cancel
+\i (00:05:11) setwindow pcb
+\i (00:05:11) color192 
+\i (00:05:11) generaledit 
+\i (00:05:14) setwindow cvf.dialog
+\i (00:05:14) cvf layers_color package_geometry/assembly_bottom 78
+\i (00:05:16) cvf apply
+\i (00:05:17) cvf okay
+\i (00:05:23) setwindow pcb
+\i (00:05:23) save 
+\i (00:05:24) fillin yes 
+\t (00:05:28) Symbol 'module_mdbt40-256rv3.psm' created.
+\i (00:05:28) generaledit 
+\i (00:06:08) open 
+\i (00:06:18) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\trackitboard2.brd"
+\i (00:06:18) cd "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2"
+\t (00:06:18) Opening existing design...
+\i (00:06:21) fillin yes 
+\i (00:06:21) trapsize 955
+\i (00:06:21) trapsize 932
+\i (00:06:21) trapsize 955
+\i (00:06:21) trapsize 955
+\t (00:06:21)     Journal end - Mon Jun 08 22:01:17 2020
