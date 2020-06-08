@@ -1,14 +1,18 @@
+<HTML><HEAD><STYLE TYPE="text/css">.errorMessage { color:darkred; font-weight:bold; font-style:italic; text-decoration:underline; }</STYLE></HEAD><BODY><PRE>
 (---------------------------------------------------------------------)
 (                                                                     )
 (    PDF Export                                                       )
 (                                                                     )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Tue Jun 09 01:59:29 2020                      )
+(    Date/Time        : Tue Jun 09 01:58:31 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
 Output file: C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2/trackitboard3.pdf
+ERROR: This file is already open or in use by another application.
 Design file: C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2/trackitboard3.brd
 pdf_out complete.
+</PRE>
+</BODY></HTML>
