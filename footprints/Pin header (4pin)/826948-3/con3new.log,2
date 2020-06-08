@@ -4,16 +4,16 @@
 (                                                                     )
 (    Drawing          : con3new.dra                                   )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Mon Jun 08 21:27:55 2020                      )
+(    Date/Time        : Fri Jun 05 23:11:10 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = C:/Users/ASITHA/Documents/GitHub/Trackit/footprints/Pin header (4pin)/826948-3
+    Directory = C:/Users/user/Documents/GitHub/TrackitPCB/footprints/Pin header (4pin)/826948-3
     Name      = con3new.psm
-    User      = ASITHA
-    Machine   = ASITHA
+    User      = user
+    Machine   = DESKTOP-U6TBUH8
 
 
 Create symbol started.
