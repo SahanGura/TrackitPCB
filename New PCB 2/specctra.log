@@ -1,0 +1,2497 @@
+# 
+# ===============================================================================
+#                               Allegro PCB Router                               
+# Copyright 1990-2010 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Mon Jun 08 18:41:42 2020
+# 
+# Allegro PCB Router v16-6-112 made 2012/09/12 at 23:00:45
+# Running on: asitha, OS Version: WindowsNT 6.2.9200, Architecture: Intel Pentium II, III, or 4
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Batch File Name: pasde.do
+# Did File Name: C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2/specctra.did
+# Current time = Mon Jun 08 18:41:43 2020
+# PCB C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2
+# Master Unit set up as: MM 100000
+# PCB Limits xlo=-209.8380 ylo=-127.5155 xhi=234.2780 yhi=232.1280
+# Total 16 Images Consolidated.
+# Via VIA z=1, 2 xlo= -0.3048 ylo= -0.3048 xhi=  0.3048 yhi=  0.3048
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# Wires Processed 0, Vias Processed 0
+# Using colormap in design file.
+# Layers Processed: Signal Layers 2
+# Components Placed 28, Images Processed 41, Padstacks Processed 16
+# Nets Processed 19, Net Terminals 80
+# PCB Area=158907.845  EIC=7  Area/EIC=22701.121  SMDs=25
+# Total Pin Count: 109
+# Signal Connections Created 61
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 61
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length 492.2218 Horizontal 246.1509 Vertical 246.0708
+# Routed Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length 492.2218 Horizontal 237.5748 Vertical 254.6470
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# Loading Do File pasde.do ...
+# Loading Do File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2_rules.do ...
+# Colormap Written to File _notify.std
+# Enter command <# Loading Do File C:/Users/ASITHA/AppData/Local/Temp/#Taaaaal08644.tmp ...
+# All Components Unselected.
+# All Nets Unselected.
+set route_diagonal 0
+grid wire 0.000100 (direction x) (offset 0.000000)
+grid wire 0.000100 (direction y) (offset 0.000000)
+grid via 0.000100 (direction x) (offset 0.000000)
+grid via 0.000100 (direction y) (offset 0.000000)
+protect all wires
+# All Wires Protected.
+direction TOP horizontal
+select layer TOP
+unprotect layer_wires TOP
+# Wires on layer TOP were Unprotected.
+direction BOTTOM vertical
+select layer BOTTOM
+unprotect layer_wires BOTTOM
+# Wires on layer BOTTOM were Unprotected.
+cost via -1
+# System default cost will be used.
+set turbo_stagger off
+limit outside -1
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+unprotect selected
+# All Selected Wires Unprotected.
+route 25 1
+# Current time = Mon Jun 08 18:42:04 2020
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 61
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length 492.2218 Horizontal 246.1509 Vertical 246.0708
+# Routed Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length 492.2218 Horizontal 237.5748 Vertical 254.6470
+# Start Route Pass 1 of 25
+# Routing 61 wires.
+# Total Conflicts: 24 (Cross: 23, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 3
+# Attempts 61 Successes 58 Failures 3 Vias 18
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# End Pass 1 of 25
+# Start Route Pass 2 of 25
+# Routing 97 wires.
+# Total Conflicts: 9 (Cross: 8, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 83 Successes 79 Failures 4 Vias 19
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Conflict Reduction  0.6250
+# End Pass 2 of 25
+# 6 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Start Route Pass 3 of 25
+# Routing 27 wires.
+# 3 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 25 Successes 22 Failures 3 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 25
+# Start Route Pass 4 of 25
+# Routing 6 wires.
+# 3 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 4 of 25
+# Start Route Pass 5 of 25
+# Routing 5 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 2 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 5 of 25
+# Start Route Pass 6 of 25
+# Routing 6 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 6 of 25
+# Start Route Pass 7 of 25
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 7 of 25
+# Start Route Pass 8 of 25
+# Routing 6 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 8 of 25
+# Start Route Pass 9 of 25
+# Routing 5 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 9 of 25
+# Start Route Pass 10 of 25
+# Routing 6 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 10 of 25
+# Start Route Pass 11 of 25
+# Routing 5 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 3 Successes 3 Failures 0 Vias 21
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 11 of 25
+# Start Route Pass 12 of 25
+# Routing 6 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 4 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 12 of 25
+# Start Route Pass 13 of 25
+# Routing 5 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 2 Successes 2 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 13 of 25
+# Start Route Pass 14 of 25
+# Routing 6 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 4 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 14 of 25
+# Start Route Pass 15 of 25
+# Routing 5 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 3 Successes 3 Failures 0 Vias 21
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 15 of 25
+# Start Route Pass 16 of 25
+# Routing 6 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 4 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 16 of 25
+# Start Route Pass 17 of 25
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 3 Successes 3 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 17 of 25
+# Start Route Pass 18 of 25
+# Routing 6 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 3 Successes 3 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 18 of 25
+# Start Route Pass 19 of 25
+# Routing 5 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 3 Successes 3 Failures 0 Vias 21
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 19 of 25
+# Start Route Pass 20 of 25
+# Routing 6 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 20 of 25
+# Start Route Pass 21 of 25
+# Routing 5 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 21 of 25
+# Start Route Pass 22 of 25
+# Routing 6 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 22 of 25
+# Start Route Pass 23 of 25
+# Routing 5 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 2 Failures 2 Vias 21
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 23 of 25
+# Start Route Pass 24 of 25
+# Routing 6 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 24 of 25
+# Start Route Pass 25 of 25
+# Routing 5 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 25 of 25
+# Cpu Time = 0:00:07  Elapsed Time = 0:00:07
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    23|     1|   3|    3|   18|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    |  2|     8|     1|   4|    2|   19|    0|   0| 62|  0:00:00|  0:00:01|
+# Route    |  3|     0|     1|   3|    2|   21|    0|   0| 88|  0:00:00|  0:00:01|
+# Route    |  4|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  5|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  6|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  7|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    |  8|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |  9|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 10|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 11|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:03|
+# Route    | 12|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 13|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 14|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 15|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:04|
+# Route    | 16|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 17|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 18|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 19|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:05|
+# Route    | 20|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 21|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 22|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 23|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:06|
+# Route    | 24|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 25|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:06
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 32, at vias 6 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 462.3923 Horizontal 239.5553 Vertical 222.8370
+# Routed Length 512.9605 Horizontal 264.8379 Vertical 248.1226
+# Ratio Actual / Manhattan   1.1094
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+clean 2
+# Current time = Mon Jun 08 18:42:11 2020
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 32, at vias 6 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 462.3923 Horizontal 239.5553 Vertical 222.8370
+# Routed Length 512.9605 Horizontal 264.8379 Vertical 248.1226
+# Ratio Actual / Manhattan   1.1094
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Start Clean Pass 1 of 2
+# Routing 108 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 92 Successes 88 Failures 4 Vias 20
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 2
+# Start Clean Pass 2 of 2
+# Routing 114 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 92 Successes 87 Failures 5 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 2
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    23|     1|   3|    3|   18|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    |  2|     8|     1|   4|    2|   19|    0|   0| 62|  0:00:00|  0:00:01|
+# Route    |  3|     0|     1|   3|    2|   21|    0|   0| 88|  0:00:00|  0:00:01|
+# Route    |  4|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  5|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  6|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  7|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    |  8|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |  9|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 10|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 11|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:03|
+# Route    | 12|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 13|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 14|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 15|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:04|
+# Route    | 16|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 17|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 18|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 19|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:05|
+# Route    | 20|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 21|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 22|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 23|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:06|
+# Route    | 24|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 25|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Clean    | 26|     0|     1|   4|    2|   20|    0|   0|   |  0:00:00|  0:00:06|
+# Clean    | 27|     0|     1|   5|    2|   21|    0|   0|   |  0:00:00|  0:00:06|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:06
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 34, at vias 9 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 457.4369 Horizontal 226.9073 Vertical 230.5296
+# Routed Length 492.7291 Horizontal 245.7650 Vertical 246.9642
+# Ratio Actual / Manhattan   1.0772
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+write routes (changed_only) (reset_changed) C:/Users/ASITHA/AppData/Local/Temp/#Taaaaam08644.tmp
+# Routing Written to File C:/Users/ASITHA/AppData/Local/Temp/#Taaaaam08644.tmp
+# Loading Do File C:/Users/ASITHA/AppData/Local/Temp/#Taaaaan08644.tmp ...
+# All Components Unselected.
+# All Nets Unselected.
+set route_diagonal 4
+grid wire 0.000100 (direction x) (offset 0.000000)
+grid wire 0.000100 (direction y) (offset 0.000000)
+grid via 0.000100 (direction x) (offset 0.000000)
+grid via 0.000100 (direction y) (offset 0.000000)
+protect all wires
+# All Wires Protected.
+direction TOP horizontal
+select layer TOP
+unprotect layer_wires TOP
+# Wires on layer TOP were Unprotected.
+direction BOTTOM vertical
+select layer BOTTOM
+unprotect layer_wires BOTTOM
+# Wires on layer BOTTOM were Unprotected.
+cost via -1
+# System default cost will be used.
+set turbo_stagger off
+limit outside -1
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+unprotect selected
+# All Selected Wires Unprotected.
+smart_route (min_via_grid 0.000100) (auto_fanout off) (auto_testpoint off) (auto_miter on)
+# Smart Route: This board is already 95.08% completed. 
+# Using modified smart_route algorithm.
+# Smart Route: Executing 50 route passes.
+# Current time = Mon Jun 08 18:47:58 2020
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 34, at vias 9 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 457.4369 Horizontal 226.9073 Vertical 230.5296
+# Routed Length 492.7291 Horizontal 245.7650 Vertical 246.9642
+# Ratio Actual / Manhattan   1.0772
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Start Route Pass 1 of 50
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 1 passes.
+# Start Route Pass 2 of 50
+# Routing 6 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# <<WARNING:>> Smart Route: Conflict reduction rate 0 is very low 
+# after 2 passes. 
+# Design may not reach 100%. 
+# Check number of layers, grids and design rules.
+# Start Route Pass 3 of 50
+# Routing 5 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# <<WARNING:>> Smart Route: Average reduction ratio only 0 after 3 passes. 
+# Design may converge very slowly. 
+# Monitor status file carefully.
+# Start Route Pass 4 of 50
+# Routing 6 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 4 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# <<WARNING:>> Smart Route: Average reduction ratio only 0 after 4 passes. 
+# Design may converge very slowly. 
+# Monitor status file carefully.
+# Start Route Pass 5 of 50
+# Routing 5 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 2 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 5 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# <<WARNING:>> Smart Route: Average reduction ratio only 0 after 5 passes. 
+# Design may converge very slowly. 
+# Monitor status file carefully.
+# Start Route Pass 6 of 50
+# Routing 6 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 6 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 6 passes.
+# Start Route Pass 7 of 50
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 7 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 7 passes.
+# Start Route Pass 8 of 50
+# Routing 6 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 8 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 8 passes.
+# Start Route Pass 9 of 50
+# Routing 5 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 9 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 9 passes.
+# Start Route Pass 10 of 50
+# Routing 6 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 10 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 10 passes.
+# Start Route Pass 11 of 50
+# Routing 5 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 2 Successes 2 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 11 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 11 passes.
+# Start Route Pass 12 of 50
+# Routing 6 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 4 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 12 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 12 passes.
+# Start Route Pass 13 of 50
+# Routing 5 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 3 Successes 3 Failures 0 Vias 21
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 13 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 13 passes.
+# Start Route Pass 14 of 50
+# Routing 6 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 4 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 14 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 14 passes.
+# Start Route Pass 15 of 50
+# Routing 5 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 2 Successes 2 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 15 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 15 passes.
+# Start Route Pass 16 of 50
+# Routing 6 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 3 Successes 3 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 16 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 16 passes.
+# Start Route Pass 17 of 50
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 3 Successes 3 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 17 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 17 passes.
+# Start Route Pass 18 of 50
+# Routing 6 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 4 Failures 0 Vias 21
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 18 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 18 passes.
+# Start Route Pass 19 of 50
+# Routing 5 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 3 Successes 3 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 19 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 19 passes.
+# Start Route Pass 20 of 50
+# Routing 6 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 4 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 20 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 20 passes.
+# Start Route Pass 21 of 50
+# Routing 5 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 2 Successes 2 Failures 0 Vias 21
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 21 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 21 passes.
+# Start Route Pass 22 of 50
+# Routing 6 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 4 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 22 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 22 passes.
+# Start Route Pass 23 of 50
+# Routing 5 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 3 Successes 3 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 23 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 23 passes.
+# Start Route Pass 24 of 50
+# Routing 6 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 4 Failures 0 Vias 21
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 24 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 24 passes.
+# Start Route Pass 25 of 50
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 2 Successes 2 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 25 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Smart Route: Smart_route progressing normally after 25 passes.
+# Start Route Pass 26 of 50
+# Routing 6 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 3 Successes 3 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 26 of 50
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Cpu Time = 0:00:09  Elapsed Time = 0:00:09
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    23|     1|   3|    3|   18|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    |  2|     8|     1|   4|    2|   19|    0|   0| 62|  0:00:00|  0:00:01|
+# Route    |  3|     0|     1|   3|    2|   21|    0|   0| 88|  0:00:00|  0:00:01|
+# Route    |  4|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  5|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  6|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  7|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    |  8|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |  9|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 10|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 11|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:03|
+# Route    | 12|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 13|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 14|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 15|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:04|
+# Route    | 16|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 17|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 18|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 19|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:05|
+# Route    | 20|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 21|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 22|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 23|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:06|
+# Route    | 24|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 25|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Clean    | 26|     0|     1|   4|    2|   20|    0|   0|   |  0:00:00|  0:00:06|
+# Clean    | 27|     0|     1|   5|    2|   21|    0|   0|   |  0:00:00|  0:00:06|
+# Route    | 28|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 29|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 30|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 31|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 32|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 33|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 34|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 35|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 36|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 37|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:07|
+# Route    | 38|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 39|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 40|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:08|
+# Route    | 41|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 42|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 43|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 44|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 45|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:09|
+# Route    | 46|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 47|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 48|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:10|
+# Route    | 49|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 50|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 51|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:11|
+# Route    | 52|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 53|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:11
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 34, at vias 9 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 457.4369 Horizontal 226.9073 Vertical 230.5296
+# Routed Length 493.2371 Horizontal 245.7650 Vertical 247.4722
+# Ratio Actual / Manhattan   1.0783
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# <<WARNING:>> Smart Route: No real conflict reduction achieved in previous 5 passes. 
+# Automatically forcing convergence.
+# Current time = Mon Jun 08 18:48:07 2020
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 34, at vias 9 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 457.4369 Horizontal 226.9073 Vertical 230.5296
+# Routed Length 493.2371 Horizontal 245.7650 Vertical 247.4722
+# Ratio Actual / Manhattan   1.0783
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Start Route Pass 1 of 5
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 2 of 5
+# Routing 6 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 2 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 3 of 5
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 4 of 5
+# Routing 6 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 4 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 5 of 5
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 2 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 5 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Cpu Time = 0:00:02  Elapsed Time = 0:00:02
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    23|     1|   3|    3|   18|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    |  2|     8|     1|   4|    2|   19|    0|   0| 62|  0:00:00|  0:00:01|
+# Route    |  3|     0|     1|   3|    2|   21|    0|   0| 88|  0:00:00|  0:00:01|
+# Route    |  4|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  5|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  6|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  7|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    |  8|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |  9|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 10|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 11|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:03|
+# Route    | 12|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 13|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 14|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 15|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:04|
+# Route    | 16|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 17|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 18|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 19|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:05|
+# Route    | 20|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 21|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 22|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 23|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:06|
+# Route    | 24|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 25|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Clean    | 26|     0|     1|   4|    2|   20|    0|   0|   |  0:00:00|  0:00:06|
+# Clean    | 27|     0|     1|   5|    2|   21|    0|   0|   |  0:00:00|  0:00:06|
+# Route    | 28|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 29|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 30|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 31|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 32|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 33|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 34|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 35|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 36|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 37|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:07|
+# Route    | 38|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 39|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 40|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:08|
+# Route    | 41|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 42|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 43|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 44|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 45|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:09|
+# Route    | 46|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 47|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 48|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:10|
+# Route    | 49|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 50|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 51|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:11|
+# Route    | 52|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 53|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 54|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 55|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:12|
+# Route    | 56|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 57|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 58|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:12
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 34, at vias 9 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 456.7904 Horizontal 226.4544 Vertical 230.3360
+# Routed Length 495.3216 Horizontal 247.8495 Vertical 247.4722
+# Ratio Actual / Manhattan   1.0844
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Current time = Mon Jun 08 18:48:09 2020
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 34, at vias 9 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 456.7904 Horizontal 226.4544 Vertical 230.3360
+# Routed Length 495.3216 Horizontal 247.8495 Vertical 247.4722
+# Ratio Actual / Manhattan   1.0844
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Start Route Pass 1 of 5
+# Routing 5 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 2 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 2 of 5
+# Routing 6 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 2 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 3 of 5
+# Routing 5 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 4 of 5
+# Routing 6 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 4 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 5 of 5
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 2 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 5 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Cpu Time = 0:00:02  Elapsed Time = 0:00:03
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    23|     1|   3|    3|   18|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    |  2|     8|     1|   4|    2|   19|    0|   0| 62|  0:00:00|  0:00:01|
+# Route    |  3|     0|     1|   3|    2|   21|    0|   0| 88|  0:00:00|  0:00:01|
+# Route    |  4|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  5|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  6|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  7|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    |  8|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |  9|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 10|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 11|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:03|
+# Route    | 12|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 13|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 14|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 15|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:04|
+# Route    | 16|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 17|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 18|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 19|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:05|
+# Route    | 20|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 21|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 22|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 23|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:06|
+# Route    | 24|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 25|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Clean    | 26|     0|     1|   4|    2|   20|    0|   0|   |  0:00:00|  0:00:06|
+# Clean    | 27|     0|     1|   5|    2|   21|    0|   0|   |  0:00:00|  0:00:06|
+# Route    | 28|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 29|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 30|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 31|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 32|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 33|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 34|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 35|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 36|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 37|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:07|
+# Route    | 38|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 39|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 40|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:08|
+# Route    | 41|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 42|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 43|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 44|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 45|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:09|
+# Route    | 46|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 47|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 48|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:10|
+# Route    | 49|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 50|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 51|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:11|
+# Route    | 52|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 53|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 54|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 55|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:12|
+# Route    | 56|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 57|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 58|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 59|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 60|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 61|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 62|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 63|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:12
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 34, at vias 9 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 456.7904 Horizontal 226.4544 Vertical 230.3360
+# Routed Length 495.3216 Horizontal 247.8495 Vertical 247.4722
+# Ratio Actual / Manhattan   1.0844
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Current time = Mon Jun 08 18:48:12 2020
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 34, at vias 9 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 456.7904 Horizontal 226.4544 Vertical 230.3360
+# Routed Length 495.3216 Horizontal 247.8495 Vertical 247.4722
+# Ratio Actual / Manhattan   1.0844
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Start Route Pass 1 of 5
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 2 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 2 of 5
+# Routing 6 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 3 of 5
+# Routing 5 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 3 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 4 of 5
+# Routing 6 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 4 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 5 of 5
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 2 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 5 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Cpu Time = 0:00:02  Elapsed Time = 0:00:02
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    23|     1|   3|    3|   18|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    |  2|     8|     1|   4|    2|   19|    0|   0| 62|  0:00:00|  0:00:01|
+# Route    |  3|     0|     1|   3|    2|   21|    0|   0| 88|  0:00:00|  0:00:01|
+# Route    |  4|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  5|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  6|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  7|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    |  8|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |  9|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 10|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 11|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:03|
+# Route    | 12|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 13|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 14|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 15|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:04|
+# Route    | 16|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 17|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 18|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 19|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:05|
+# Route    | 20|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 21|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 22|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 23|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:06|
+# Route    | 24|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 25|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Clean    | 26|     0|     1|   4|    2|   20|    0|   0|   |  0:00:00|  0:00:06|
+# Clean    | 27|     0|     1|   5|    2|   21|    0|   0|   |  0:00:00|  0:00:06|
+# Route    | 28|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 29|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 30|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 31|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 32|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 33|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 34|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 35|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 36|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 37|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:07|
+# Route    | 38|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 39|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 40|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:08|
+# Route    | 41|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 42|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 43|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 44|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 45|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:09|
+# Route    | 46|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 47|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 48|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:10|
+# Route    | 49|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 50|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 51|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:11|
+# Route    | 52|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 53|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 54|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 55|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:12|
+# Route    | 56|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 57|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 58|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 59|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 60|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 61|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 62|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 63|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 64|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 65|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 66|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:13|
+# Route    | 67|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:13|
+# Route    | 68|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:13|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:13
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 34, at vias 9 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 456.7904 Horizontal 226.4544 Vertical 230.3360
+# Routed Length 495.3216 Horizontal 247.8495 Vertical 247.4722
+# Ratio Actual / Manhattan   1.0844
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Current time = Mon Jun 08 18:48:14 2020
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 34, at vias 9 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 456.7904 Horizontal 226.4544 Vertical 230.3360
+# Routed Length 495.3216 Horizontal 247.8495 Vertical 247.4722
+# Ratio Actual / Manhattan   1.0844
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Start Route Pass 1 of 5
+# Routing 5 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 2 Failures 2 Vias 21
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# End Pass 1 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 2 of 5
+# Routing 6 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 3 of 5
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 4 of 5
+# Routing 6 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 4 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 5 of 5
+# Routing 5 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 2 Failures 2 Vias 21
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 5 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Cpu Time = 0:00:02  Elapsed Time = 0:00:02
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    23|     1|   3|    3|   18|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    |  2|     8|     1|   4|    2|   19|    0|   0| 62|  0:00:00|  0:00:01|
+# Route    |  3|     0|     1|   3|    2|   21|    0|   0| 88|  0:00:00|  0:00:01|
+# Route    |  4|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  5|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  6|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  7|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    |  8|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |  9|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 10|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 11|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:03|
+# Route    | 12|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 13|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 14|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 15|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:04|
+# Route    | 16|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 17|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 18|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 19|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:05|
+# Route    | 20|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 21|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 22|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 23|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:06|
+# Route    | 24|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 25|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Clean    | 26|     0|     1|   4|    2|   20|    0|   0|   |  0:00:00|  0:00:06|
+# Clean    | 27|     0|     1|   5|    2|   21|    0|   0|   |  0:00:00|  0:00:06|
+# Route    | 28|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 29|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 30|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 31|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 32|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 33|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 34|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 35|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 36|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 37|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:07|
+# Route    | 38|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 39|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 40|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:08|
+# Route    | 41|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 42|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 43|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 44|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 45|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:09|
+# Route    | 46|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 47|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 48|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:10|
+# Route    | 49|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 50|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 51|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:11|
+# Route    | 52|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 53|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 54|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 55|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:12|
+# Route    | 56|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 57|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 58|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 59|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 60|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 61|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 62|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 63|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 64|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 65|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 66|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:13|
+# Route    | 67|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:13|
+# Route    | 68|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:13|
+# Route    | 69|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:14|
+# Route    | 70|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 71|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 72|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 73|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:15|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:15
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 34, at vias 9 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 456.7904 Horizontal 226.4544 Vertical 230.3360
+# Routed Length 495.3216 Horizontal 247.8495 Vertical 247.4722
+# Ratio Actual / Manhattan   1.0844
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Current time = Mon Jun 08 18:48:16 2020
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 34, at vias 9 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 456.7904 Horizontal 226.4544 Vertical 230.3360
+# Routed Length 495.3216 Horizontal 247.8495 Vertical 247.4722
+# Ratio Actual / Manhattan   1.0844
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Start Route Pass 1 of 5
+# Routing 5 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 2 Failures 2 Vias 21
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 1 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 2 of 5
+# Routing 6 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 3 of 5
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# End Pass 3 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 4 of 5
+# Routing 6 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 4 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 5 of 5
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 2 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 5 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Cpu Time = 0:00:02  Elapsed Time = 0:00:02
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    23|     1|   3|    3|   18|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    |  2|     8|     1|   4|    2|   19|    0|   0| 62|  0:00:00|  0:00:01|
+# Route    |  3|     0|     1|   3|    2|   21|    0|   0| 88|  0:00:00|  0:00:01|
+# Route    |  4|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  5|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  6|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  7|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    |  8|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |  9|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 10|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 11|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:03|
+# Route    | 12|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 13|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 14|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 15|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:04|
+# Route    | 16|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 17|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 18|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 19|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:05|
+# Route    | 20|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 21|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 22|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 23|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:06|
+# Route    | 24|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 25|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Clean    | 26|     0|     1|   4|    2|   20|    0|   0|   |  0:00:00|  0:00:06|
+# Clean    | 27|     0|     1|   5|    2|   21|    0|   0|   |  0:00:00|  0:00:06|
+# Route    | 28|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 29|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 30|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 31|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 32|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 33|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 34|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 35|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 36|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 37|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:07|
+# Route    | 38|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 39|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 40|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:08|
+# Route    | 41|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 42|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 43|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 44|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 45|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:09|
+# Route    | 46|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 47|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 48|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:10|
+# Route    | 49|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 50|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 51|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:11|
+# Route    | 52|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 53|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 54|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 55|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:12|
+# Route    | 56|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 57|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 58|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 59|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 60|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 61|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 62|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 63|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 64|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 65|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 66|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:13|
+# Route    | 67|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:13|
+# Route    | 68|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:13|
+# Route    | 69|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:14|
+# Route    | 70|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 71|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 72|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 73|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:15|
+# Route    | 74|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:16|
+# Route    | 75|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:16|
+# Route    | 76|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:17|
+# Route    | 77|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 78|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:17
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 34, at vias 9 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 456.7904 Horizontal 226.4544 Vertical 230.3360
+# Routed Length 495.3216 Horizontal 247.8495 Vertical 247.4722
+# Ratio Actual / Manhattan   1.0844
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Current time = Mon Jun 08 18:48:19 2020
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 34, at vias 9 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 456.7904 Horizontal 226.4544 Vertical 230.3360
+# Routed Length 495.3216 Horizontal 247.8495 Vertical 247.4722
+# Ratio Actual / Manhattan   1.0844
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Start Route Pass 1 of 5
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 2 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 2 of 5
+# Routing 6 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 2 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 3 of 5
+# Routing 5 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 4 of 5
+# Routing 6 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 4 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 5 of 5
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 5 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Cpu Time = 0:00:02  Elapsed Time = 0:00:02
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    23|     1|   3|    3|   18|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    |  2|     8|     1|   4|    2|   19|    0|   0| 62|  0:00:00|  0:00:01|
+# Route    |  3|     0|     1|   3|    2|   21|    0|   0| 88|  0:00:00|  0:00:01|
+# Route    |  4|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  5|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  6|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  7|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    |  8|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |  9|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 10|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 11|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:03|
+# Route    | 12|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 13|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 14|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 15|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:04|
+# Route    | 16|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 17|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 18|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 19|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:05|
+# Route    | 20|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 21|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 22|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 23|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:06|
+# Route    | 24|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 25|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Clean    | 26|     0|     1|   4|    2|   20|    0|   0|   |  0:00:00|  0:00:06|
+# Clean    | 27|     0|     1|   5|    2|   21|    0|   0|   |  0:00:00|  0:00:06|
+# Route    | 28|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 29|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 30|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 31|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 32|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 33|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 34|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 35|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 36|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 37|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:07|
+# Route    | 38|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 39|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 40|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:08|
+# Route    | 41|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 42|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 43|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 44|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 45|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:09|
+# Route    | 46|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 47|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 48|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:10|
+# Route    | 49|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 50|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 51|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:11|
+# Route    | 52|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 53|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 54|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 55|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:12|
+# Route    | 56|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 57|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 58|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 59|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 60|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 61|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 62|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 63|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 64|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 65|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 66|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:13|
+# Route    | 67|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:13|
+# Route    | 68|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:13|
+# Route    | 69|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:14|
+# Route    | 70|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 71|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 72|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 73|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:15|
+# Route    | 74|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:16|
+# Route    | 75|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:16|
+# Route    | 76|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:17|
+# Route    | 77|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 78|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 79|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 80|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 81|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 82|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 83|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:17
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 34, at vias 9 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 456.7904 Horizontal 226.4544 Vertical 230.3360
+# Routed Length 494.6579 Horizontal 247.8495 Vertical 246.9642
+# Ratio Actual / Manhattan   1.0829
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Current time = Mon Jun 08 18:48:21 2020
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 34, at vias 9 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 456.7904 Horizontal 226.4544 Vertical 230.3360
+# Routed Length 494.6579 Horizontal 247.8495 Vertical 246.9642
+# Ratio Actual / Manhattan   1.0829
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Start Route Pass 1 of 5
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 2 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 2 of 5
+# Routing 6 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 3 of 5
+# Routing 5 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 5 Successes 3 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 4 of 5
+# Routing 6 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 6 Successes 4 Failures 2 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 4 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Route Pass 5 of 5
+# Routing 5 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 4 Successes 2 Failures 2 Vias 21
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# End Pass 5 of 5
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Cpu Time = 0:00:02  Elapsed Time = 0:00:02
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    23|     1|   3|    3|   18|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    |  2|     8|     1|   4|    2|   19|    0|   0| 62|  0:00:00|  0:00:01|
+# Route    |  3|     0|     1|   3|    2|   21|    0|   0| 88|  0:00:00|  0:00:01|
+# Route    |  4|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  5|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  6|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  7|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    |  8|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |  9|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 10|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 11|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:03|
+# Route    | 12|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 13|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 14|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 15|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:04|
+# Route    | 16|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 17|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 18|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 19|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:05|
+# Route    | 20|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 21|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 22|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 23|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:06|
+# Route    | 24|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 25|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Clean    | 26|     0|     1|   4|    2|   20|    0|   0|   |  0:00:00|  0:00:06|
+# Clean    | 27|     0|     1|   5|    2|   21|    0|   0|   |  0:00:00|  0:00:06|
+# Route    | 28|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 29|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 30|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 31|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 32|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 33|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 34|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 35|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 36|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 37|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:07|
+# Route    | 38|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 39|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 40|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:08|
+# Route    | 41|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 42|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 43|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 44|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 45|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:09|
+# Route    | 46|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 47|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 48|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:10|
+# Route    | 49|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 50|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 51|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:11|
+# Route    | 52|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 53|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 54|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 55|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:12|
+# Route    | 56|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 57|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 58|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 59|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 60|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 61|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 62|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 63|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 64|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 65|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 66|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:13|
+# Route    | 67|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:13|
+# Route    | 68|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:13|
+# Route    | 69|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:14|
+# Route    | 70|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 71|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 72|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 73|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:15|
+# Route    | 74|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:16|
+# Route    | 75|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:16|
+# Route    | 76|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:17|
+# Route    | 77|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 78|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 79|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 80|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 81|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 82|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 83|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 84|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 85|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 86|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 87|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 88|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:18|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:18
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 34, at vias 9 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 456.7904 Horizontal 226.4544 Vertical 230.3360
+# Routed Length 495.3216 Horizontal 247.8495 Vertical 247.4722
+# Ratio Actual / Manhattan   1.0844
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# <<ERROR:>> Smart Route: Unable to reach 100% with smart_route. 
+# Check placement, rules, grids, keepouts
+# Smart Route: Executing 2 clean passes.
+# Current time = Mon Jun 08 18:48:23 2020
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 34, at vias 9 Total Vias 21
+# Percent Connected   95.08
+# Manhattan Length 456.7904 Horizontal 226.4544 Vertical 230.3360
+# Routed Length 495.3216 Horizontal 247.8495 Vertical 247.4722
+# Ratio Actual / Manhattan   1.0844
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Start Clean Pass 1 of 2
+# Routing 107 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 95 Successes 91 Failures 4 Vias 20
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 1 of 2
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Clean Pass 2 of 2
+# Routing 115 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 89 Successes 86 Failures 3 Vias 20
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 2
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    23|     1|   3|    3|   18|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    |  2|     8|     1|   4|    2|   19|    0|   0| 62|  0:00:00|  0:00:01|
+# Route    |  3|     0|     1|   3|    2|   21|    0|   0| 88|  0:00:00|  0:00:01|
+# Route    |  4|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  5|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  6|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  7|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    |  8|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |  9|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 10|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 11|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:03|
+# Route    | 12|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 13|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 14|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 15|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:04|
+# Route    | 16|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 17|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 18|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 19|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:05|
+# Route    | 20|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 21|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 22|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 23|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:06|
+# Route    | 24|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 25|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Clean    | 26|     0|     1|   4|    2|   20|    0|   0|   |  0:00:00|  0:00:06|
+# Clean    | 27|     0|     1|   5|    2|   21|    0|   0|   |  0:00:00|  0:00:06|
+# Route    | 28|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 29|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 30|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 31|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 32|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 33|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 34|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 35|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 36|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 37|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:07|
+# Route    | 38|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 39|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 40|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:08|
+# Route    | 41|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 42|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 43|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 44|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 45|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:09|
+# Route    | 46|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 47|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 48|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:10|
+# Route    | 49|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 50|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 51|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:11|
+# Route    | 52|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 53|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 54|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 55|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:12|
+# Route    | 56|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 57|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 58|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 59|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 60|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 61|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 62|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 63|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 64|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 65|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 66|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:13|
+# Route    | 67|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:13|
+# Route    | 68|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:13|
+# Route    | 69|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:14|
+# Route    | 70|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 71|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 72|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 73|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:15|
+# Route    | 74|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:16|
+# Route    | 75|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:16|
+# Route    | 76|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:17|
+# Route    | 77|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 78|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 79|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 80|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 81|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 82|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 83|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 84|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 85|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 86|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 87|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 88|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:18|
+# Clean    | 89|     0|     1|   4|    2|   20|    0|   0|   |  0:00:00|  0:00:18|
+# Clean    | 90|     0|     1|   3|    2|   20|    0|   0|   |  0:00:00|  0:00:18|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:18
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 32, at vias 8 Total Vias 20
+# Percent Connected   95.08
+# Manhattan Length 454.1149 Horizontal 223.3447 Vertical 230.7702
+# Routed Length 486.7554 Horizontal 250.7397 Vertical 250.3516
+# Ratio Actual / Manhattan   1.0719
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Smart Route: Executing 2 clean passes.
+# Current time = Mon Jun 08 18:48:25 2020
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 32, at vias 8 Total Vias 20
+# Percent Connected   95.08
+# Manhattan Length 454.1149 Horizontal 223.3447 Vertical 230.7702
+# Routed Length 486.7554 Horizontal 250.7397 Vertical 250.3516
+# Ratio Actual / Manhattan   1.0719
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Start Clean Pass 1 of 2
+# Routing 105 wires.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 93 Successes 88 Failures 5 Vias 20
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 1 of 2
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Start Clean Pass 2 of 2
+# Routing 108 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 1 (Cross: 0, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 92 Successes 88 Failures 4 Vias 20
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 2
+# Wiring Written to File C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\bestsave.w
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    23|     1|   3|    3|   18|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    |  2|     8|     1|   4|    2|   19|    0|   0| 62|  0:00:00|  0:00:01|
+# Route    |  3|     0|     1|   3|    2|   21|    0|   0| 88|  0:00:00|  0:00:01|
+# Route    |  4|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  5|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  6|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  7|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    |  8|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |  9|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 10|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 11|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:03|
+# Route    | 12|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 13|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 14|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 15|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:04|
+# Route    | 16|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 17|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 18|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 19|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:05|
+# Route    | 20|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 21|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 22|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 23|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:06|
+# Route    | 24|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 25|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Clean    | 26|     0|     1|   4|    2|   20|    0|   0|   |  0:00:00|  0:00:06|
+# Clean    | 27|     0|     1|   5|    2|   21|    0|   0|   |  0:00:00|  0:00:06|
+# Route    | 28|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 29|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 30|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 31|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 32|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 33|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 34|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 35|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 36|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 37|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:07|
+# Route    | 38|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 39|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:07|
+# Route    | 40|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:08|
+# Route    | 41|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 42|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 43|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 44|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 45|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:09|
+# Route    | 46|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 47|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 48|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:10|
+# Route    | 49|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 50|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 51|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:01|  0:00:11|
+# Route    | 52|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 53|     0|     1|   0|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 54|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:11|
+# Route    | 55|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:12|
+# Route    | 56|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 57|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 58|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 59|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 60|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 61|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 62|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 63|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 64|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 65|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:12|
+# Route    | 66|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:13|
+# Route    | 67|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:13|
+# Route    | 68|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:13|
+# Route    | 69|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:14|
+# Route    | 70|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 71|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 72|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 73|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:15|
+# Route    | 74|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:16|
+# Route    | 75|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:16|
+# Route    | 76|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:17|
+# Route    | 77|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 78|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 79|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 80|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 81|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 82|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 83|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 84|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 85|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 86|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 87|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:00|  0:00:17|
+# Route    | 88|     0|     1|   2|    2|   21|    0|   0|  0|  0:00:01|  0:00:18|
+# Clean    | 89|     0|     1|   4|    2|   20|    0|   0|   |  0:00:00|  0:00:18|
+# Clean    | 90|     0|     1|   3|    2|   20|    0|   0|   |  0:00:00|  0:00:18|
+# Clean    | 91|     0|     1|   5|    2|   20|    0|   0|   |  0:00:00|  0:00:18|
+# Clean    | 92|     0|     1|   4|    2|   20|    0|   0|   |  0:00:00|  0:00:18|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:18
+# 
+# Wiring Statistics ----------------- C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2\trackitboard2.dsn
+# Nets 19 Connections 61 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 31, at vias 8 Total Vias 20
+# Percent Connected   95.08
+# Manhattan Length 454.5509 Horizontal 224.5591 Vertical 229.9918
+# Routed Length 476.5080 Horizontal 246.9058 Vertical 244.3878
+# Ratio Actual / Manhattan   1.0483
+# Unconnected Length  19.3661 Horizontal   3.6866 Vertical  15.6795
+# Smart Route: Smart_route finished, completion rate: 95.08.
+write routes (changed_only) (reset_changed) C:/Users/ASITHA/AppData/Local/Temp/#Taaaaao08644.tmp
+# Routing Written to File C:/Users/ASITHA/AppData/Local/Temp/#Taaaaao08644.tmp
+quit

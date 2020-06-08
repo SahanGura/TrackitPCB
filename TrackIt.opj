@@ -27,8 +27,7 @@
     (width_start "80")
     (width_End "80")
     ("Create Allegro Netlist" "TRUE")
-    ("Allegro Netlist Directory"
-       "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\NEWNETLIST")
+    ("Allegro Netlist Directory" "allegro123")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -104,6 +103,15 @@
       (Type "Report")
       (DisplayName "pstxprt.dat"))
     (File ".\newnetlist\new2\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\allegro123\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro123\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro123\pstchip.dat"
       (Type "Report")
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
@@ -206,15 +214,24 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\trackit.dsn")
-      (Path "Design Resources" ".\trackit.dsn" "SCHEMATIC1")
-      (Path "Design Resources" ".\trackit.dsn" "Buzzer")
-      (Path "Design Resources" ".\trackit.dsn" "MCU")
-      (Path "Design Resources" ".\trackit.dsn" "Power Supply")
-      (Path "Design Resources" ".\trackit.dsn" "Design Cache")
+      (Path "Design Resources"
+         "C:\Users\ASITHA\Documents\GitHub\Trackit\trackit.dsn")
+      (Path "Design Resources"
+         "C:\Users\ASITHA\Documents\GitHub\Trackit\trackit.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\Users\ASITHA\Documents\GitHub\Trackit\trackit.dsn" "Buzzer")
+      (Path "Design Resources"
+         "C:\Users\ASITHA\Documents\GitHub\Trackit\trackit.dsn" "MCU")
+      (Path "Design Resources"
+         "C:\Users\ASITHA\Documents\GitHub\Trackit\trackit.dsn" "Power Supply")
+      (Path "Design Resources"
+         "C:\Users\ASITHA\Documents\GitHub\Trackit\trackit.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" ".\library1.olb")
-      (Path "Outputs"))
+      (Path "Design Resources" "Library"
+         "C:\Users\ASITHA\Documents\GitHub\Trackit\library1.olb")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "C:\Users\ASITHA\Documents\GitHub\Trackit\trackit.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -224,43 +241,43 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 0 1716 0 464")
-        (Scroll "55 239")
-        (Zoom "148")
+        (Placement "44 0 1 -1 -1 -9 -38 96 1483 96 709")
+        (Scroll "-60 0")
+        (Zoom "104")
         (Occurrence "/"))
-      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
+      (Path "C:\USERS\ASITHA\DOCUMENTS\GITHUB\TRACKIT\TRACKIT.DSN")
       (Schematic "SCHEMATIC1")
       (Page "Trackit  main"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 32 1748 32 496")
-        (Scroll "346 402")
-        (Zoom "178")
-        (Occurrence "/Regulator"))
-      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
-      (Schematic "Power Supply")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 96 1812 96 560")
-        (Scroll "59 283")
-        (Zoom "148")
+        (Placement "44 0 1 -1 -1 -9 -38 128 1515 128 741")
+        (Scroll "-66 0")
+        (Zoom "103")
         (Occurrence "/Buzzer"))
-      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
+      (Path "C:\USERS\ASITHA\DOCUMENTS\GITHUB\TRACKIT\TRACKIT.DSN")
       (Schematic "Buzzer")
       (Page "Buzzer"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 0 1345 0 464")
-        (Scroll "0 443")
-        (Zoom "148")
+        (Placement "44 0 1 -1 -1 -9 -38 160 1547 160 773")
+        (Scroll "-66 0")
+        (Zoom "103")
         (Occurrence "/MCU"))
-      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
+      (Path "C:\USERS\ASITHA\DOCUMENTS\GITHUB\TRACKIT\TRACKIT.DSN")
       (Schematic "MCU")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 192 1579 192 805")
+        (Scroll "-66 0")
+        (Zoom "103")
+        (Occurrence "/Regulator"))
+      (Path "C:\USERS\ASITHA\DOCUMENTS\GITHUB\TRACKIT\TRACKIT.DSN")
+      (Schematic "Power Supply")
       (Page "PAGE1")))
-  (MPSSessionName "user")
+  (MPSSessionName "ASITHA")
   (ISPCBBASICLICENSE "false")
   (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.6\tools\capture\library"))
