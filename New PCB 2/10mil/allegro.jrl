@@ -1,0 +1,81 @@
+\t (03:45:28) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (03:45:28)     Journal start - Tue Jun 09 13:08:10 2020
+\t (03:45:28)         Host=DESKTOP-U6TBUH8 User=user Pid=14488 CPUs=4
+\t (03:45:28) 
+\d (03:45:28) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/trackitboard-10milnew.brd
+\i (03:45:29) generaledit 
+\i (03:45:30) zoom out 1 
+\i (03:45:30) setwindow pcb
+\i (03:45:30) zoom out 265.234 176.156
+\i (03:45:30) trapsize 29563
+\i (03:45:31) zoom in 1 
+\i (03:45:31) setwindow pcb
+\i (03:45:31) zoom in 318.446 105.206
+\i (03:45:31) trapsize 14781
+\i (03:45:31) zoom in 1 
+\i (03:45:31) setwindow pcb
+\i (03:45:31) zoom in 318.446 114.075
+\i (03:45:31) trapsize 7391
+\i (03:45:32) zoom out 1 
+\i (03:45:32) setwindow pcb
+\i (03:45:32) zoom out 319.924 127.379
+\i (03:45:32) trapsize 14781
+\i (03:45:33) zoom in 1 
+\i (03:45:33) setwindow pcb
+\i (03:45:33) zoom in 651.028 1052.694
+\i (03:45:33) trapsize 7391
+\i (03:58:03) about 
+\i (04:43:28) zoom out 1 
+\i (04:43:28) setwindow pcb
+\i (04:43:28) zoom out 349.487 1105.907
+\i (04:43:28) trapsize 14781
+\i (04:43:29) zoom out 1 
+\i (04:43:29) setwindow pcb
+\i (04:43:29) zoom out 361.313 1094.083
+\i (04:43:29) trapsize 29563
+\i (04:43:29) zoom in 1 
+\i (04:43:29) setwindow pcb
+\i (04:43:29) zoom in 390.876 1082.257
+\i (04:43:29) trapsize 14781
+\i (04:43:29) zoom in 1 
+\i (04:43:29) setwindow pcb
+\i (04:43:29) zoom in 390.876 1082.257
+\i (04:43:29) trapsize 7391
+\i (04:43:29) zoom in 1 
+\i (04:43:29) setwindow pcb
+\i (04:43:29) zoom in 390.877 1082.258
+\i (04:43:29) trapsize 3695
+\i (04:43:30) zoom in 1 
+\i (04:43:30) setwindow pcb
+\i (04:43:30) zoom in 391.616 1134.732
+\i (04:43:30) trapsize 1848
+\i (04:43:30) zoom in 1 
+\i (04:43:30) setwindow pcb
+\i (04:43:30) zoom in 391.616 1134.732
+\i (04:43:30) trapsize 924
+\i (04:43:31) zoom out 1 
+\i (04:43:31) setwindow pcb
+\i (04:43:31) zoom out 398.083 1108.680
+\i (04:43:31) trapsize 1848
+\i (04:43:31) zoom out 1 
+\i (04:43:31) setwindow pcb
+\i (04:43:31) zoom out 398.084 1108.680
+\i (04:43:31) trapsize 3695
+\i (04:43:32) zoom out 1 
+\i (04:43:32) setwindow pcb
+\i (04:43:32) zoom out 398.083 1110.158
+\i (04:43:32) trapsize 7391
+\i (04:43:32) zoom out 1 
+\i (04:43:32) setwindow pcb
+\i (04:43:32) zoom out 398.083 1110.158
+\i (04:43:32) trapsize 14781
+\i (04:43:34) open 
+\i (04:44:04) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Pin header (4pin)\826948-3\con3new.dra"
+\i (04:44:04) cd "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Pin header (4pin)\826948-3"
+\t (04:44:04) Opening existing design...
+\i (04:44:04) trapsize 1217
+\i (04:44:04) trapsize 1188
+\i (04:44:04) trapsize 1217
+\t (04:44:05) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (04:44:05) trapsize 1309
+\t (04:44:05)     Journal end - Tue Jun 09 14:06:46 2020

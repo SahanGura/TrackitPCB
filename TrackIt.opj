@@ -214,24 +214,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\Users\ASITHA\Documents\GitHub\Trackit\trackit.dsn")
-      (Path "Design Resources"
-         "C:\Users\ASITHA\Documents\GitHub\Trackit\trackit.dsn" "SCHEMATIC1")
-      (Path "Design Resources"
-         "C:\Users\ASITHA\Documents\GitHub\Trackit\trackit.dsn" "Buzzer")
-      (Path "Design Resources"
-         "C:\Users\ASITHA\Documents\GitHub\Trackit\trackit.dsn" "MCU")
-      (Path "Design Resources"
-         "C:\Users\ASITHA\Documents\GitHub\Trackit\trackit.dsn" "Power Supply")
-      (Path "Design Resources"
-         "C:\Users\ASITHA\Documents\GitHub\Trackit\trackit.dsn" "Design Cache")
+      (Path "Design Resources" ".\trackit.dsn")
+      (Path "Design Resources" ".\trackit.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "C:\Users\ASITHA\Documents\GitHub\Trackit\library1.olb")
       (Path "Outputs")
-      (Select "Design Resources"
-         "C:\Users\ASITHA\Documents\GitHub\Trackit\trackit.dsn"))
+      (Select "Design Resources" ".\trackit.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -241,43 +228,43 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 96 1483 96 709")
-        (Scroll "-60 0")
-        (Zoom "104")
+        (Placement "44 0 1 -1 -1 -9 -38 64 1812 64 424")
+        (Scroll "-264 204")
+        (Zoom "100")
         (Occurrence "/"))
-      (Path "C:\USERS\ASITHA\DOCUMENTS\GITHUB\TRACKIT\TRACKIT.DSN")
+      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
       (Schematic "SCHEMATIC1")
       (Page "Trackit  main"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 128 1515 128 741")
-        (Scroll "-66 0")
-        (Zoom "103")
-        (Occurrence "/Buzzer"))
-      (Path "C:\USERS\ASITHA\DOCUMENTS\GITHUB\TRACKIT\TRACKIT.DSN")
-      (Schematic "Buzzer")
-      (Page "Buzzer"))
+        (Placement "44 0 1 -1 -1 -9 -38 128 1844 128 594")
+        (Scroll "-248 204")
+        (Zoom "100")
+        (Occurrence "/Regulator"))
+      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
+      (Schematic "Power Supply")
+      (Page "PAGE1"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 160 1547 160 773")
-        (Scroll "-66 0")
-        (Zoom "103")
+        (Placement "44 0 1 -1 -1 -9 -38 160 1876 160 626")
+        (Scroll "-248 204")
+        (Zoom "100")
         (Occurrence "/MCU"))
-      (Path "C:\USERS\ASITHA\DOCUMENTS\GITHUB\TRACKIT\TRACKIT.DSN")
+      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
       (Schematic "MCU")
       (Page "PAGE1"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 192 1579 192 805")
-        (Scroll "-66 0")
-        (Zoom "103")
-        (Occurrence "/Regulator"))
-      (Path "C:\USERS\ASITHA\DOCUMENTS\GITHUB\TRACKIT\TRACKIT.DSN")
-      (Schematic "Power Supply")
-      (Page "PAGE1")))
-  (MPSSessionName "ASITHA")
+        (Placement "44 0 1 -1 -1 -9 -38 192 1908 192 658")
+        (Scroll "-406 0")
+        (Zoom "73")
+        (Occurrence "/Buzzer"))
+      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
+      (Schematic "Buzzer")
+      (Page "Buzzer")))
+  (MPSSessionName "user")
   (ISPCBBASICLICENSE "false")
   (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.6\tools\capture\library"))

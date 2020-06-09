@@ -1,22 +1,41 @@
-\t (00:00:07) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:07)     Journal start - Sat Jun 06 01:34:55 2020
-\t (00:00:07)         Host=DESKTOP-U6TBUH8 User=user Pid=13544 CPUs=4
-\t (00:00:07) 
-\t (00:00:11) Opening existing design...
-\d (00:00:11) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/test_point/test_point1.dra
-\i (00:00:12) trapsize 59
-\i (00:00:12) trapsize 57
-\i (00:00:12) trapsize 60
-\i (00:00:13) trapsize 46
-\i (00:00:13) trapsize 87
-\i (00:00:13) generaledit 
-\i (00:00:14) trapsize 67
-\i (00:00:17) open 
-\i (00:00:35) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\trackitboard2.brd"
-\i (00:00:35) cd "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2"
-\t (00:00:35) Opening existing design...
-\i (00:00:36) trapsize 1877
-\i (00:00:36) trapsize 1834
-\i (00:00:36) trapsize 1877
-\i (00:00:36) trapsize 1877
-\t (00:00:37)     Journal end - Sat Jun 06 01:35:25 2020
+\t (03:43:16) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (03:43:16)     Journal start - Tue Jun 09 13:05:57 2020
+\t (03:43:16)         Host=DESKTOP-U6TBUH8 User=user Pid=14488 CPUs=4
+\t (03:43:16) 
+\d (03:43:16) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/test_point/test_point1.dra
+\i (03:43:17) generaledit 
+\i (03:43:25) pick grid 0.038 -0.859
+\t (03:43:25) last pick:  0.000  -0.750
+\i (03:43:28) pick grid -0.042 0.871
+\t (03:43:28) last pick:  0.000  0.750
+\i (03:43:37) pick grid 0.011 -0.739
+\t (03:43:37) last pick:  0.000  -0.750
+\i (03:43:39) pick grid -0.002 0.744
+\t (03:43:39) last pick:  0.000  0.750
+\i (03:43:42) define grid 
+\t (03:43:42) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (03:43:42) generaledit 
+\i (03:43:47) setwindow form.grid
+\i (03:43:47) FORM grid non_etch non_etch_x_grids 0.1 
+\i (03:43:49) FORM grid non_etch non_etch_y_grids 0.1 
+\i (03:43:49) FORM grid done  
+\i (03:43:52) setwindow pcb
+\i (03:43:52) pick grid -0.035 0.744
+\t (03:43:52) last pick:  0.000  0.700
+\i (03:43:56) pick grid -0.002 -0.725
+\t (03:43:56) last pick:  0.000  -0.700
+\i (03:43:59) pick grid -0.035 0.865
+\t (03:43:59) last pick:  0.000  0.900
+\i (03:44:01) pick grid 0.018 -0.852
+\t (03:44:01) last pick:  0.000  -0.900
+\i (03:44:59) open 
+\e (03:44:59) Do you want to save the changes you made to test_point1.dra?
+\i (03:45:01) fillin no 
+\i (03:45:27) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\10mil\trackitboard-10milnew.brd"
+\i (03:45:27) cd "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\10mil"
+\t (03:45:27) Opening existing design...
+\i (03:45:28) trapsize 14781
+\i (03:45:28) trapsize 14437
+\i (03:45:28) trapsize 14781
+\i (03:45:28) trapsize 14781
+\t (03:45:28)     Journal end - Tue Jun 09 13:08:10 2020
