@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : trackitboard3.brd                             )
+(    Drawing          : trackitboard2.brd                             )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Tue Jun 09 08:16:24 2020                      )
+(    Date/Time        : Mon Jun 08 18:38:10 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  7
+ ..... Total number of DRC errors  2
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************
