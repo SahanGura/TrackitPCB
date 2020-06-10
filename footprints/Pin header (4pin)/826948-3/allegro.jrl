@@ -1,29 +1,22 @@
-\t (04:44:05) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (04:44:05)     Journal start - Tue Jun 09 14:06:46 2020
-\t (04:44:05)         Host=DESKTOP-U6TBUH8 User=user Pid=14488 CPUs=4
-\t (04:44:05) 
-\d (04:44:05) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/Pin header (4pin)/826948-3/con3new.dra
-\i (04:44:05) generaledit 
-\i (04:44:06) zoom in 1 
-\i (04:44:06) setwindow pcb
-\i (04:44:06) zoom in -0.1184 -0.3509
-\i (04:44:06) trapsize 654
-\i (04:44:06) zoom in 1 
-\i (04:44:06) setwindow pcb
-\i (04:44:06) zoom in -0.1183 -0.3509
-\i (04:44:06) trapsize 327
-\i (04:44:06) zoom in 1 
-\i (04:44:06) setwindow pcb
-\i (04:44:06) zoom in -0.1183 -0.3509
-\i (04:44:06) trapsize 164
-\i (04:44:06) zoom out 1 
-\i (04:44:07) setwindow pcb
-\i (04:44:07) zoom out -0.0921 -0.3051
-\i (04:44:07) trapsize 327
-\i (04:44:07) zoom out 1 
-\i (04:44:07) setwindow pcb
-\i (04:44:07) zoom out -0.0920 -0.3050
-\i (04:44:07) trapsize 654
-\i (04:44:08) prepopup -0.2360 0.4278
-\i (12:57:51) exit 
-\t (12:57:54)     Journal end - Tue Jun 09 22:20:36 2020
+\t (00:00:08) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:08)     Journal start - Wed Jun 10 05:56:47 2020
+\t (00:00:08)         Host=DESKTOP-U6TBUH8 User=user Pid=19628 CPUs=4
+\t (00:00:08) 
+\t (00:00:11) Opening existing design...
+\d (00:00:12) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/Pin header (4pin)/826948-3/con3new.dra
+\t (00:00:14) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:00:14) trapsize 1456
+\i (00:00:14) trapsize 1421
+\i (00:00:14) trapsize 1462
+\i (00:00:15) trapsize 1217
+\i (00:00:15) trapsize 1309
+\i (00:00:16) generaledit 
+\i (00:00:20) open 
+\i (00:00:38) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\10mil\trackitboard-10milnew.brd"
+\i (00:00:38) cd "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\10mil"
+\t (00:00:38) Opening existing design...
+\i (00:00:38) trapsize 14781
+\i (00:00:38) trapsize 14437
+\i (00:00:38) trapsize 14781
+\i (00:00:39) trapsize 14781
+\t (00:00:39)     Journal end - Wed Jun 10 05:57:17 2020

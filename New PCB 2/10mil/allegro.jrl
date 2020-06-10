@@ -1,81 +1,185 @@
-\t (03:45:28) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (03:45:28)     Journal start - Tue Jun 09 13:08:10 2020
-\t (03:45:28)         Host=DESKTOP-U6TBUH8 User=user Pid=14488 CPUs=4
-\t (03:45:28) 
-\d (03:45:28) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/trackitboard-10milnew.brd
-\i (03:45:29) generaledit 
-\i (03:45:30) zoom out 1 
-\i (03:45:30) setwindow pcb
-\i (03:45:30) zoom out 265.234 176.156
-\i (03:45:30) trapsize 29563
-\i (03:45:31) zoom in 1 
-\i (03:45:31) setwindow pcb
-\i (03:45:31) zoom in 318.446 105.206
-\i (03:45:31) trapsize 14781
-\i (03:45:31) zoom in 1 
-\i (03:45:31) setwindow pcb
-\i (03:45:31) zoom in 318.446 114.075
-\i (03:45:31) trapsize 7391
-\i (03:45:32) zoom out 1 
-\i (03:45:32) setwindow pcb
-\i (03:45:32) zoom out 319.924 127.379
-\i (03:45:32) trapsize 14781
-\i (03:45:33) zoom in 1 
-\i (03:45:33) setwindow pcb
-\i (03:45:33) zoom in 651.028 1052.694
-\i (03:45:33) trapsize 7391
-\i (03:58:03) about 
-\i (04:43:28) zoom out 1 
-\i (04:43:28) setwindow pcb
-\i (04:43:28) zoom out 349.487 1105.907
-\i (04:43:28) trapsize 14781
-\i (04:43:29) zoom out 1 
-\i (04:43:29) setwindow pcb
-\i (04:43:29) zoom out 361.313 1094.083
-\i (04:43:29) trapsize 29563
-\i (04:43:29) zoom in 1 
-\i (04:43:29) setwindow pcb
-\i (04:43:29) zoom in 390.876 1082.257
-\i (04:43:29) trapsize 14781
-\i (04:43:29) zoom in 1 
-\i (04:43:29) setwindow pcb
-\i (04:43:29) zoom in 390.876 1082.257
-\i (04:43:29) trapsize 7391
-\i (04:43:29) zoom in 1 
-\i (04:43:29) setwindow pcb
-\i (04:43:29) zoom in 390.877 1082.258
-\i (04:43:29) trapsize 3695
-\i (04:43:30) zoom in 1 
-\i (04:43:30) setwindow pcb
-\i (04:43:30) zoom in 391.616 1134.732
-\i (04:43:30) trapsize 1848
-\i (04:43:30) zoom in 1 
-\i (04:43:30) setwindow pcb
-\i (04:43:30) zoom in 391.616 1134.732
-\i (04:43:30) trapsize 924
-\i (04:43:31) zoom out 1 
-\i (04:43:31) setwindow pcb
-\i (04:43:31) zoom out 398.083 1108.680
-\i (04:43:31) trapsize 1848
-\i (04:43:31) zoom out 1 
-\i (04:43:31) setwindow pcb
-\i (04:43:31) zoom out 398.084 1108.680
-\i (04:43:31) trapsize 3695
-\i (04:43:32) zoom out 1 
-\i (04:43:32) setwindow pcb
-\i (04:43:32) zoom out 398.083 1110.158
-\i (04:43:32) trapsize 7391
-\i (04:43:32) zoom out 1 
-\i (04:43:32) setwindow pcb
-\i (04:43:32) zoom out 398.083 1110.158
-\i (04:43:32) trapsize 14781
-\i (04:43:34) open 
-\i (04:44:04) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Pin header (4pin)\826948-3\con3new.dra"
-\i (04:44:04) cd "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Pin header (4pin)\826948-3"
-\t (04:44:04) Opening existing design...
-\i (04:44:04) trapsize 1217
-\i (04:44:04) trapsize 1188
-\i (04:44:04) trapsize 1217
-\t (04:44:05) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
-\i (04:44:05) trapsize 1309
-\t (04:44:05)     Journal end - Tue Jun 09 14:06:46 2020
+\t (00:00:39) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:39)     Journal start - Wed Jun 10 05:57:17 2020
+\t (00:00:39)         Host=DESKTOP-U6TBUH8 User=user Pid=19628 CPUs=4
+\t (00:00:39) 
+\d (00:00:39) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/trackitboard-10milnew.brd
+\i (00:00:39) generaledit 
+\i (00:00:45) setwindow form.vf_vis
+\i (00:00:45) FORM vf_vis 1 all_colorvisible NO 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom in 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom in 1024.998 1145.816
+\i (00:00:46) trapsize 7391
+\i (00:00:46) zoom in 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom in 1024.998 1145.816
+\i (00:00:46) trapsize 3695
+\i (00:00:49) pick grid 1144.727 1158.381
+\t (00:00:49) last pick:  1150.000  1150.000
+\i (00:00:49) prepopup 1144.727 1158.381
+\i (00:00:51) pop dyn_option_select @:@Mirror 
+\i (00:00:51) mirror 
+\i (00:00:52) generaledit 
+\i (00:00:56) pick grid 957.742 1165.033
+\t (00:00:56) last pick:  950.000  1175.000
+\i (00:00:57) prepopup 957.742 1165.033
+\i (00:00:58) pop dyn_option_select @:@Mirror 
+\i (00:00:58) mirror 
+\i (00:00:58) generaledit 
+\i (00:01:04) undo 
+\i (00:01:04) trapsize 3695
+\i (00:01:04) generaledit 
+\i (00:01:05) undo 
+\i (00:01:05) trapsize 3695
+\i (00:01:05) generaledit 
+\i (00:01:07) pick grid 1021.302 1196.074
+\t (00:01:07) last pick:  1025.000  1200.000
+\i (00:01:08) pick grid 1143.988 1183.509
+\t (00:01:08) last pick:  1150.000  1175.000
+\i (00:01:11) move 
+\t (00:01:11) last pick:  1164.370  1139.370
+\t (00:01:11) Pick new location for the element(s).
+\i (00:01:14) Esc 
+\i (00:01:15) prepopup 1107.034 1166.511
+\i (00:01:17) cancel 
+\i (00:01:17) generaledit 
+\i (00:01:18) pick grid 1410.053 1210.855
+\t (00:01:18) last pick:  1400.000  1200.000
+\i (00:01:19) pick grid 1201.635 1157.642
+\t (00:01:19) last pick:  1200.000  1150.000
+\i (00:01:21) prepopup 1202.375 1157.642
+\i (00:01:26) pick grid 1088.558 1185.727
+\t (00:01:26) last pick:  1100.000  1175.000
+\i (00:01:28) pick grid 1137.336 1163.555
+\t (00:01:28) last pick:  1125.000  1175.000
+\i (00:01:29) prepopup 1137.336 1163.555
+\i (00:01:30) pop dyn_option_select @:@Mirror 
+\i (00:01:30) mirror 
+\i (00:01:30) generaledit 
+\i (00:01:34) undo 
+\i (00:01:34) trapsize 3695
+\i (00:01:34) generaledit 
+\i (00:01:36) drag_start grid 1133.641 1187.205
+\i (00:01:36) move 
+\t (00:01:37) last pick:  1164.370  1139.370
+\t (00:01:37) Pick new location for the element(s).
+\i (00:01:37) drag_stop grid 1444.790 1148.773
+\i (00:01:37) generaledit 
+\i (00:01:38) drag_start grid 1473.613 1122.906
+\i (00:01:39) drag_stop 1410.053 1205.682
+\i (00:01:40) prepopup 1435.921 1173.162
+\i (00:01:41) pick grid 1426.313 1200.508
+\t (00:01:41) last pick:  1425.000  1200.000
+\i (00:01:41) drag_start grid 1397.489 1216.768
+\i (00:01:42) drag_stop 1551.216 1112.559
+\i (00:01:43) prepopup 1473.613 1173.902
+\i (00:01:45) pop dyn_option_select @:@Mirror 
+\i (00:01:45) mirror 
+\i (00:01:45) generaledit 
+\i (00:01:46) undo 
+\i (00:01:46) trapsize 3695
+\i (00:01:46) generaledit 
+\i (00:01:47) pick grid 1481.004 1119.949
+\t (00:01:47) last pick:  1475.000  1125.000
+\i (00:01:48) drag_start grid 1507.611 1127.340
+\i (00:01:48) drag_stop 1396.750 1221.202
+\i (00:01:53) zoom out 1 
+\i (00:01:53) setwindow pcb
+\i (00:01:53) zoom out 1405.619 1184.249
+\i (00:01:53) trapsize 7391
+\i (00:01:53) zoom out 1 
+\i (00:01:53) setwindow pcb
+\i (00:01:53) zoom out 1405.619 1178.336
+\i (00:01:53) trapsize 14781
+\i (00:02:01) zoom in 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom in 1426.313 1151.729
+\i (00:02:01) trapsize 7391
+\i (00:02:03) zoom out 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom out 1426.313 1151.729
+\i (00:02:03) trapsize 14781
+\i (00:02:12) undo 
+\i (00:02:12) trapsize 3695
+\i (00:02:12) generaledit 
+\i (00:02:13) undo 
+\i (00:02:13) trapsize 3695
+\i (00:02:14) generaledit 
+\i (00:02:14) undo 
+\i (00:02:14) generaledit 
+\i (00:02:14) undo 
+\i (00:02:14) generaledit 
+\i (00:02:14) undo 
+\i (00:02:15) generaledit 
+\i (00:02:15) undo 
+\i (00:02:15) generaledit 
+\i (00:02:15) undo 
+\i (00:02:15) generaledit 
+\i (00:02:15) undo 
+\i (00:02:15) generaledit 
+\i (00:02:15) undo 
+\i (00:02:15) generaledit 
+\i (00:02:15) undo 
+\i (00:02:15) generaledit 
+\i (00:02:16) undo 
+\i (00:02:16) generaledit 
+\i (00:02:16) undo 
+\i (00:02:16) generaledit 
+\i (00:02:16) undo 
+\i (00:02:16) generaledit 
+\i (00:02:16) undo 
+\i (00:02:16) generaledit 
+\i (00:02:16) undo 
+\i (00:02:16) generaledit 
+\i (00:02:16) undo 
+\i (00:02:17) generaledit 
+\i (00:02:17) zoom out 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom out 970.306 1187.944
+\i (00:02:17) trapsize 7391
+\i (00:02:17) zoom out 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom out 970.307 1187.944
+\i (00:02:17) trapsize 14781
+\i (00:02:22) pdf out 
+\i (00:02:24) setwindow form.pdf_out
+\i (00:02:24) FORM pdf_out pdftree 'MULTISEL YES' TOP 
+\i (00:02:24) FORM pdf_out pdftree  TOP 
+\i (00:02:44) FORM pdf_out pdftree 'MULTISEL NO' TOP 
+\i (00:02:45) FORM pdf_out pdftree 'MULTISEL YES' BOTTOM 
+\i (00:02:45) FORM pdf_out pdftree  BOTTOM 
+\i (00:02:49) FORM pdf_out attrtree  Component 
+\i (00:02:49) FORM pdf_out property_parameters  
+\i (00:02:50) FORM pdf_out page_setup  
+\i (00:02:55) FORM pdf_out pdf_export  
+\i (00:03:24) FORM pdf_out artwork  
+\i (00:03:29) setwindow form.film_control
+\i (00:03:29) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:03:45) FORM film_control mirror YES 
+\i (00:03:49) FORM film_control ok  
+\i (00:03:50) setwindow pcb
+\i (00:03:50) generaledit 
+\i (00:03:51) setwindow form.pdf_out
+\i (00:03:51) FORM pdf_out pdftree 'MULTISEL YES' BOTTOM 
+\i (00:03:51) FORM pdf_out pdftree  BOTTOM 
+\i (00:04:06) FORM pdf_out filename trackitboard-10milnew8 
+\i (00:04:06) FORM pdf_out pdftree 'MULTISEL YES' TOP 
+\i (00:04:06) FORM pdf_out pdftree  TOP 
+\i (00:04:08) FORM pdf_out export  
+\t (00:04:08) Starting Exporting PDF File...
+\t (00:04:13) PDF output completed.
+\i (00:04:38) FORM pdf_out filename trackitboard-10milnew7 
+\i (00:04:38) FORM pdf_out hole_filtered NO 
+\i (00:04:39) FORM pdf_out trace_filtered NO 
+\i (00:04:40) FORM pdf_out export  
+\t (00:04:40) Starting Exporting PDF File...
+\t (00:04:42) PDF output completed.
+\i (00:05:13) FORM pdf_out cancel  
+\i (00:05:13) setwindow pcb
+\i (00:05:13) generaledit 
+\i (00:05:17) save 
+\i (00:05:18) fillin yes 
+\i (00:05:18) generaledit 
+\i (00:05:20) exit 
+\t (00:05:21)     Journal end - Wed Jun 10 06:02:00 2020
