@@ -74,7 +74,8 @@
     (DRC_Type_Mismatch "TRUE")
     (DRC_Visible_Power_pins "FALSE")
     (DRC_Report_Unused_Part_Packages "TRUE")
-    (DRC_Check_Name_Prop_For_HierBlocks "FALSE"))
+    (DRC_Check_Name_Prop_For_HierBlocks "FALSE")
+    (RootChangedForceReNetlist "x"))
   (Folder "Outputs"
     (File ".\allergo\pstxnet.dat"
       (Type "Report")
@@ -116,6 +117,18 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (Transistor
+      (FullPartName "Transistor.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("N Channel MOSFET"
+      (FullPartName "N Channel MOSFET.Normal")
+      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("TEST POINT"
+      (FullPartName "TEST POINT.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
     (TPS63031
       (FullPartName "TPS63031.Normal")
       (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
@@ -126,18 +139,6 @@
       (DeviceIndex "0"))
     ("Resisitor - 0805"
       (FullPartName "Resisitor - 0805.Normal")
-      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
-      (DeviceIndex "0"))
-    ("TEST POINT"
-      (FullPartName "TEST POINT.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
-      (DeviceIndex "0"))
-    ("N Channel MOSFET"
-      (FullPartName "N Channel MOSFET.Normal")
-      (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
-      (DeviceIndex "0"))
-    (Transistor
-      (FullPartName "Transistor.Normal")
       (LibraryName "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\LIBRARY1.OLB")
       (DeviceIndex "0"))
     (Bluetooth
@@ -215,56 +216,16 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\trackit.dsn")
-      (Path "Design Resources" ".\trackit.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Outputs")
-      (Select "Design Resources" ".\trackit.dsn"))
-    (HierarchyView)
+      (Path "Design Resources" "Library" ".\library1.olb")
+      (Path "Outputs"))
+    (HierarchyView
+      (Path "SCHEMATIC1"))
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -9 -38 0 200 0 401"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 64 1812 64 424")
-        (Scroll "-264 204")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "Trackit  main"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 128 1844 128 594")
-        (Scroll "-248 204")
-        (Zoom "100")
-        (Occurrence "/Regulator"))
-      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
-      (Schematic "Power Supply")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 160 1876 160 626")
-        (Scroll "-248 204")
-        (Zoom "100")
-        (Occurrence "/MCU"))
-      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
-      (Schematic "MCU")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 192 1908 192 658")
-        (Scroll "-406 0")
-        (Zoom "73")
-        (Occurrence "/Buzzer"))
-      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
-      (Schematic "Buzzer")
-      (Page "Buzzer")))
+      (Tab 0)))
   (MPSSessionName "user")
   (ISPCBBASICLICENSE "false")
   (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.6\tools\capture\library"))
