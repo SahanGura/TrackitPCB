@@ -1,0 +1,35 @@
+Trackit main  Revised: Wednesday, June 10, 2020
+01          Revision: 1.0
+
+
+
+
+
+
+
+Bill Of Materials           June 10,2020      17:48:12	Page1
+
+Item	Quantity	Reference	Part	Value
+______________________________________________
+
+1	1	CON1	Connector Header Through Hole 2 position	-
+2	1	CON2	Connector Header Through Hole 4 position	-
+3	1	CON3	Connector Header Through Hole 3 position	-
+4	1	C1	Capacitor 0805	1uF
+5	1	C2	Capacitor  0805	1uF
+6	1	C3	Capacitor 0805	4.7uF
+7	1	C4	Capacitor 0805	10uF
+8	1	D1	Diode SOD-323 T/R	1N4148WSQ-7-F
+9	1	L1	Inductor 0805	20uH
+10	1	L2	Inductor 0805	1.5uH
+11	1	Q1	SMD Transistor  SOT-23-3	SS8050
+12	1	Q2	MOSFET SOT-23-3_ RoHS	DMP2100U-7 
+13	4	R1,R2,R4,R7	Resisitor - 0805	1K
+14	1	R3	Resisitor - 0805	47K
+15	1	R5	Resisitor - 0805	2K
+16	2	R6,R8	Resisitor - 0805	100K
+17	1	S1	Switch Slide	JS102011JCQN
+18	1	S2	SMD Tactile Button Switch	SW08002
+19	4	TP1,TP2,TP3,TP4	TEST POINT	TEST POINT
+20	1	U1	Bluetooth v4.2 Transceiver Module	MDBT40-256RV3
+21	1	U2	Single Inductor Buck-Boost Converter	TPS63031
