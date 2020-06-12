@@ -2,5 +2,6 @@
 #  Complete
 
 color -globvis off
+color -vis "BOARD GEOMETRY/OUTLINE"
 color -vis "MANUFACTURING/AUTOSILK_TOP"
 color -vis "PACKAGE GEOMETRY/SILKSCREEN_TOP"
