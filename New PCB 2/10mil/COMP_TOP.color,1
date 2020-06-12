@@ -1,0 +1,8 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "BOARD GEOMETRY/OUTLINE"
+color -vis "DEVICE TYPE/SILKSCREEN_TOP"
+color -vis "DEVICE TYPE/ASSEMBLY_TOP"
+color -vis "PACKAGE GEOMETRY/ASSEMBLY_TOP"

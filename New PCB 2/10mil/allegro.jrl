@@ -1,185 +1,399 @@
-\t (00:00:39) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:39)     Journal start - Wed Jun 10 05:57:17 2020
-\t (00:00:39)         Host=DESKTOP-U6TBUH8 User=user Pid=19628 CPUs=4
-\t (00:00:39) 
-\d (00:00:39) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/trackitboard-10milnew.brd
-\i (00:00:39) generaledit 
-\i (00:00:45) setwindow form.vf_vis
-\i (00:00:45) FORM vf_vis 1 all_colorvisible NO 
-\i (00:00:46) setwindow pcb
-\i (00:00:46) zoom in 1 
-\i (00:00:46) setwindow pcb
-\i (00:00:46) zoom in 1024.998 1145.816
-\i (00:00:46) trapsize 7391
-\i (00:00:46) zoom in 1 
-\i (00:00:46) setwindow pcb
-\i (00:00:46) zoom in 1024.998 1145.816
-\i (00:00:46) trapsize 3695
-\i (00:00:49) pick grid 1144.727 1158.381
-\t (00:00:49) last pick:  1150.000  1150.000
-\i (00:00:49) prepopup 1144.727 1158.381
-\i (00:00:51) pop dyn_option_select @:@Mirror 
-\i (00:00:51) mirror 
-\i (00:00:52) generaledit 
-\i (00:00:56) pick grid 957.742 1165.033
-\t (00:00:56) last pick:  950.000  1175.000
-\i (00:00:57) prepopup 957.742 1165.033
-\i (00:00:58) pop dyn_option_select @:@Mirror 
-\i (00:00:58) mirror 
-\i (00:00:58) generaledit 
-\i (00:01:04) undo 
-\i (00:01:04) trapsize 3695
-\i (00:01:04) generaledit 
-\i (00:01:05) undo 
-\i (00:01:05) trapsize 3695
-\i (00:01:05) generaledit 
-\i (00:01:07) pick grid 1021.302 1196.074
-\t (00:01:07) last pick:  1025.000  1200.000
-\i (00:01:08) pick grid 1143.988 1183.509
-\t (00:01:08) last pick:  1150.000  1175.000
-\i (00:01:11) move 
-\t (00:01:11) last pick:  1164.370  1139.370
-\t (00:01:11) Pick new location for the element(s).
-\i (00:01:14) Esc 
-\i (00:01:15) prepopup 1107.034 1166.511
-\i (00:01:17) cancel 
-\i (00:01:17) generaledit 
-\i (00:01:18) pick grid 1410.053 1210.855
-\t (00:01:18) last pick:  1400.000  1200.000
-\i (00:01:19) pick grid 1201.635 1157.642
-\t (00:01:19) last pick:  1200.000  1150.000
-\i (00:01:21) prepopup 1202.375 1157.642
-\i (00:01:26) pick grid 1088.558 1185.727
-\t (00:01:26) last pick:  1100.000  1175.000
-\i (00:01:28) pick grid 1137.336 1163.555
-\t (00:01:28) last pick:  1125.000  1175.000
-\i (00:01:29) prepopup 1137.336 1163.555
-\i (00:01:30) pop dyn_option_select @:@Mirror 
-\i (00:01:30) mirror 
-\i (00:01:30) generaledit 
-\i (00:01:34) undo 
-\i (00:01:34) trapsize 3695
-\i (00:01:34) generaledit 
-\i (00:01:36) drag_start grid 1133.641 1187.205
-\i (00:01:36) move 
-\t (00:01:37) last pick:  1164.370  1139.370
-\t (00:01:37) Pick new location for the element(s).
-\i (00:01:37) drag_stop grid 1444.790 1148.773
-\i (00:01:37) generaledit 
-\i (00:01:38) drag_start grid 1473.613 1122.906
-\i (00:01:39) drag_stop 1410.053 1205.682
-\i (00:01:40) prepopup 1435.921 1173.162
-\i (00:01:41) pick grid 1426.313 1200.508
-\t (00:01:41) last pick:  1425.000  1200.000
-\i (00:01:41) drag_start grid 1397.489 1216.768
-\i (00:01:42) drag_stop 1551.216 1112.559
-\i (00:01:43) prepopup 1473.613 1173.902
-\i (00:01:45) pop dyn_option_select @:@Mirror 
-\i (00:01:45) mirror 
-\i (00:01:45) generaledit 
-\i (00:01:46) undo 
-\i (00:01:46) trapsize 3695
-\i (00:01:46) generaledit 
-\i (00:01:47) pick grid 1481.004 1119.949
-\t (00:01:47) last pick:  1475.000  1125.000
-\i (00:01:48) drag_start grid 1507.611 1127.340
-\i (00:01:48) drag_stop 1396.750 1221.202
-\i (00:01:53) zoom out 1 
-\i (00:01:53) setwindow pcb
-\i (00:01:53) zoom out 1405.619 1184.249
-\i (00:01:53) trapsize 7391
-\i (00:01:53) zoom out 1 
-\i (00:01:53) setwindow pcb
-\i (00:01:53) zoom out 1405.619 1178.336
-\i (00:01:53) trapsize 14781
-\i (00:02:01) zoom in 1 
-\i (00:02:01) setwindow pcb
-\i (00:02:01) zoom in 1426.313 1151.729
-\i (00:02:01) trapsize 7391
-\i (00:02:03) zoom out 1 
-\i (00:02:03) setwindow pcb
-\i (00:02:03) zoom out 1426.313 1151.729
-\i (00:02:03) trapsize 14781
-\i (00:02:12) undo 
-\i (00:02:12) trapsize 3695
-\i (00:02:12) generaledit 
-\i (00:02:13) undo 
-\i (00:02:13) trapsize 3695
-\i (00:02:14) generaledit 
-\i (00:02:14) undo 
-\i (00:02:14) generaledit 
-\i (00:02:14) undo 
-\i (00:02:14) generaledit 
-\i (00:02:14) undo 
-\i (00:02:15) generaledit 
-\i (00:02:15) undo 
-\i (00:02:15) generaledit 
-\i (00:02:15) undo 
-\i (00:02:15) generaledit 
-\i (00:02:15) undo 
-\i (00:02:15) generaledit 
-\i (00:02:15) undo 
-\i (00:02:15) generaledit 
-\i (00:02:15) undo 
-\i (00:02:15) generaledit 
-\i (00:02:16) undo 
-\i (00:02:16) generaledit 
-\i (00:02:16) undo 
-\i (00:02:16) generaledit 
-\i (00:02:16) undo 
-\i (00:02:16) generaledit 
-\i (00:02:16) undo 
-\i (00:02:16) generaledit 
-\i (00:02:16) undo 
-\i (00:02:16) generaledit 
-\i (00:02:16) undo 
-\i (00:02:17) generaledit 
-\i (00:02:17) zoom out 1 
-\i (00:02:17) setwindow pcb
-\i (00:02:17) zoom out 970.306 1187.944
-\i (00:02:17) trapsize 7391
-\i (00:02:17) zoom out 1 
-\i (00:02:17) setwindow pcb
-\i (00:02:17) zoom out 970.307 1187.944
-\i (00:02:17) trapsize 14781
-\i (00:02:22) pdf out 
-\i (00:02:24) setwindow form.pdf_out
-\i (00:02:24) FORM pdf_out pdftree 'MULTISEL YES' TOP 
-\i (00:02:24) FORM pdf_out pdftree  TOP 
-\i (00:02:44) FORM pdf_out pdftree 'MULTISEL NO' TOP 
-\i (00:02:45) FORM pdf_out pdftree 'MULTISEL YES' BOTTOM 
-\i (00:02:45) FORM pdf_out pdftree  BOTTOM 
-\i (00:02:49) FORM pdf_out attrtree  Component 
-\i (00:02:49) FORM pdf_out property_parameters  
-\i (00:02:50) FORM pdf_out page_setup  
-\i (00:02:55) FORM pdf_out pdf_export  
-\i (00:03:24) FORM pdf_out artwork  
-\i (00:03:29) setwindow form.film_control
-\i (00:03:29) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
-\i (00:03:45) FORM film_control mirror YES 
-\i (00:03:49) FORM film_control ok  
-\i (00:03:50) setwindow pcb
-\i (00:03:50) generaledit 
-\i (00:03:51) setwindow form.pdf_out
-\i (00:03:51) FORM pdf_out pdftree 'MULTISEL YES' BOTTOM 
-\i (00:03:51) FORM pdf_out pdftree  BOTTOM 
-\i (00:04:06) FORM pdf_out filename trackitboard-10milnew8 
-\i (00:04:06) FORM pdf_out pdftree 'MULTISEL YES' TOP 
-\i (00:04:06) FORM pdf_out pdftree  TOP 
-\i (00:04:08) FORM pdf_out export  
-\t (00:04:08) Starting Exporting PDF File...
-\t (00:04:13) PDF output completed.
-\i (00:04:38) FORM pdf_out filename trackitboard-10milnew7 
-\i (00:04:38) FORM pdf_out hole_filtered NO 
-\i (00:04:39) FORM pdf_out trace_filtered NO 
-\i (00:04:40) FORM pdf_out export  
-\t (00:04:40) Starting Exporting PDF File...
-\t (00:04:42) PDF output completed.
-\i (00:05:13) FORM pdf_out cancel  
-\i (00:05:13) setwindow pcb
-\i (00:05:13) generaledit 
-\i (00:05:17) save 
-\i (00:05:18) fillin yes 
-\i (00:05:18) generaledit 
-\i (00:05:20) exit 
-\t (00:05:21)     Journal end - Wed Jun 10 06:02:00 2020
+\t (00:00:07) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:07)     Journal start - Fri Jun 12 15:50:32 2020
+\t (00:00:07)         Host=DESKTOP-U6TBUH8 User=user Pid=17544 CPUs=4
+\t (00:00:07) 
+\t (00:00:13) Opening existing design...
+\d (00:00:14) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/trackitboard-10milnew.brd
+\i (00:00:18) trapsize 26266
+\i (00:00:18) trapsize 25345
+\i (00:00:18) trapsize 26426
+\i (00:00:19) trapsize 20328
+\t (00:00:19) Grids are drawn 100.000, 100.000 apart for enhanced viewability.
+\i (00:00:19) trapsize 43903
+\i (00:00:20) generaledit 
+\i (00:00:21) trapsize 31924
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in -460.241 331.839
+\i (00:00:23) trapsize 15962
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out -457.049 331.840
+\i (00:00:23) trapsize 31924
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out -457.049 331.839
+\i (00:00:23) trapsize 63848
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 109.979 -510.954
+\i (00:00:24) trapsize 31924
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 109.979 -510.954
+\i (00:00:24) trapsize 15962
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 113.172 -501.377
+\i (00:00:25) trapsize 31924
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 1568.906 86.025
+\i (00:00:26) trapsize 15962
+\i (00:00:30) color192 
+\i (00:00:31) setwindow cvf.dialog
+\i (00:00:31) cvf layer_mode
+\i (00:00:31) setwindow pcb
+\i (00:00:31) generaledit 
+\i (00:00:34) setwindow cvf.dialog
+\i (00:00:34) cvf global_invisible
+\i (00:01:27) cvf cancel
+\i (00:01:31) setwindow pcb
+\i (00:01:31) color192 
+\i (00:01:31) generaledit 
+\i (00:03:21) setwindow cvf.dialog
+\i (00:03:21) cvf global_invisible
+\i (00:03:22) cvf layers_visible stack-up stack-up/top TRUE
+\i (00:03:26) cvf okay
+\i (00:03:37) setwindow pcb
+\i (00:03:37) colorview create 
+\i (00:03:37) generaledit 
+\i (00:03:46) setwindow form.colorview_create
+\i (00:03:46) FORM colorview_create colorview_name TOPL 
+\i (00:03:46) FORM colorview_create color_browse  
+\i (00:05:02) fillin "menu_cancel"
+\i (00:05:04) FORM colorview_create color_browse  
+\i (00:05:11) fillin "menu_cancel"
+\i (00:05:13) FORM colorview_create save  
+\i (00:05:15) FORM colorview_create done  
+\i (00:05:36) setwindow pcb
+\i (00:05:36) colorview create 
+\i (00:05:36) generaledit 
+\i (00:05:40) setwindow form.colorview_create
+\i (00:05:40) FORM colorview_create colorview_name TOPL 
+\i (00:05:40) FORM colorview_create color_browse  
+\i (00:05:49) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\10mil\Color Views\TOPL.color"
+\i (00:06:11) FORM colorview_create color_browse  
+\i (00:06:15) fillin "menu_cancel"
+\i (00:06:18) FORM colorview_create save  
+\i (00:06:22) FORM colorview_create done  
+\i (00:06:25) setwindow pcb
+\i (00:06:25) colorview create 
+\i (00:06:25) generaledit 
+\i (00:06:30) setwindow form.colorview_create
+\i (00:06:30) FORM colorview_create colorview_name TOPL 
+\i (00:06:30) FORM colorview_create save  
+\i (00:06:31) FORM colorview_create save  
+\i (00:06:31) FORM colorview_create save  
+\i (00:06:32) FORM colorview_create done  
+\i (00:06:32) setwindow pcb
+\i (00:06:32) pick grid 1268.820 44.524
+\t (00:06:32) last pick:  1275.000  50.000
+\i (00:06:37) colorview create 
+\i (00:06:37) generaledit 
+\i (00:06:40) setwindow form.colorview_create
+\i (00:06:40) FORM colorview_create colorview_name TOPL 
+\i (00:06:40) FORM colorview_create save  
+\i (00:06:52) FORM colorview_create color_browse  
+\i (00:06:58) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\10mil\Color Views\TOPL.color"
+\i (00:06:59) FORM colorview_create save  
+\i (00:07:14) FORM colorview_create done  
+\i (00:07:16) setwindow pcb
+\i (00:07:16) color192 
+\i (00:07:16) setwindow cvf.dialog
+\i (00:07:16) cvf layer_mode
+\i (00:07:16) setwindow pcb
+\i (00:07:16) generaledit 
+\i (00:07:20) setwindow cvf.dialog
+\i (00:07:20) cvf layers_visible stack-up stack-up/top TRUE
+\i (00:07:22) cvf global_invisible
+\i (00:07:23) cvf layers_visible stack-up stack-up/bottom TRUE
+\i (00:07:27) cvf okay
+\i (00:07:31) setwindow pcb
+\i (00:07:31) colorview create 
+\i (00:07:31) generaledit 
+\i (00:07:44) setwindow form.colorview_create
+\i (00:07:44) FORM colorview_create colorview_name BOTL 
+\i (00:07:44) FORM colorview_create save  
+\i (00:07:45) FORM colorview_create done  
+\i (00:07:47) setwindow pcb
+\i (00:07:47) color192 
+\i (00:07:47) setwindow cvf.dialog
+\i (00:07:47) cvf layer_mode
+\i (00:07:47) setwindow pcb
+\i (00:07:47) generaledit 
+\i (00:07:51) setwindow cvf.dialog
+\i (00:07:51) cvf global_invisible
+\i (00:07:59) cvf layers_visible stack-up stack-up/soldermask_top TRUE
+\i (00:08:06) cvf okay
+\i (00:08:09) setwindow pcb
+\i (00:08:09) colorview create 
+\i (00:08:09) generaledit 
+\i (00:08:17) setwindow form.colorview_create
+\i (00:08:17) FORM colorview_create colorview_name MASK_TOP 
+\i (00:08:17) FORM colorview_create save  
+\i (00:08:19) FORM colorview_create done  
+\i (00:09:02) setwindow pcb
+\i (00:09:02) colorview create 
+\i (00:09:02) generaledit 
+\i (00:09:41) setwindow form.colorview_create
+\i (00:09:41) FORM colorview_create colorview_name MASK_TOP 
+\i (00:09:41) FORM colorview_create save  
+\i (00:09:42) FORM colorview_create done  
+\i (00:10:18) setwindow pcb
+\i (00:10:18) color192 
+\i (00:10:18) setwindow cvf.dialog
+\i (00:10:18) cvf layer_mode
+\i (00:10:18) setwindow pcb
+\i (00:10:18) generaledit 
+\i (00:10:26) setwindow cvf.dialog
+\i (00:10:26) cvf global_invisible
+\i (00:10:27) cvf layers_visible stack-up stack-up/soldermask_bottom TRUE
+\i (00:10:52) cvf okay
+\i (00:10:53) setwindow pcb
+\i (00:10:53) colorview create 
+\i (00:10:54) generaledit 
+\i (00:11:00) setwindow form.colorview_create
+\i (00:11:00) FORM colorview_create colorview_name MASK_BOT 
+\i (00:11:00) FORM colorview_create save  
+\i (00:11:00) FORM colorview_create done  
+\i (00:11:08) setwindow pcb
+\i (00:11:08) color192 
+\i (00:11:09) setwindow cvf.dialog
+\i (00:11:09) cvf layer_mode
+\i (00:11:09) setwindow pcb
+\i (00:11:09) generaledit 
+\i (00:11:14) setwindow cvf.dialog
+\i (00:11:14) cvf global_invisible
+\i (00:11:17) cvf layers_visible stack-up stack-up/soldermask_bottom TRUE
+\i (00:11:19) cvf okay
+\i (00:11:21) setwindow pcb
+\i (00:11:21) colorview create 
+\i (00:11:21) generaledit 
+\i (00:11:26) setwindow form.colorview_create
+\i (00:11:26) FORM colorview_create colorview_name MASK_BOT 
+\i (00:11:26) FORM colorview_create save  
+\i (00:11:28) FORM colorview_create done  
+\i (00:11:30) setwindow pcb
+\i (00:11:30) color192 
+\i (00:11:30) setwindow cvf.dialog
+\i (00:11:30) cvf layer_mode
+\i (00:11:30) setwindow pcb
+\i (00:11:30) generaledit 
+\i (00:11:33) setwindow cvf.dialog
+\i (00:11:33) cvf global_invisible
+\i (00:11:35) cvf layer_tree_item 'Board Geometry'
+\i (00:11:50) cvf layers_visible board_geometry/outline TRUE
+\i (00:11:58) cvf okay
+\i (00:12:04) setwindow pcb
+\i (00:12:04) colorview create 
+\i (00:12:04) generaledit 
+\i (00:12:10) setwindow form.colorview_create
+\i (00:12:10) FORM colorview_create colorview_name OUTLINE 
+\i (00:12:10) FORM colorview_create save  
+\i (00:12:11) FORM colorview_create done  
+\i (00:12:16) setwindow pcb
+\i (00:12:16) color192 
+\i (00:12:16) setwindow cvf.dialog
+\i (00:12:16) cvf layer_mode
+\i (00:12:16) setwindow pcb
+\i (00:12:16) generaledit 
+\i (00:13:11) setwindow cvf.dialog
+\i (00:13:11) cvf layer_tree_item 'Package Geometry'
+\i (00:13:15) cvf layers_visible package_geometry/silkscreen_top TRUE
+\i (00:13:18) cvf layer_tree_item 'Manufacturing'
+\i (00:13:22) cvf layers_visible manufacturing/autosilk_top TRUE
+\i (00:13:24) cvf layer_tree_item 'Package Geometry'
+\i (00:13:27) cvf layer_tree_item 'Manufacturing'
+\i (00:13:29) cvf layer_tree_item 'Board Geometry'
+\i (00:13:36) cvf global_invisible
+\i (00:13:39) cvf layer_tree_item 'Package Geometry'
+\i (00:13:44) cvf layers_visible package_geometry/silkscreen_top TRUE
+\i (00:13:46) cvf layer_tree_item 'Manufacturing'
+\i (00:13:48) cvf layers_visible manufacturing/autosilk_top TRUE
+\i (00:13:52) cvf layer_tree_item 'Board Geometry'
+\i (00:13:54) cvf layers_visible board_geometry/outline TRUE
+\i (00:13:56) cvf okay
+\i (00:15:11) setwindow pcb
+\i (00:15:11) zoom in 1 
+\i (00:15:11) setwindow pcb
+\i (00:15:11) zoom in 42.939 239.260
+\i (00:15:11) trapsize 7981
+\i (00:15:11) zoom in 1 
+\i (00:15:11) setwindow pcb
+\i (00:15:11) zoom in 42.938 239.260
+\i (00:15:11) trapsize 3991
+\i (00:15:12) zoom out 1 
+\i (00:15:12) setwindow pcb
+\i (00:15:12) zoom out 42.939 239.261
+\i (00:15:12) trapsize 7981
+\i (00:15:13) zoom out 1 
+\i (00:15:13) setwindow pcb
+\i (00:15:13) zoom out 42.938 239.260
+\i (00:15:13) trapsize 15962
+\i (00:15:14) zoom in 1 
+\i (00:15:14) setwindow pcb
+\i (00:15:14) zoom in 42.938 239.261
+\i (00:15:14) trapsize 7981
+\i (00:15:15) zoom out 1 
+\i (00:15:15) setwindow pcb
+\i (00:15:15) zoom out 42.938 239.261
+\i (00:15:15) trapsize 15962
+\i (00:15:25) colorview create 
+\i (00:15:25) generaledit 
+\i (00:15:32) setwindow form.colorview_create
+\i (00:15:32) FORM colorview_create colorview_name SILK_TOP 
+\i (00:15:32) FORM colorview_create save  
+\i (00:15:32) FORM colorview_create done  
+\i (00:15:35) setwindow pcb
+\i (00:15:35) color192 
+\i (00:15:35) setwindow cvf.dialog
+\i (00:15:35) cvf layer_mode
+\i (00:15:35) setwindow pcb
+\i (00:15:35) generaledit 
+\i (00:15:38) setwindow cvf.dialog
+\i (00:15:38) cvf global_invisible
+\i (00:15:45) cvf layer_tree_item 'Package Geometry'
+\i (00:15:55) cvf layers_visible package_geometry/silkscreen_bottom TRUE
+\i (00:15:58) cvf layer_tree_item 'Manufacturing'
+\i (00:15:59) cvf layers_visible manufacturing/autosilk_bottom TRUE
+\i (00:16:01) cvf layer_tree_item 'Board Geometry'
+\i (00:16:02) cvf layers_visible board_geometry/outline TRUE
+\i (00:16:03) cvf okay
+\i (00:16:05) setwindow pcb
+\i (00:16:05) colorview create 
+\i (00:16:05) generaledit 
+\i (00:16:16) setwindow form.colorview_create
+\i (00:16:16) FORM colorview_create colorview_name SILK_BOT 
+\i (00:16:17) FORM colorview_create save  
+\i (00:16:18) FORM colorview_create done  
+\i (00:16:30) setwindow pcb
+\i (00:16:30) color192 
+\i (00:16:30) setwindow cvf.dialog
+\i (00:16:30) cvf layer_mode
+\i (00:16:30) setwindow pcb
+\i (00:16:30) generaledit 
+\i (00:16:32) setwindow cvf.dialog
+\i (00:16:32) cvf global_invisible
+\i (00:16:34) cvf layers_visible stack-up stack-up/all_row TRUE
+\i (00:16:35) cvf layer_tree_item 'Board Geometry'
+\i (00:16:37) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (00:16:38) cvf layer_tree_item 'Display'
+\i (00:16:39) cvf layer_tree_item 'My Favorites'
+\i (00:16:39) cvf layer_tree_item 'Stack-Up'
+\i (00:16:40) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (00:16:40) cvf layer_tree_item 'Non-Conductor' 'Stack-Up'
+\i (00:16:43) cvf cancel
+\i (00:16:44) setwindow pcb
+\i (00:16:44) color192 
+\i (00:16:45) generaledit 
+\i (00:16:47) setwindow cvf.dialog
+\i (00:16:47) cvf global_invisible
+\i (00:16:47) cvf layers_visible stack-up stack-up/all_row TRUE
+\i (00:16:58) cvf global_invisible
+\i (00:17:18) cvf layers_visible stack-up stack-up/top TRUE
+\i (00:17:18) cvf layers_visible stack-up stack-up/bottom TRUE
+\i (00:17:19) cvf layers_visible stack-up stack-up/soldermask_top TRUE
+\i (00:17:20) cvf layers_visible stack-up stack-up/soldermask_bottom TRUE
+\i (00:17:25) cvf layer_tree_item 'Board Geometry'
+\i (00:17:28) cvf layers_visible board_geometry/outline TRUE
+\i (00:17:29) cvf layer_tree_item 'Package Geometry'
+\i (00:17:34) cvf layers_visible package_geometry/silkscreen_top TRUE
+\i (00:17:35) cvf layers_visible package_geometry/silkscreen_bottom TRUE
+\i (00:17:37) cvf layer_tree_item 'Manufacturing'
+\i (00:17:39) cvf layers_visible manufacturing/autosilk_bottom TRUE
+\i (00:17:40) cvf layers_visible manufacturing/autosilk_top TRUE
+\i (00:17:46) cvf layer_tree_item 'Package Geometry'
+\i (00:17:49) cvf layers_visible package_geometry/place_bound_top TRUE
+\i (00:17:58) cvf layers_visible package_geometry/dfa_bound_top TRUE
+\i (00:18:09) cvf layers_visible package_geometry/place_bound_bottom TRUE
+\i (00:18:11) cvf layers_visible package_geometry/dfa_bound_bottom TRUE
+\i (00:18:12) cvf layer_tree_item 'Components'
+\i (00:18:17) cvf layers_visible components components/assembly_top TRUE
+\i (00:18:18) cvf layers_visible components components/assembly_bottom TRUE
+\i (00:18:23) cvf layers_visible components comp_value/assembly_bottom FALSE
+\i (00:18:23) cvf layers_visible components comp_value/assembly_top FALSE
+\i (00:18:24) cvf layers_visible components ref_des/assembly_bottom FALSE
+\i (00:18:24) cvf layers_visible components ref_des/assembly_top FALSE
+\i (00:18:28) cvf layers_visible components ref_des/assembly_bottom TRUE
+\i (00:18:29) cvf layers_visible components ref_des/assembly_top TRUE
+\i (00:18:29) cvf layers_visible components tolerance/assembly_bottom FALSE
+\i (00:18:30) cvf layers_visible components tolerance/assembly_top FALSE
+\i (00:18:30) cvf layers_visible components user_part/assembly_bottom FALSE
+\i (00:18:31) cvf layers_visible components user_part/assembly_top FALSE
+\i (00:18:32) cvf layers_visible components dev_type/assembly_bottom FALSE
+\i (00:18:32) cvf layers_visible components dev_type/assembly_top FALSE
+\i (00:18:46) cvf layer_tree_item 'Package Geometry'
+\i (00:18:48) cvf okay
+\i (00:18:49) setwindow pcb
+\i (00:18:49) zoom in 1 
+\i (00:18:49) setwindow pcb
+\i (00:18:49) zoom in -206.069 443.575
+\i (00:18:49) trapsize 7981
+\i (00:18:50) zoom out 1 
+\i (00:18:50) setwindow pcb
+\i (00:18:50) zoom out -206.068 443.575
+\i (00:18:50) trapsize 15962
+\i (00:18:55) colorview create 
+\i (00:18:55) generaledit 
+\i (00:18:58) setwindow form.colorview_create
+\i (00:18:58) FORM colorview_create colorview_name ALL 
+\i (00:18:58) FORM colorview_create save  
+\i (00:18:58) FORM colorview_create done  
+\i (00:19:01) setwindow pcb
+\i (00:19:01) color192 
+\i (00:19:01) setwindow cvf.dialog
+\i (00:19:01) cvf layer_mode
+\i (00:19:01) setwindow pcb
+\i (00:19:01) generaledit 
+\i (00:19:05) setwindow cvf.dialog
+\i (00:19:05) cvf global_invisible
+\i (00:19:06) cvf layer_tree_item 'Components'
+\i (00:19:10) cvf layers_visible components components/assembly_top TRUE
+\i (00:19:17) cvf layers_visible components components/silkscreen_top TRUE
+\i (00:19:26) cvf layer_tree_item 'Board Geometry'
+\i (00:19:27) cvf layers_visible board_geometry/outline TRUE
+\i (00:19:32) cvf layer_tree_item 'Package Geometry'
+\i (00:19:34) cvf layers_visible package_geometry/assembly_top TRUE
+\i (00:19:36) cvf layer_tree_item 'Components'
+\i (00:19:39) cvf layers_visible components comp_value/assembly_top FALSE
+\i (00:19:40) cvf layers_visible components ref_des/assembly_top FALSE
+\i (00:19:41) cvf layers_visible components tolerance/assembly_top FALSE
+\i (00:19:42) cvf layers_visible components user_part/assembly_top FALSE
+\i (00:19:45) cvf layers_visible components comp_value/silkscreen_top FALSE
+\i (00:19:46) cvf layers_visible components ref_des/silkscreen_top FALSE
+\i (00:19:47) cvf layers_visible components tolerance/silkscreen_top FALSE
+\i (00:19:48) cvf layers_visible components user_part/silkscreen_top FALSE
+\i (00:19:50) cvf layer_tree_item 'Package Geometry'
+\i (00:19:52) cvf layer_tree_item 'Board Geometry'
+\i (00:19:54) cvf okay
+\i (00:19:56) setwindow pcb
+\i (00:19:56) colorview create 
+\i (00:19:56) generaledit 
+\i (00:20:03) setwindow form.colorview_create
+\i (00:20:03) FORM colorview_create colorview_name COMP_TOP 
+\i (00:20:03) FORM colorview_create save  
+\i (00:20:04) FORM colorview_create save  
+\i (00:20:05) FORM colorview_create done  
+\i (00:20:11) setwindow pcb
+\i (00:20:11) color192 
+\i (00:20:12) setwindow cvf.dialog
+\i (00:20:12) cvf layer_mode
+\i (00:20:12) setwindow pcb
+\i (00:20:12) generaledit 
+\i (00:20:14) setwindow cvf.dialog
+\i (00:20:14) cvf layer_tree_item 'Components'
+\i (00:20:19) cvf layers_visible components comp_value/assembly_top TRUE
+\i (00:20:23) cvf okay
+\i (00:20:24) setwindow pcb
+\i (00:20:24) zoom in 1 
+\i (00:20:24) setwindow pcb
+\i (00:20:24) zoom in 148.288 724.507
+\i (00:20:24) trapsize 7981
+\i (00:20:25) zoom out 1 
+\i (00:20:25) setwindow pcb
+\i (00:20:25) zoom out 148.288 724.507
+\i (00:20:25) trapsize 15962
+\i (00:20:31) setwindow form.vf_vis
+\i (00:20:31) FORM vf_vis 1 all_colorvisible YES 
+\i (00:20:32) FOR
