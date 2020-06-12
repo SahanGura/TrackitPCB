@@ -1,136 +1,112 @@
-\t (00:00:40) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:40)     Journal start - Fri Jun 05 20:48:29 2020
-\t (00:00:40)         Host=DESKTOP-U6TBUH8 User=user Pid=15336 CPUs=4
-\t (00:00:40) 
-\d (00:00:40) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/resistor 30K/RESC2012X60N.dra
-\i (00:00:40) generaledit 
-\i (00:00:41) zoom in 1 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom in -1.4317 -0.3951
-\i (00:00:41) trapsize 1062
-\i (00:00:41) zoom in 1 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom in -2.4481 -0.3950
-\i (00:00:41) trapsize 531
-\i (00:00:41) zoom in 1 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom in -2.4480 -0.3950
-\i (00:00:41) trapsize 265
-\i (00:00:43) zoom out 1 
-\i (00:00:43) setwindow pcb
-\i (00:00:43) zoom out -1.2905 -0.0233
-\i (00:00:43) trapsize 531
-\i (00:01:40) pick grid -1.6196 1.5378
-\t (00:01:40) last pick:  -2.5400  2.5400
-\i (00:01:40) prepopup -1.6196 1.5378
-\i (00:01:43) pick grid -2.5329 -2.3915
-\t (00:01:43) last pick:  -2.5400  -2.5400
-\i (00:01:45) pick grid 0.2176 0.9962
-\t (00:01:45) last pick:  0.0000  0.0000
-\i (00:01:47) prepopup -0.2178 0.2847
-\i (00:01:50) pop dyn_option_select '@:@Property edit' 
-\i (00:01:50) property edit 
-\i (00:01:52) setwindow text
-\i (00:01:52) close 
-\i (00:01:53) setwindow pcb
-\i (00:01:53) generaledit 
-\i (00:01:54) pick grid -1.6833 1.4953
-\t (00:01:54) last pick:  -2.5400  2.5400
-\i (00:01:54) pick grid dbl -1.6833 1.4953
-\t (00:01:54) last pick:  -2.5400  2.5400
-\i (00:01:54) pick grid -1.6833 1.4953
-\t (00:01:54) last pick:  -2.5400  2.5400
-\i (00:01:56) pick grid -1.5984 0.8263
-\t (00:01:56) last pick:  -2.5400  0.0000
-\i (00:01:56) pick grid dbl -1.5984 0.8263
-\t (00:01:56) last pick:  -2.5400  0.0000
-\i (00:02:24) define property 
-\i (00:02:24) generaledit 
-\i (00:02:27) drag_start grid 4.0301 1.6971
-\i (00:02:28) drag_stop -5.7507 -2.1897
-\i (00:02:53) define property 
-\i (00:02:53) generaledit 
-\i (00:02:56) prepopup -0.8869 0.5927
-\i (00:03:10) pop dyn_option_select 'Application Mode@:@General Edit' 
-\i (00:03:10) generaledit 
-\i (00:03:12) prepopup 1.0459 2.1219
-\i (00:03:19) find_by_name 
-\i (00:03:24) setwindow form.findname
-\i (00:03:24) FORM findname objtype Device Type 
-\i (00:03:26) FORM findname objtype Symbol Type 
-\i (00:03:28) FORM findname cancel  
-\i (00:03:28) setwindow pcb
-\i (00:03:28) pick grid 3.9239 0.1785
-\t (00:03:28) last pick:  5.0800  0.0000
-\i (00:03:59) pick grid -0.3559 -1.7649
-\t (00:03:59) last pick:  0.0000  -2.5400
-\i (00:04:00) pick grid -1.5347 1.2829
-\t (00:04:00) last pick:  -2.5400  2.5400
-\i (00:04:01) pick grid -1.7789 1.6653
-\t (00:04:01) last pick:  -2.5400  2.5400
-\i (00:04:01) pick grid dbl -1.7789 1.6653
-\t (00:04:01) last pick:  -2.5400  2.5400
-\i (00:04:02) pick grid -1.7789 1.6546
-\t (00:04:02) last pick:  -2.5400  2.5400
-\i (00:04:03) pick grid -1.7895 1.7077
-\t (00:04:03) last pick:  -2.5400  2.5400
-\i (00:04:03) prepopup -1.8002 1.7077
-\i (00:04:07) pop dyn_option_select '@:@Text edit' 
-\i (00:04:07) text edit 
-\i (00:04:11) setwindow form.textedit
-\i (00:04:11) FORM textedit cancel  
-\i (00:04:11) setwindow pcb
-\i (00:04:11) generaledit 
-\i (00:04:11) pick grid 2.2566 0.1572
-\t (00:04:11) last pick:  2.5400  0.0000
-\i (00:05:36) change 
-\i (00:05:41) property edit 
-\t (00:05:41) Adjust find filter then select an element or group of elements.
-\i (00:05:43) pick grid 0.1008 -0.0764
-\t (00:05:43) last pick:  0.0000  0.0000
-\i (00:05:46) setwindow text
-\i (00:05:46) close 
-\i (00:05:51) setwindow form.editprop1
-\i (00:05:51) FORM editprop1 properties Wirebond_Finger_Shape 
-\i (00:05:52) FORM editprop1 properties Vias_Allowed 
-\i (00:05:53) FORM editprop1 properties Thickness 
-\i (00:05:53) FORM editprop1 properties Spif_Turret 
-\i (00:05:54) FORM editprop1 properties Shapes_Allowed 
-\i (00:05:55) FORM editprop1 properties Routes_Allowed 
-\i (00:05:56) FORM editprop1 properties Room_Type 
-\i (00:05:56) FORM editprop1 properties Rfpcb_Object 
-\i (00:05:57) FORM editprop1 properties Region_Name 
-\i (00:06:00) FORM editprop1 properties Package_Height_Min 
-\i (00:06:01) FORM editprop1 properties Package_Height_Max 
-\i (00:06:02) FORM editprop1 properties Ok_Unassigned_Shape 
-\i (00:06:03) FORM editprop1 properties Nodrc_Etch_Outside_Keepin 
-\i (00:06:03) FORM editprop1 properties Nodrc_Component_Board_Overlap 
-\i (00:06:04) FORM editprop1 properties Net_Short 
-\i (00:06:06) FORM editprop1 properties Material 
-\i (00:06:06) FORM editprop1 properties Idx_Owner 
-\i (00:06:07) FORM editprop1 properties Idx_Other_Outline 
-\i (00:06:07) FORM editprop1 properties Idx_Exclude 
-\i (00:06:07) FORM editprop1 properties Idx_Bend_Type_Info 
-\i (00:06:08) FORM editprop1 properties Idf_Owner 
-\i (00:06:08) FORM editprop1 properties Idf_Other_Outline 
-\i (00:06:09) FORM editprop1 properties Fixed 
-\i (00:06:09) FORM editprop1 properties Embedded_Via_Keepout 
-\i (00:06:09) FORM editprop1 properties Dyn_Do_Not_Void 
-\i (00:06:09) FORM editprop1 properties Dyn_Clearance_Oversize 
-\i (00:06:10) FORM editprop1 properties Degas_No_Void 
-\i (00:06:10) FORM editprop1 properties Comment 
-\i (00:06:10) FORM editprop1 properties Clip_Drawing 
-\i (00:06:14) setwindow form.editprop2
-\i (00:06:14) FORM editprop2 package_height_max prop_state YES 
-\i (00:06:14) FORM editprop2 package_height_max prop_state NO 
-\i (00:07:12) setwindow pcb
-\i (00:07:12) pick grid 3.2655 1.0493
-\t (00:07:12) last pick:  2.5400  0.0000
-\i (00:07:27) open 
-\e (00:07:27) Do you want to save the changes you made to RESC2012X60N.dra?
-\i (00:07:29) fillin no 
-\i (00:07:35) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Capacitor\CAPC2012X140N.dra"
-\i (00:07:35) cd "C:\Users\user\Documents\GitHub\TrackitPCB\footprints\Capacitor"
-\t (00:07:35) Opening existing design...
-\i (00:07:35) trapsize 2178
-\t (00:07:36)     Journal end - Fri Jun 05 20:55:25 2020
+\t (00:23:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:23:02)     Journal start - Fri Jun 12 16:13:27 2020
+\t (00:23:02)         Host=DESKTOP-U6TBUH8 User=user Pid=17544 CPUs=4
+\t (00:23:02) 
+\d (00:23:02) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/footprints/resistor 30K/RESC2012X60N.dra
+\i (00:23:02) zoom out 1 
+\i (00:23:02) setwindow pcb
+\i (00:23:02) zoom out 9.0181 4.9148
+\i (00:23:02) trapsize 2124
+\i (00:23:02) generaledit 
+\i (00:23:02) zoom out 1 
+\i (00:23:02) setwindow pcb
+\i (00:23:02) zoom out 9.0181 4.8723
+\i (00:23:02) trapsize 2124
+\i (00:23:03) zoom in 1 
+\i (00:23:03) setwindow pcb
+\i (00:23:03) zoom in -1.2618 0.7518
+\i (00:23:03) trapsize 1062
+\i (00:23:03) zoom in 1 
+\i (00:23:03) setwindow pcb
+\i (00:23:03) zoom in -2.3631 0.7518
+\i (00:23:03) trapsize 531
+\i (00:23:04) zoom in 1 
+\i (00:23:04) setwindow pcb
+\i (00:23:04) zoom in 0.6105 -0.9048
+\i (00:23:04) trapsize 265
+\i (00:23:27) setwindow form.mini
+\i (00:23:27) FORM mini subclass SILKSCREEN_TOP 
+\i (00:23:35) setwindow pcb
+\i (00:23:35) add line 
+\i (00:23:42) setwindow form.mini
+\i (00:23:42) FORM mini line_width 2.0000 
+\i (00:23:44) setwindow pcb
+\i (00:23:44) pick grid -1.7152 0.9749
+\t (00:23:44) last pick:  -2.5400  0.0000
+\i (00:23:45) prepopup 0.4565 1.0333
+\i (00:23:48) cancel 
+\i (00:23:48) generaledit 
+\i (00:23:50) define grid 
+\t (00:23:51) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:23:51) generaledit 
+\i (00:23:54) setwindow form.grid
+\i (00:23:54) FORM grid non_etch non_etch_x_grids 0.1 
+\i (00:23:55) FORM grid non_etch non_etch_y_grids 0.1 
+\i (00:23:55) FORM grid done  
+\i (00:23:58) setwindow pcb
+\i (00:23:58) add line 
+\i (00:24:02) pick grid -1.8214 1.0068
+\t (00:24:02) last pick:  -1.8000  1.0000
+\i (00:24:03) prepopup 0.5786 0.9856
+\i (00:24:04) cancel 
+\i (00:24:04) generaledit 
+\i (00:24:06) add line 
+\i (00:24:09) setwindow form.mini
+\i (00:24:09) FORM mini line_width 1.0000 
+\i (00:24:10) setwindow pcb
+\i (00:24:10) pick grid -1.5400 1.2139
+\t (00:24:10) last pick:  -1.5000  1.2000
+\i (00:24:11) prepopup -0.4249 1.1289
+\i (00:24:12) oops 
+\i (00:24:17) setwindow form.mini
+\i (00:24:17) FORM mini line_width 0.5000 
+\i (00:24:18) setwindow pcb
+\i (00:24:18) pick grid -1.7418 1.0440
+\t (00:24:18) last pick:  -1.7000  1.0000
+\i (00:24:19) prepopup 0.5574 1.0599
+\i (00:24:20) oops 
+\i (00:24:24) setwindow form.mini
+\i (00:24:24) FORM mini line_width 0.2000 
+\i (00:24:25) setwindow pcb
+\i (00:24:25) pick grid -1.7099 0.9696
+\t (00:24:25) last pick:  -1.7000  1.0000
+\i (00:24:27) pick grid 1.6512 0.9590
+\t (00:24:27) last pick:  1.7000  1.0000
+\i (00:24:28) pick grid 1.6884 -0.8517
+\t (00:24:28) last pick:  1.7000  -0.9000
+\i (00:24:33) pick grid -1.6781 -0.9472
+\t (00:24:33) last pick:  -1.7000  -0.9000
+\i (00:24:35) pick grid -1.7152 0.9537
+\t (00:24:35) last pick:  -1.7000  1.0000
+\i (00:24:35) prepopup -0.4887 1.3519
+\i (00:24:36) done 
+\i (00:24:36) generaledit 
+\i (00:24:37) zoom out 1 
+\i (00:24:37) setwindow pcb
+\i (00:24:37) zoom out -0.3240 1.3307
+\i (00:24:37) trapsize 531
+\i (00:24:40) zoom out 1 
+\i (00:24:40) setwindow pcb
+\i (00:24:40) zoom out -2.4162 0.3218
+\i (00:24:40) trapsize 1062
+\i (00:24:41) zoom in 1 
+\i (00:24:41) setwindow pcb
+\i (00:24:41) zoom in -4.2747 2.2759
+\i (00:24:41) trapsize 531
+\i (00:24:42) save 
+\i (00:24:43) fillin yes 
+\t (00:24:46) Symbol 'resc2012x60n.psm' created.
+\i (00:24:46) open 
+\i (00:24:50) fillin "menu_cancel"
+\i (00:24:50) generaledit 
+\i (00:24:51) pick grid 2.3946 -1.5472
+\t (00:24:51) last pick:  2.4000  -1.5000
+\i (00:24:53) open 
+\i (00:25:03) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\10mil\trackitboard-10milnew.brd"
+\i (00:25:03) cd "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\10mil"
+\t (00:25:03) Opening existing design...
+\i (00:25:03) trapsize 15962
+\i (00:25:03) trapsize 15590
+\i (00:25:03) trapsize 15962
+\i (00:25:03) trapsize 15962
+\t (00:25:04)     Journal end - Fri Jun 12 16:15:28 2020

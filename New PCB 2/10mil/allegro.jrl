@@ -1,399 +1,681 @@
-\t (00:00:07) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:07)     Journal start - Fri Jun 12 15:50:32 2020
-\t (00:00:07)         Host=DESKTOP-U6TBUH8 User=user Pid=17544 CPUs=4
-\t (00:00:07) 
-\t (00:00:13) Opening existing design...
-\d (00:00:14) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/trackitboard-10milnew.brd
-\i (00:00:18) trapsize 26266
-\i (00:00:18) trapsize 25345
-\i (00:00:18) trapsize 26426
-\i (00:00:19) trapsize 20328
-\t (00:00:19) Grids are drawn 100.000, 100.000 apart for enhanced viewability.
-\i (00:00:19) trapsize 43903
-\i (00:00:20) generaledit 
-\i (00:00:21) trapsize 31924
-\i (00:00:23) zoom in 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom in -460.241 331.839
-\i (00:00:23) trapsize 15962
-\i (00:00:23) zoom out 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom out -457.049 331.840
-\i (00:00:23) trapsize 31924
-\i (00:00:23) zoom out 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom out -457.049 331.839
-\i (00:00:23) trapsize 63848
-\i (00:00:24) zoom in 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom in 109.979 -510.954
-\i (00:00:24) trapsize 31924
-\i (00:00:24) zoom in 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom in 109.979 -510.954
-\i (00:00:24) trapsize 15962
-\i (00:00:25) zoom out 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom out 113.172 -501.377
-\i (00:00:25) trapsize 31924
-\i (00:00:26) zoom in 1 
-\i (00:00:26) setwindow pcb
-\i (00:00:26) zoom in 1568.906 86.025
-\i (00:00:26) trapsize 15962
-\i (00:00:30) color192 
-\i (00:00:31) setwindow cvf.dialog
-\i (00:00:31) cvf layer_mode
-\i (00:00:31) setwindow pcb
-\i (00:00:31) generaledit 
-\i (00:00:34) setwindow cvf.dialog
-\i (00:00:34) cvf global_invisible
-\i (00:01:27) cvf cancel
-\i (00:01:31) setwindow pcb
-\i (00:01:31) color192 
-\i (00:01:31) generaledit 
-\i (00:03:21) setwindow cvf.dialog
-\i (00:03:21) cvf global_invisible
-\i (00:03:22) cvf layers_visible stack-up stack-up/top TRUE
-\i (00:03:26) cvf okay
-\i (00:03:37) setwindow pcb
-\i (00:03:37) colorview create 
-\i (00:03:37) generaledit 
-\i (00:03:46) setwindow form.colorview_create
-\i (00:03:46) FORM colorview_create colorview_name TOPL 
-\i (00:03:46) FORM colorview_create color_browse  
-\i (00:05:02) fillin "menu_cancel"
-\i (00:05:04) FORM colorview_create color_browse  
-\i (00:05:11) fillin "menu_cancel"
-\i (00:05:13) FORM colorview_create save  
-\i (00:05:15) FORM colorview_create done  
-\i (00:05:36) setwindow pcb
-\i (00:05:36) colorview create 
-\i (00:05:36) generaledit 
-\i (00:05:40) setwindow form.colorview_create
-\i (00:05:40) FORM colorview_create colorview_name TOPL 
-\i (00:05:40) FORM colorview_create color_browse  
-\i (00:05:49) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\10mil\Color Views\TOPL.color"
-\i (00:06:11) FORM colorview_create color_browse  
-\i (00:06:15) fillin "menu_cancel"
-\i (00:06:18) FORM colorview_create save  
-\i (00:06:22) FORM colorview_create done  
-\i (00:06:25) setwindow pcb
-\i (00:06:25) colorview create 
-\i (00:06:25) generaledit 
-\i (00:06:30) setwindow form.colorview_create
-\i (00:06:30) FORM colorview_create colorview_name TOPL 
-\i (00:06:30) FORM colorview_create save  
-\i (00:06:31) FORM colorview_create save  
-\i (00:06:31) FORM colorview_create save  
-\i (00:06:32) FORM colorview_create done  
-\i (00:06:32) setwindow pcb
-\i (00:06:32) pick grid 1268.820 44.524
-\t (00:06:32) last pick:  1275.000  50.000
-\i (00:06:37) colorview create 
-\i (00:06:37) generaledit 
-\i (00:06:40) setwindow form.colorview_create
-\i (00:06:40) FORM colorview_create colorview_name TOPL 
-\i (00:06:40) FORM colorview_create save  
-\i (00:06:52) FORM colorview_create color_browse  
-\i (00:06:58) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\10mil\Color Views\TOPL.color"
-\i (00:06:59) FORM colorview_create save  
-\i (00:07:14) FORM colorview_create done  
-\i (00:07:16) setwindow pcb
-\i (00:07:16) color192 
-\i (00:07:16) setwindow cvf.dialog
-\i (00:07:16) cvf layer_mode
-\i (00:07:16) setwindow pcb
-\i (00:07:16) generaledit 
-\i (00:07:20) setwindow cvf.dialog
-\i (00:07:20) cvf layers_visible stack-up stack-up/top TRUE
-\i (00:07:22) cvf global_invisible
-\i (00:07:23) cvf layers_visible stack-up stack-up/bottom TRUE
-\i (00:07:27) cvf okay
-\i (00:07:31) setwindow pcb
-\i (00:07:31) colorview create 
-\i (00:07:31) generaledit 
-\i (00:07:44) setwindow form.colorview_create
-\i (00:07:44) FORM colorview_create colorview_name BOTL 
-\i (00:07:44) FORM colorview_create save  
-\i (00:07:45) FORM colorview_create done  
-\i (00:07:47) setwindow pcb
-\i (00:07:47) color192 
-\i (00:07:47) setwindow cvf.dialog
-\i (00:07:47) cvf layer_mode
-\i (00:07:47) setwindow pcb
-\i (00:07:47) generaledit 
-\i (00:07:51) setwindow cvf.dialog
-\i (00:07:51) cvf global_invisible
-\i (00:07:59) cvf layers_visible stack-up stack-up/soldermask_top TRUE
-\i (00:08:06) cvf okay
-\i (00:08:09) setwindow pcb
-\i (00:08:09) colorview create 
-\i (00:08:09) generaledit 
-\i (00:08:17) setwindow form.colorview_create
-\i (00:08:17) FORM colorview_create colorview_name MASK_TOP 
-\i (00:08:17) FORM colorview_create save  
-\i (00:08:19) FORM colorview_create done  
-\i (00:09:02) setwindow pcb
-\i (00:09:02) colorview create 
-\i (00:09:02) generaledit 
-\i (00:09:41) setwindow form.colorview_create
-\i (00:09:41) FORM colorview_create colorview_name MASK_TOP 
-\i (00:09:41) FORM colorview_create save  
-\i (00:09:42) FORM colorview_create done  
-\i (00:10:18) setwindow pcb
-\i (00:10:18) color192 
-\i (00:10:18) setwindow cvf.dialog
-\i (00:10:18) cvf layer_mode
-\i (00:10:18) setwindow pcb
-\i (00:10:18) generaledit 
-\i (00:10:26) setwindow cvf.dialog
-\i (00:10:26) cvf global_invisible
-\i (00:10:27) cvf layers_visible stack-up stack-up/soldermask_bottom TRUE
-\i (00:10:52) cvf okay
-\i (00:10:53) setwindow pcb
-\i (00:10:53) colorview create 
-\i (00:10:54) generaledit 
-\i (00:11:00) setwindow form.colorview_create
-\i (00:11:00) FORM colorview_create colorview_name MASK_BOT 
-\i (00:11:00) FORM colorview_create save  
-\i (00:11:00) FORM colorview_create done  
-\i (00:11:08) setwindow pcb
-\i (00:11:08) color192 
-\i (00:11:09) setwindow cvf.dialog
-\i (00:11:09) cvf layer_mode
-\i (00:11:09) setwindow pcb
-\i (00:11:09) generaledit 
-\i (00:11:14) setwindow cvf.dialog
-\i (00:11:14) cvf global_invisible
-\i (00:11:17) cvf layers_visible stack-up stack-up/soldermask_bottom TRUE
-\i (00:11:19) cvf okay
-\i (00:11:21) setwindow pcb
-\i (00:11:21) colorview create 
-\i (00:11:21) generaledit 
-\i (00:11:26) setwindow form.colorview_create
-\i (00:11:26) FORM colorview_create colorview_name MASK_BOT 
-\i (00:11:26) FORM colorview_create save  
-\i (00:11:28) FORM colorview_create done  
-\i (00:11:30) setwindow pcb
-\i (00:11:30) color192 
-\i (00:11:30) setwindow cvf.dialog
-\i (00:11:30) cvf layer_mode
-\i (00:11:30) setwindow pcb
-\i (00:11:30) generaledit 
-\i (00:11:33) setwindow cvf.dialog
-\i (00:11:33) cvf global_invisible
-\i (00:11:35) cvf layer_tree_item 'Board Geometry'
-\i (00:11:50) cvf layers_visible board_geometry/outline TRUE
-\i (00:11:58) cvf okay
-\i (00:12:04) setwindow pcb
-\i (00:12:04) colorview create 
-\i (00:12:04) generaledit 
-\i (00:12:10) setwindow form.colorview_create
-\i (00:12:10) FORM colorview_create colorview_name OUTLINE 
-\i (00:12:10) FORM colorview_create save  
-\i (00:12:11) FORM colorview_create done  
-\i (00:12:16) setwindow pcb
-\i (00:12:16) color192 
-\i (00:12:16) setwindow cvf.dialog
-\i (00:12:16) cvf layer_mode
-\i (00:12:16) setwindow pcb
-\i (00:12:16) generaledit 
-\i (00:13:11) setwindow cvf.dialog
-\i (00:13:11) cvf layer_tree_item 'Package Geometry'
-\i (00:13:15) cvf layers_visible package_geometry/silkscreen_top TRUE
-\i (00:13:18) cvf layer_tree_item 'Manufacturing'
-\i (00:13:22) cvf layers_visible manufacturing/autosilk_top TRUE
-\i (00:13:24) cvf layer_tree_item 'Package Geometry'
-\i (00:13:27) cvf layer_tree_item 'Manufacturing'
-\i (00:13:29) cvf layer_tree_item 'Board Geometry'
-\i (00:13:36) cvf global_invisible
-\i (00:13:39) cvf layer_tree_item 'Package Geometry'
-\i (00:13:44) cvf layers_visible package_geometry/silkscreen_top TRUE
-\i (00:13:46) cvf layer_tree_item 'Manufacturing'
-\i (00:13:48) cvf layers_visible manufacturing/autosilk_top TRUE
-\i (00:13:52) cvf layer_tree_item 'Board Geometry'
-\i (00:13:54) cvf layers_visible board_geometry/outline TRUE
-\i (00:13:56) cvf okay
-\i (00:15:11) setwindow pcb
-\i (00:15:11) zoom in 1 
-\i (00:15:11) setwindow pcb
-\i (00:15:11) zoom in 42.939 239.260
-\i (00:15:11) trapsize 7981
-\i (00:15:11) zoom in 1 
-\i (00:15:11) setwindow pcb
-\i (00:15:11) zoom in 42.938 239.260
-\i (00:15:11) trapsize 3991
-\i (00:15:12) zoom out 1 
-\i (00:15:12) setwindow pcb
-\i (00:15:12) zoom out 42.939 239.261
-\i (00:15:12) trapsize 7981
-\i (00:15:13) zoom out 1 
-\i (00:15:13) setwindow pcb
-\i (00:15:13) zoom out 42.938 239.260
-\i (00:15:13) trapsize 15962
-\i (00:15:14) zoom in 1 
-\i (00:15:14) setwindow pcb
-\i (00:15:14) zoom in 42.938 239.261
-\i (00:15:14) trapsize 7981
-\i (00:15:15) zoom out 1 
-\i (00:15:15) setwindow pcb
-\i (00:15:15) zoom out 42.938 239.261
-\i (00:15:15) trapsize 15962
-\i (00:15:25) colorview create 
-\i (00:15:25) generaledit 
-\i (00:15:32) setwindow form.colorview_create
-\i (00:15:32) FORM colorview_create colorview_name SILK_TOP 
-\i (00:15:32) FORM colorview_create save  
-\i (00:15:32) FORM colorview_create done  
-\i (00:15:35) setwindow pcb
-\i (00:15:35) color192 
-\i (00:15:35) setwindow cvf.dialog
-\i (00:15:35) cvf layer_mode
-\i (00:15:35) setwindow pcb
-\i (00:15:35) generaledit 
-\i (00:15:38) setwindow cvf.dialog
-\i (00:15:38) cvf global_invisible
-\i (00:15:45) cvf layer_tree_item 'Package Geometry'
-\i (00:15:55) cvf layers_visible package_geometry/silkscreen_bottom TRUE
-\i (00:15:58) cvf layer_tree_item 'Manufacturing'
-\i (00:15:59) cvf layers_visible manufacturing/autosilk_bottom TRUE
-\i (00:16:01) cvf layer_tree_item 'Board Geometry'
-\i (00:16:02) cvf layers_visible board_geometry/outline TRUE
-\i (00:16:03) cvf okay
-\i (00:16:05) setwindow pcb
-\i (00:16:05) colorview create 
-\i (00:16:05) generaledit 
-\i (00:16:16) setwindow form.colorview_create
-\i (00:16:16) FORM colorview_create colorview_name SILK_BOT 
-\i (00:16:17) FORM colorview_create save  
-\i (00:16:18) FORM colorview_create done  
-\i (00:16:30) setwindow pcb
-\i (00:16:30) color192 
-\i (00:16:30) setwindow cvf.dialog
-\i (00:16:30) cvf layer_mode
-\i (00:16:30) setwindow pcb
-\i (00:16:30) generaledit 
-\i (00:16:32) setwindow cvf.dialog
-\i (00:16:32) cvf global_invisible
-\i (00:16:34) cvf layers_visible stack-up stack-up/all_row TRUE
-\i (00:16:35) cvf layer_tree_item 'Board Geometry'
-\i (00:16:37) cvf layer_tree_item 'Conductor' 'Stack-Up'
-\i (00:16:38) cvf layer_tree_item 'Display'
-\i (00:16:39) cvf layer_tree_item 'My Favorites'
-\i (00:16:39) cvf layer_tree_item 'Stack-Up'
-\i (00:16:40) cvf layer_tree_item 'Conductor' 'Stack-Up'
-\i (00:16:40) cvf layer_tree_item 'Non-Conductor' 'Stack-Up'
-\i (00:16:43) cvf cancel
-\i (00:16:44) setwindow pcb
-\i (00:16:44) color192 
-\i (00:16:45) generaledit 
-\i (00:16:47) setwindow cvf.dialog
-\i (00:16:47) cvf global_invisible
-\i (00:16:47) cvf layers_visible stack-up stack-up/all_row TRUE
-\i (00:16:58) cvf global_invisible
-\i (00:17:18) cvf layers_visible stack-up stack-up/top TRUE
-\i (00:17:18) cvf layers_visible stack-up stack-up/bottom TRUE
-\i (00:17:19) cvf layers_visible stack-up stack-up/soldermask_top TRUE
-\i (00:17:20) cvf layers_visible stack-up stack-up/soldermask_bottom TRUE
-\i (00:17:25) cvf layer_tree_item 'Board Geometry'
-\i (00:17:28) cvf layers_visible board_geometry/outline TRUE
-\i (00:17:29) cvf layer_tree_item 'Package Geometry'
-\i (00:17:34) cvf layers_visible package_geometry/silkscreen_top TRUE
-\i (00:17:35) cvf layers_visible package_geometry/silkscreen_bottom TRUE
-\i (00:17:37) cvf layer_tree_item 'Manufacturing'
-\i (00:17:39) cvf layers_visible manufacturing/autosilk_bottom TRUE
-\i (00:17:40) cvf layers_visible manufacturing/autosilk_top TRUE
-\i (00:17:46) cvf layer_tree_item 'Package Geometry'
-\i (00:17:49) cvf layers_visible package_geometry/place_bound_top TRUE
-\i (00:17:58) cvf layers_visible package_geometry/dfa_bound_top TRUE
-\i (00:18:09) cvf layers_visible package_geometry/place_bound_bottom TRUE
-\i (00:18:11) cvf layers_visible package_geometry/dfa_bound_bottom TRUE
-\i (00:18:12) cvf layer_tree_item 'Components'
-\i (00:18:17) cvf layers_visible components components/assembly_top TRUE
-\i (00:18:18) cvf layers_visible components components/assembly_bottom TRUE
-\i (00:18:23) cvf layers_visible components comp_value/assembly_bottom FALSE
-\i (00:18:23) cvf layers_visible components comp_value/assembly_top FALSE
-\i (00:18:24) cvf layers_visible components ref_des/assembly_bottom FALSE
-\i (00:18:24) cvf layers_visible components ref_des/assembly_top FALSE
-\i (00:18:28) cvf layers_visible components ref_des/assembly_bottom TRUE
-\i (00:18:29) cvf layers_visible components ref_des/assembly_top TRUE
-\i (00:18:29) cvf layers_visible components tolerance/assembly_bottom FALSE
-\i (00:18:30) cvf layers_visible components tolerance/assembly_top FALSE
-\i (00:18:30) cvf layers_visible components user_part/assembly_bottom FALSE
-\i (00:18:31) cvf layers_visible components user_part/assembly_top FALSE
-\i (00:18:32) cvf layers_visible components dev_type/assembly_bottom FALSE
-\i (00:18:32) cvf layers_visible components dev_type/assembly_top FALSE
-\i (00:18:46) cvf layer_tree_item 'Package Geometry'
-\i (00:18:48) cvf okay
-\i (00:18:49) setwindow pcb
-\i (00:18:49) zoom in 1 
-\i (00:18:49) setwindow pcb
-\i (00:18:49) zoom in -206.069 443.575
-\i (00:18:49) trapsize 7981
-\i (00:18:50) zoom out 1 
-\i (00:18:50) setwindow pcb
-\i (00:18:50) zoom out -206.068 443.575
-\i (00:18:50) trapsize 15962
-\i (00:18:55) colorview create 
-\i (00:18:55) generaledit 
-\i (00:18:58) setwindow form.colorview_create
-\i (00:18:58) FORM colorview_create colorview_name ALL 
-\i (00:18:58) FORM colorview_create save  
-\i (00:18:58) FORM colorview_create done  
-\i (00:19:01) setwindow pcb
-\i (00:19:01) color192 
-\i (00:19:01) setwindow cvf.dialog
-\i (00:19:01) cvf layer_mode
-\i (00:19:01) setwindow pcb
-\i (00:19:01) generaledit 
-\i (00:19:05) setwindow cvf.dialog
-\i (00:19:05) cvf global_invisible
-\i (00:19:06) cvf layer_tree_item 'Components'
-\i (00:19:10) cvf layers_visible components components/assembly_top TRUE
-\i (00:19:17) cvf layers_visible components components/silkscreen_top TRUE
-\i (00:19:26) cvf layer_tree_item 'Board Geometry'
-\i (00:19:27) cvf layers_visible board_geometry/outline TRUE
-\i (00:19:32) cvf layer_tree_item 'Package Geometry'
-\i (00:19:34) cvf layers_visible package_geometry/assembly_top TRUE
-\i (00:19:36) cvf layer_tree_item 'Components'
-\i (00:19:39) cvf layers_visible components comp_value/assembly_top FALSE
-\i (00:19:40) cvf layers_visible components ref_des/assembly_top FALSE
-\i (00:19:41) cvf layers_visible components tolerance/assembly_top FALSE
-\i (00:19:42) cvf layers_visible components user_part/assembly_top FALSE
-\i (00:19:45) cvf layers_visible components comp_value/silkscreen_top FALSE
-\i (00:19:46) cvf layers_visible components ref_des/silkscreen_top FALSE
-\i (00:19:47) cvf layers_visible components tolerance/silkscreen_top FALSE
-\i (00:19:48) cvf layers_visible components user_part/silkscreen_top FALSE
-\i (00:19:50) cvf layer_tree_item 'Package Geometry'
-\i (00:19:52) cvf layer_tree_item 'Board Geometry'
-\i (00:19:54) cvf okay
-\i (00:19:56) setwindow pcb
-\i (00:19:56) colorview create 
-\i (00:19:56) generaledit 
-\i (00:20:03) setwindow form.colorview_create
-\i (00:20:03) FORM colorview_create colorview_name COMP_TOP 
-\i (00:20:03) FORM colorview_create save  
-\i (00:20:04) FORM colorview_create save  
-\i (00:20:05) FORM colorview_create done  
-\i (00:20:11) setwindow pcb
-\i (00:20:11) color192 
-\i (00:20:12) setwindow cvf.dialog
-\i (00:20:12) cvf layer_mode
-\i (00:20:12) setwindow pcb
-\i (00:20:12) generaledit 
-\i (00:20:14) setwindow cvf.dialog
-\i (00:20:14) cvf layer_tree_item 'Components'
-\i (00:20:19) cvf layers_visible components comp_value/assembly_top TRUE
-\i (00:20:23) cvf okay
-\i (00:20:24) setwindow pcb
-\i (00:20:24) zoom in 1 
-\i (00:20:24) setwindow pcb
-\i (00:20:24) zoom in 148.288 724.507
-\i (00:20:24) trapsize 7981
-\i (00:20:25) zoom out 1 
-\i (00:20:25) setwindow pcb
-\i (00:20:25) zoom out 148.288 724.507
-\i (00:20:25) trapsize 15962
-\i (00:20:31) setwindow form.vf_vis
-\i (00:20:31) FORM vf_vis 1 all_colorvisible YES 
-\i (00:20:32) FOR
+\t (00:00:45) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:45)     Journal start - Fri Jun 12 17:12:09 2020
+\t (00:00:45)         Host=DESKTOP-U6TBUH8 User=user Pid=11928 CPUs=4
+\t (00:00:45) 
+\d (00:00:45) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/trackitboard-10milnew.brd
+\i (00:00:45) generaledit 
+\i (00:00:48) place manual 
+\i (00:00:51) setwindow form.plc_manual
+\i (00:00:51) FORM plc_manual tree 'MULTISEL YES' C4 'Components by refdes' 
+\t (00:00:51) Placing C4 / CAP- 0805_RESC2012X60N_10UF / RESC2012X60N on Top.
+\i (00:00:51) FORM plc_manual tree  C4 'Components by refdes' 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 864.952 838.561
+\t (00:00:54) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
+\i (00:00:54) trapsize 7768
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 864.952 840.115
+\i (00:00:54) trapsize 3884
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 864.952 840.115
+\t (00:00:55) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:00:55) trapsize 1942
+\i (00:00:55) prepopup 868.059 829.629
+\i (00:00:56) rotate 
+\t (00:00:56) Spin the element(s).
+\i (00:00:59) iangle 90.000
+\t (00:00:59) last angle:  +90.000 Degrees
+\i (00:01:06) pick grid 875.439 849.437
+\t (00:01:06) last pick:  875.440  849.440
+\i (00:01:08) setwindow form.plc_manual
+\i (00:01:08) FORM plc_manual done  
+\i (00:01:08) setwindow pcb
+\i (00:01:08) generaledit 
+\i (00:01:09) zoom out 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom out 873.108 845.553
+\t (00:01:09) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
+\i (00:01:09) trapsize 3884
+\i (00:01:10) zoom in 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom in 873.108 818.365
+\t (00:01:10) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:01:10) trapsize 1942
+\i (00:01:10) zoom in 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom in 873.885 819.530
+\i (00:01:10) trapsize 971
+\i (00:01:10) zoom out 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom out 875.244 820.113
+\i (00:01:10) trapsize 1942
+\i (00:01:11) zoom out 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out 875.244 820.113
+\t (00:01:11) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
+\i (00:01:11) trapsize 3884
+\i (00:01:12) pick grid 860.484 947.510
+\t (00:01:12) last pick:  860.480  947.510
+\i (00:01:13) zoom in 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom in 865.145 898.571
+\t (00:01:13) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:01:13) trapsize 1942
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 874.467 869.829
+\i (00:01:14) trapsize 971
+\i (00:01:15) zoom out 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom out 876.215 862.644
+\i (00:01:15) trapsize 1942
+\i (00:01:17) pick grid 875.827 861.090
+\t (00:01:17) last pick:  875.830  861.090
+\i (00:01:18) delete 
+\i (00:01:18) generaledit 
+\i (00:01:20) add connect 
+\t (00:01:21) Pick first element.
+\i (00:01:22) pick grid 872.331 851.768
+\t (00:01:22) last pick:  875.000  850.000
+\t (00:01:22) last pick:  875.000  851.516
+\t (00:01:22) Target Symbol Pin is defined on TOP.
+\t (00:01:22) last pick:  875.000  851.516
+\i (00:01:22) mouse_pos 864.563 863.421
+\i (00:01:22) pick grid 864.563 863.421
+\t (00:01:22) last pick:  875.000  875.000
+\t (00:01:22) No DRC errors detected.
+\t (00:01:22) Pick first element.
+\i (00:01:25) pick grid 915.056 778.748
+\t (00:01:25) last pick:  925.000  775.000
+\t (00:01:25) Pick first element.
+\t (00:01:25) last pick:  921.457  775.000
+\t (00:01:25) Target Symbol Pin is defined on TOP.
+\t (00:01:25) last pick:  921.457  775.000
+\i (00:01:26) prepopup 930.980 797.003
+\i (00:01:28) oops 
+\t (00:01:28) last pick:  921.457  775.000
+\t (00:01:28) Pick first element.
+\i (00:01:31) pick grid 895.247 767.873
+\t (00:01:31) last pick:  900.000  775.000
+\t (00:01:31) last pick:  900.000  775.000
+\i (00:01:31) mouse_pos 912.725 775.641
+\i (00:01:31) pick grid 912.725 775.641
+\t (00:01:31) last pick:  925.000  775.000
+\t (00:01:31) No DRC errors detected.
+\t (00:01:31) Pick first element.
+\i (00:01:32) prepopup 881.653 763.989
+\i (00:01:33) cancel 
+\i (00:01:33) generaledit 
+\i (00:01:34) prepopup 876.215 766.319
+\i (00:01:35) pick grid 858.348 772.922
+\t (00:01:35) last pick:  850.000  775.000
+\i (00:01:36) pick grid 902.238 795.838
+\t (00:01:36) last pick:  900.000  800.000
+\i (00:01:38) prepopup 899.519 796.227
+\i (00:01:39) pop dyn_option_select @:@Delete 
+\i (00:01:39) delete 
+\i (00:01:39) generaledit 
+\i (00:01:40) pick grid 882.429 814.870
+\t (00:01:40) last pick:  875.000  825.000
+\i (00:01:41) prepopup 882.429 814.870
+\i (00:01:43) pick grid 872.719 761.270
+\t (00:01:43) last pick:  875.000  750.000
+\i (00:01:45) zoom in 1 
+\i (00:01:45) setwindow pcb
+\i (00:01:45) zoom in 882.818 808.267
+\i (00:01:45) trapsize 971
+\i (00:01:45) zoom in 1 
+\i (00:01:45) setwindow pcb
+\i (00:01:45) zoom in 882.818 808.268
+\i (00:01:45) trapsize 486
+\i (00:01:45) zoom in 1 
+\i (00:01:45) setwindow pcb
+\i (00:01:45) zoom in 882.818 808.268
+\i (00:01:45) trapsize 243
+\i (00:01:47) zoom out 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom out 880.051 814.725
+\i (00:01:47) trapsize 486
+\i (00:01:47) zoom out 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom out 880.051 814.726
+\i (00:01:47) trapsize 971
+\i (00:01:47) zoom out 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom out 880.050 814.725
+\i (00:01:47) trapsize 1942
+\i (00:01:52) pick grid 880.439 752.191
+\t (00:01:52) last pick:  875.000  750.000
+\i (00:01:53) zoom out 1 
+\i (00:01:53) setwindow pcb
+\i (00:01:53) zoom out 873.447 757.629
+\i (00:01:53) trapsize 3884
+\i (00:01:54) zoom out 1 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom out 793.436 932.413
+\i (00:01:54) trapsize 7768
+\i (00:01:55) zoom out 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom out 830.723 873.375
+\i (00:01:55) trapsize 15536
+\i (00:01:56) move 
+\t (00:01:56) Select element(s) to move.
+\i (00:01:57) pick grid 877.332 839.195
+\t (00:01:57) last pick:  875.000  850.000
+\t (00:01:57) last pick:  875.440  849.440
+\t (00:01:57) Moving C4 / CAP- 0805_RESC2012X60N_10UF / RESC2012X60N.
+\t (00:01:57) Pick new location for the element(s).
+\i (00:01:58) pick grid 914.619 509.824
+\t (00:01:58) last pick:  925.000  500.000
+\i (00:01:58) zoom in 1 
+\i (00:01:58) setwindow pcb
+\i (00:01:58) zoom in 855.581 789.479
+\i (00:01:58) trapsize 7768
+\i (00:01:58) zoom in 1 
+\i (00:01:58) setwindow pcb
+\i (00:01:58) zoom in 855.581 789.479
+\i (00:01:58) trapsize 3884
+\i (00:01:58) zoom in 1 
+\i (00:01:58) setwindow pcb
+\i (00:01:58) zoom in 855.581 790.256
+\i (00:01:58) trapsize 1942
+\i (00:01:59) pick grid 874.613 812.007
+\t (00:01:59) last pick:  875.000  800.000
+\t (00:01:59) last pick:  875.000  800.000
+\t (00:01:59) Element has no origin, using pick.
+\t (00:01:59) Pick new location for the element(s).
+\i (00:02:00) prepopup 871.506 806.569
+\i (00:02:02) cancel 
+\i (00:02:02) generaledit 
+\i (00:02:02) pick grid 861.019 815.114
+\t (00:02:02) last pick:  850.000  825.000
+\i (00:02:03) prepopup 874.613 812.007
+\i (00:02:04) pop dyn_option_select @:@Delete 
+\i (00:02:04) delete 
+\i (00:02:04) generaledit 
+\i (00:02:04) zoom out 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom out 864.126 817.833
+\i (00:02:04) trapsize 3884
+\i (00:02:04) zoom out 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom out 864.127 817.833
+\i (00:02:04) trapsize 7768
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in 848.590 873.763
+\i (00:02:05) trapsize 3884
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in 848.591 873.763
+\i (00:02:05) trapsize 1942
+\i (00:02:06) pick grid 873.838 870.268
+\t (00:02:06) last pick:  875.000  875.000
+\i (00:02:06) prepopup 873.838 870.268
+\i (00:02:07) pop dyn_option_select @:@Delete 
+\i (00:02:07) delete 
+\i (00:02:07) generaledit 
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out 873.450 870.268
+\i (00:02:07) trapsize 3884
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out 873.449 870.268
+\i (00:02:07) trapsize 7768
+\i (00:02:10) move 
+\t (00:02:10) Select element(s) to move.
+\i (00:02:11) pick grid 924.719 506.717
+\t (00:02:11) last pick:  925.000  500.000
+\t (00:02:11) last pick:  925.000  500.000
+\t (00:02:11) Moving C4 / CAP- 0805_RESC2012X60N_10UF / RESC2012X60N.
+\t (00:02:11) Pick new location for the element(s).
+\i (00:02:12) zoom in 1 
+\i (00:02:12) setwindow pcb
+\i (00:02:12) zoom in 882.771 845.410
+\i (00:02:12) trapsize 3884
+\i (00:02:12) zoom in 1 
+\i (00:02:12) setwindow pcb
+\i (00:02:12) zoom in 882.771 845.410
+\i (00:02:12) trapsize 1942
+\i (00:02:13) pick grid 882.771 845.410
+\t (00:02:13) last pick:  875.000  850.000
+\i (00:02:13) zoom out 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom out 882.771 845.410
+\i (00:02:13) trapsize 3884
+\i (00:02:14) zoom in 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom in 881.994 851.625
+\i (00:02:14) trapsize 1942
+\i (00:02:15) zoom in 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom in 881.995 851.626
+\i (00:02:15) trapsize 971
+\i (00:02:15) zoom out 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom out 881.995 851.238
+\i (00:02:15) trapsize 1942
+\i (00:02:17) pick grid 806.255 877.650
+\t (00:02:17) last pick:  800.000  875.000
+\i (00:02:17) prepopup 806.255 877.650
+\i (00:02:17) done 
+\i (00:02:17) generaledit 
+\i (00:02:19) add connect 
+\t (00:02:19) Pick first element.
+\i (00:02:20) pick grid 872.673 854.345
+\t (00:02:20) last pick:  875.000  850.000
+\t (00:02:20) last pick:  875.000  851.516
+\t (00:02:20) Target Symbol Pin is defined on TOP.
+\t (00:02:20) last pick:  875.000  851.516
+\i (00:02:20) mouse_pos 872.673 862.890
+\i (00:02:20) pick grid 872.673 862.890
+\t (00:02:20) last pick:  875.000  875.000
+\t (00:02:20) No DRC errors detected.
+\t (00:02:20) Pick first element.
+\i (00:02:22) pick grid 923.554 777.440
+\t (00:02:22) last pick:  925.000  775.000
+\t (00:02:22) Pick first element.
+\t (00:02:22) last pick:  921.457  775.000
+\t (00:02:22) Target Symbol Pin is defined on TOP.
+\t (00:02:22) last pick:  921.457  775.000
+\i (00:02:22) mouse_pos 899.473 787.539
+\i (00:02:23) pick grid 881.218 813.174
+\t (00:02:23) last pick:  875.000  825.000
+\t (00:02:23) No DRC errors detected.
+\t (00:02:23) Pick first element.
+\i (00:02:23) prepopup 928.604 809.290
+\i (00:02:24) done 
+\i (00:02:24) generaledit 
+\i (00:02:25) drag_start grid 876.557 775.110
+\i (00:02:25) slide 
+\t (00:02:25) Waiting for the destination pick.
+\i (00:02:26) drag_stop grid 908.018 781.713
+\t (00:02:26) No DRC errors detected.
+\i (00:02:26) generaledit 
+\i (00:02:26) pick grid 930.157 800.356
+\t (00:02:26) last pick:  925.000  800.000
+\i (00:02:26) zoom out 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom out 927.438 801.133
+\i (00:02:26) trapsize 3884
+\i (00:02:27) zoom out 1 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom out 927.439 801.133
+\i (00:02:27) trapsize 7768
+\i (00:02:27) zoom out 1 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom out 927.439 801.133
+\i (00:02:27) trapsize 15536
+\i (00:02:27) zoom out 1 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom out 927.439 794.919
+\i (00:02:27) trapsize 31073
+\i (00:02:28) zoom in 1 
+\i (00:02:28) setwindow pcb
+\i (00:02:28) zoom in 1455.676 322.613
+\i (00:02:28) trapsize 15536
+\i (00:02:33) setwindow form.vf_vis
+\i (00:02:33) FORM vf_vis colorview_list File: SILK_TOP 
+\i (00:02:33) color -globvis off 
+\i (00:02:33) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:02:33) color -vis MANUFACTURING/AUTOSILK_TOP 
+\i (00:02:33) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) trapsize 15536
+\i (00:02:33) generaledit 
+\i (00:02:54) zoom in 1 
+\i (00:02:54) setwindow pcb
+\i (00:02:54) zoom in 585.640 596.053
+\i (00:02:54) trapsize 7768
+\i (00:02:55) zoom in 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom in 549.906 599.161
+\i (00:02:55) trapsize 3884
+\i (00:02:56) prepopup 639.241 624.796
+\i (00:02:57) pop dyn_option_select @:@Move 
+\i (00:02:57) move 
+\t (00:02:57) last pick:  650.000  625.000
+\t (00:02:57) last pick:  578.739  603.660
+\t (00:02:57) Pick new location for the element(s).
+\i (00:02:59) pick grid 594.185 702.478
+\t (00:02:59) last pick:  600.000  700.000
+\i (00:02:59) generaledit 
+\i (00:02:59) pick grid 647.009 631.010
+\t (00:02:59) last pick:  650.000  625.000
+\i (00:03:00) zoom out 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom out 666.429 634.118
+\i (00:03:00) trapsize 7768
+\i (00:03:00) zoom out 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom out 664.876 631.010
+\i (00:03:00) trapsize 15536
+\i (00:03:03) zoom in 1 
+\i (00:03:03) setwindow pcb
+\i (00:03:03) zoom in 866.849 836.091
+\i (00:03:03) trapsize 7768
+\i (00:03:04) zoom out 1 
+\i (00:03:04) setwindow pcb
+\i (00:03:04) zoom out 866.849 836.091
+\i (00:03:04) trapsize 15536
+\i (00:03:09) setwindow form.vf_vis
+\i (00:03:09) FORM vf_vis colorview_list File: ALL 
+\i (00:03:09) color -globvis off 
+\i (00:03:09) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:03:09) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:03:09) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:03:09) color -vis 'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
+\i (00:03:09) color -vis 'DRC ERROR CLASS/SOLDERMASK_TOP' 
+\i (00:03:09) color -vis ETCH/TOP 
+\i (00:03:09) color -vis ETCH/BOTTOM 
+\i (00:03:09) color -vis MANUFACTURING/AUTOSILK_BOTTOM 
+\i (00:03:09) color -vis MANUFACTURING/AUTOSILK_TOP 
+\i (00:03:09) color -vis 'PACKAGE GEOMETRY/DFA_BOUND_BOTTOM' 
+\i (00:03:09) color -vis 'PACKAGE GEOMETRY/DFA_BOUND_TOP' 
+\i (00:03:09) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_BOTTOM' 
+\i (00:03:09) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (00:03:09) color -vis 'PACKAGE GEOMETRY/PLACE_BOUND_BOTTOM' 
+\i (00:03:09) color -vis 'PACKAGE GEOMETRY/PLACE_BOUND_TOP' 
+\i (00:03:09) color -vis PIN/TOP 
+\i (00:03:10) color -vis PIN/BOTTOM 
+\i (00:03:10) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:03:10) color -vis PIN/SOLDERMASK_TOP 
+\i (00:03:10) color -vis 'REF DES/ASSEMBLY_BOTTOM' 
+\i (00:03:10) color -vis 'REF DES/ASSEMBLY_TOP' 
+\i (00:03:10) color -vis 'VIA CLASS/TOP' 
+\i (00:03:10) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:03:10) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:03:10) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:03:10) color -vis 'ANTI ETCH/TOP' 
+\i (00:03:10) color -vis 'ANTI ETCH/BOTTOM' 
+\i (00:03:10) color -vis BOUNDARY/TOP 
+\i (00:03:10) color -vis BOUNDARY/BOTTOM 
+\i (00:03:10) color -vis CAVITY/TOP 
+\i (00:03:10) color -vis CAVITY/BOTTOM 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) trapsize 15536
+\i (00:03:10) generaledit 
+\i (00:03:11) zoom in 1 
+\i (00:03:11) setwindow pcb
+\i (00:03:11) zoom in 801.597 736.659
+\i (00:03:11) trapsize 7768
+\i (00:03:12) zoom in 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom in 810.919 738.213
+\i (00:03:12) trapsize 3884
+\i (00:03:13) zoom in 1 
+\i (00:03:13) setwindow pcb
+\i (00:03:13) zoom in 810.919 738.213
+\i (00:03:13) trapsize 1942
+\i (00:03:13) zoom out 1 
+\i (00:03:13) setwindow pcb
+\i (00:03:13) zoom out 811.308 738.213
+\i (00:03:13) trapsize 3884
+\i (00:03:13) zoom out 1 
+\i (00:03:13) setwindow pcb
+\i (00:03:13) zoom out 811.308 738.213
+\i (00:03:13) trapsize 7768
+\i (00:03:14) zoom out 1 
+\i (00:03:14) setwindow pcb
+\i (00:03:14) zoom out 836.167 648.102
+\i (00:03:14) trapsize 15536
+\i (00:03:17) zoom in 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom in 957.350 974.365
+\i (00:03:17) trapsize 7768
+\i (00:03:18) zoom in 1 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) zoom in 952.690 968.151
+\i (00:03:18) trapsize 3884
+\i (00:03:19) zoom out 1 
+\i (00:03:19) setwindow pcb
+\i (00:03:19) zoom out 952.690 965.821
+\i (00:03:19) trapsize 7768
+\i (00:03:19) zoom in 1 
+\i (00:03:19) setwindow pcb
+\i (00:03:19) zoom in 876.561 852.404
+\i (00:03:19) trapsize 3884
+\i (00:03:23) delete 
+\i (00:03:24) pick grid 874.231 832.207
+\t (00:03:24) last pick:  875.000  825.000
+\t (00:03:24) Symbol "C4"
+\i (00:03:27) zoom out 1 
+\i (00:03:27) setwindow pcb
+\i (00:03:27) zoom out 920.063 674.513
+\i (00:03:27) trapsize 7768
+\i (00:03:28) pick grid 948.029 643.441
+\t (00:03:28) last pick:  950.000  650.000
+\i (00:03:29) zoom in 1 
+\i (00:03:29) setwindow pcb
+\i (00:03:29) zoom in 881.223 876.486
+\i (00:03:29) trapsize 3884
+\i (00:03:31) pick grid 878.116 870.272
+\t (00:03:31) last pick:  875.000  875.000
+\t (00:03:31) Connect Line "Gnd_Power, Etch/Top"
+\i (00:03:31) prepopup 878.116 870.272
+\i (00:03:33) cancel 
+\i (00:03:34) generaledit 
+\i (00:03:37) prepopup 863.356 880.371
+\i (00:03:38) pick grid 816.747 881.924
+\t (00:03:38) last pick:  825.000  875.000
+\i (00:03:39) delete 
+\i (00:03:40) pick grid 869.571 877.264
+\t (00:03:40) last pick:  875.000  875.000
+\t (00:03:40) Symbol "C4"
+\i (00:03:41) prepopup 869.571 877.264
+\i (00:03:41) done 
+\i (00:03:41) generaledit 
+\i (00:03:42) pick grid 875.008 876.487
+\t (00:03:42) last pick:  875.000  875.000
+\i (00:03:43) prepopup 875.008 876.487
+\i (00:03:44) pop dyn_option_select @:@Delete 
+\i (00:03:44) delete 
+\i (00:03:44) generaledit 
+\i (00:03:45) pick grid 881.223 808.903
+\t (00:03:45) last pick:  875.000  800.000
+\i (00:03:46) prepopup 881.223 808.903
+\i (00:03:47) pop dyn_option_select @:@Delete 
+\i (00:03:47) delete 
+\i (00:03:47) generaledit 
+\i (00:03:48) pick grid 895.983 797.251
+\t (00:03:48) last pick:  900.000  800.000
+\i (00:03:48) prepopup 895.983 797.251
+\i (00:03:50) pop dyn_option_select @:@Delete 
+\i (00:03:50) delete 
+\i (00:03:50) generaledit 
+\i (00:03:50) zoom out 1 
+\i (00:03:50) setwindow pcb
+\i (00:03:50) zoom out 823.738 752.196
+\i (00:03:50) trapsize 7768
+\i (00:03:50) zoom out 1 
+\i (00:03:50) setwindow pcb
+\i (00:03:50) zoom out 823.739 758.410
+\i (00:03:50) trapsize 15536
+\i (00:03:52) zoom in 1 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom in 1062.999 624.797
+\i (00:03:52) trapsize 7768
+\i (00:03:52) zoom in 1 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom in 1062.999 626.351
+\i (00:03:52) trapsize 3884
+\i (00:03:56) place manual 
+\t (00:03:56) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
+\i (00:03:57) setwindow form.plc_manual
+\i (00:03:57) FORM plc_manual tree 'MULTISEL YES' C4 'Components by refdes' 
+\t (00:03:57) Placing C4 / CAP- 0805_RESC2012X60N_10UF / RESC2012X60N on Top.
+\i (00:03:57) FORM plc_manual tree  C4 'Components by refdes' 
+\i (00:03:58) setwindow pcb
+\i (00:03:58) prepopup 868.018 828.324
+\i (00:04:00) rotate 
+\t (00:04:00) Spin the element(s).
+\i (00:04:03) iangle 270.000
+\t (00:04:03) last angle:  +270.000 Degrees
+\i (00:04:05) pick grid 873.456 849.299
+\t (00:04:05) last pick:  873.460  849.300
+\i (00:04:07) setwindow form.plc_manual
+\i (00:04:07) FORM plc_manual done  
+\i (00:04:07) setwindow pcb
+\i (00:04:07) generaledit 
+\i (00:04:08) zoom in 1 
+\i (00:04:08) setwindow pcb
+\i (00:04:08) zoom in 859.473 801.136
+\i (00:04:08) trapsize 1942
+\i (00:04:08) zoom out 1 
+\i (00:04:08) setwindow pcb
+\i (00:04:08) zoom out 859.473 801.136
+\i (00:04:08) trapsize 3884
+\i (00:04:11) add connect 
+\t (00:04:11) Pick first element.
+\i (00:04:13) pick grid 872.679 850.075
+\t (00:04:13) last pick:  875.000  850.000
+\t (00:04:13) last pick:  875.000  851.516
+\t (00:04:13) Target Symbol Pin is defined on TOP.
+\t (00:04:13) last pick:  875.000  851.516
+\i (00:04:15) pick grid 874.233 887.363
+\t (00:04:15) last pick:  875.000  875.000
+\t (00:04:15) DRC error(s) created.
+\i (00:04:16) prepopup 860.250 865.612
+\i (00:04:17) cancel 
+\i (00:04:17) generaledit 
+\i (00:04:19) pick grid 811.310 888.139
+\t (00:04:19) last pick:  800.000  900.000
+\i (00:04:22) move 
+\t (00:04:22) Select element(s) to move.
+\i (00:04:23) pick grid 855.589 881.925
+\t (00:04:23) last pick:  850.000  875.000
+\t (00:04:23) last pick:  873.460  849.300
+\t (00:04:23) Moving C4 / CAP- 0805_RESC2012X60N_10UF / RESC2012X60N.
+\t (00:04:23) Pick new location for the element(s).
+\i (00:04:23) prepopup 855.589 881.925
+\i (00:04:26) rotate 
+\t (00:04:26) Spin the element(s).
+\i (00:04:28) prepopup 854.812 900.569
+\i (00:04:29) cancel 
+\i (00:04:29) generaledit 
+\i (00:04:31) prepopup 865.688 892.800
+\i (00:04:32) pick grid 811.310 884.255
+\t (00:04:32) last pick:  800.000  875.000
+\i (00:04:34) move 
+\t (00:04:34) Select element(s) to move.
+\i (00:04:35) pick grid 854.812 874.934
+\t (00:04:35) last pick:  850.000  875.000
+\t (00:04:35) last pick:  873.460  849.300
+\t (00:04:35) Moving C4 / CAP- 0805_RESC2012X60N_10UF / RESC2012X60N.
+\t (00:04:35) Pick new location for the element(s).
+\i (00:04:35) prepopup 854.812 875.710
+\i (00:04:37) rotate 
+\t (00:04:37) Spin the element(s).
+\i (00:04:39) iangle 0.000
+\t (00:04:39) last angle:  270.000 Degrees
+\i (00:04:39) prepopup 894.430 829.878
+\i (00:04:40) cancel 
+\i (00:04:40) generaledit 
+\i (00:04:42) delete 
+\i (00:04:43) pick grid 863.357 885.032
+\t (00:04:43) last pick:  875.000  875.000
+\t (00:04:43) Symbol "C4"
+\i (00:04:44) prepopup 868.795 881.925
+\i (00:04:44) done 
+\i (00:04:45) generaledit 
+\i (00:04:49) place manual 
+\i (00:04:50) setwindow form.plc_manual
+\i (00:04:50) FORM plc_manual tree 'MULTISEL YES' C4 'Components by refdes' 
+\t (00:04:50) Placing C4 / CAP- 0805_RESC2012X60N_10UF / RESC2012X60N on Top.
+\i (00:04:50) FORM plc_manual tree  C4 'Components by refdes' 
+\i (00:04:51) setwindow pcb
+\i (00:04:51) prepopup 899.091 864.835
+\i (00:04:53) rotate 
+\t (00:04:53) Spin the element(s).
+\i (00:04:57) iangle 90.000
+\t (00:04:57) last angle:  +90.000 Degrees
+\i (00:05:01) pick grid 873.456 850.852
+\t (00:05:01) last pick:  873.460  850.850
+\i (00:05:02) zoom in 1 
+\i (00:05:02) setwindow pcb
+\i (00:05:02) zoom in 875.786 851.629
+\t (00:05:02) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:05:02) trapsize 1942
+\i (00:05:04) prepopup 921.619 877.265
+\i (00:05:04) done 
+\i (00:05:05) generaledit 
+\i (00:05:05) zoom out 1 
+\i (00:05:05) setwindow pcb
+\i (00:05:05) zoom out 923.561 873.380
+\i (00:05:05) trapsize 3884
+\i (00:05:08) add connect 
+\t (00:05:08) Pick first element.
+\i (00:05:09) pick grid 873.068 853.184
+\t (00:05:09) last pick:  875.000  850.000
+\t (00:05:09) last pick:  875.000  851.516
+\t (00:05:09) Target Symbol Pin is defined on TOP.
+\t (00:05:09) last pick:  875.000  851.516
+\i (00:05:09) mouse_pos 876.175 864.836
+\i (00:05:10) pick grid 876.952 885.810
+\t (00:05:10) last pick:  875.000  875.000
+\t (00:05:10) No DRC errors detected.
+\t (00:05:10) Pick first element.
+\i (00:05:12) pick grid 928.999 773.948
+\t (00:05:12) last pick:  925.000  775.000
+\t (00:05:12) Pick first element.
+\t (00:05:12) last pick:  921.457  775.000
+\t (00:05:12) Target Symbol Pin is defined on TOP.
+\t (00:05:12) last pick:  921.457  775.000
+\i (00:05:12) mouse_pos 892.488 791.038
+\i (00:05:13) pick grid 874.621 816.673
+\t (00:05:13) last pick:  875.000  825.000
+\t (00:05:13) No DRC errors detected.
+\t (00:05:13) Pick first element.
+\i (00:05:13) prepopup 934.436 740.545
+\i (00:05:14) done 
+\i (00:05:14) generaledit 
+\i (00:05:15) drag_start grid 873.844 776.279
+\i (00:05:15) slide 
+\t (00:05:15) Waiting for the destination pick.
+\i (00:05:16) drag_stop grid 925.891 787.154
+\t (00:05:16) No DRC errors detected.
+\i (00:05:16) generaledit 
+\i (00:05:17) pick grid 993.475 694.713
+\t (00:05:17) last pick:  1000.000  700.000
+\i (00:05:22) setwindow form.vf_vis
+\i (00:05:22) FORM vf_vis colorview_list File: SILK_TOP 
+\i (00:05:22) color -globvis off 
+\i (00:05:22) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:05:22) color -vis MANUFACTURING/AUTOSILK_TOP 
+\i (00:05:22) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (00:05:22) setwindow pcb
+\i (00:05:22) trapsize 3884
+\i (00:05:22) generaledit 
+\i (00:05:23) zoom in 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom in 892.488 777.055
+\i (00:05:23) trapsize 1942
+\i (00:05:24) zoom in 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom in 892.489 777.056
+\i (00:05:24) trapsize 971
+\i (00:05:24) zoom out 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom out 892.489 777.056
+\i (00:05:24) trapsize 1942
+\i (00:05:24) zoom out 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom out 892.490 777.056
+\i (00:05:24) trapsize 3884
+\i (00:05:24) zoom out 1 
+\i (00:05:25) setwindow pcb
+\i (00:05:25) zoom out 892.489 773.948
+\i (00:05:25) trapsize 7768
+\i (00:05:25) prepopup 803.932 825.218
+\i (00:05:26) pop dyn_option_select @:@Move 
+\i (00:05:26) move 
+\t (00:05:26) last pick:  800.000  825.000
+\t (00:05:26) last pick:  780.454  802.648
+\t (00:05:26) Pick new location for the element(s).
+\i (00:05:30) pick grid 904.918 926.205
+\t (00:
