@@ -4,10 +4,15 @@
 (                                                                     )
 (    Drawing          : trackitboard-10milnew.brd                     )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Sat Jun 13 22:34:30 2020                      )
+(    Date/Time        : Fri Jun 12 18:39:49 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
 
  ---- Photoplot outline rectangle not found ... using drawing extents
 
@@ -28,7 +33,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < TOP >
-     TO FILE < C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2/10mil/TOP_TeamX.art > ...
+     TO FILE < C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/TOP_TeamX.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -41,10 +46,6 @@ Results from parameter file ...
   Plot negative                       NO
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
-
-    WARNING: Segment with same start and end points at
-	(231.726 699.674) will be ignored. Increasing output
-	accuracy may allow segment to be generated.
 
     WARNING: Segment with same start and end points at
 	(260.476 947.673) will be ignored. Increasing output
@@ -85,7 +86,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < BOTTOM >
-     TO FILE < C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2/10mil/BOTTOM_TeamX.art > ...
+     TO FILE < C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/BOTTOM_TeamX.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -99,10 +100,7 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: Segment with same start and end points at
-	(278.362 719.856) will be ignored. Increasing output
-	accuracy may allow segment to be generated.
-
+    WARNING: Film contains DRC error(s).
     WARNING: Segment with same start and end points at
 	(432.481 923.229) will be ignored. Increasing output
 	accuracy may allow segment to be generated.
@@ -120,7 +118,7 @@ Results from parameter file ...
 	accuracy may allow segment to be generated.
 
     WARNING: Segment with same start and end points at
-	(-43.307 118.110) will be ignored. Increasing output
+	(-43.307 118.111) will be ignored. Increasing output
 	accuracy may allow segment to be generated.
 
     WARNING: Segment with same start and end points at
@@ -162,7 +160,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < MASK_TOP >
-     TO FILE < C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2/10mil/MASK_TOP_TeamX.art > ...
+     TO FILE < C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/MASK_TOP_TeamX.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -196,12 +194,12 @@ Results from parameter file ...
   RECTANGLE  0.04528     x 0.03937      90.000 NO     DARK 
   RECTANGLE  0.06693     x 0.03937     135.000 NO     DARK 
 
-     MASK_TOP_TeamX created.
+     MASK_TOP_TeamX created with warnings
 
 
 ================================================================
      PROCESSING FILM < MASK_BOT >
-     TO FILE < C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2/10mil/MASK_BOT_TeamX.art > ...
+     TO FILE < C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/MASK_BOT_TeamX.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -235,12 +233,12 @@ Results from parameter file ...
   RECTANGLE  0.05512     x 0.01575      90.000 NO     DARK 
   RECTANGLE  0.06299     x 0.03937      90.000 NO     DARK 
 
-     MASK_BOT_TeamX created.
+     MASK_BOT_TeamX created with warnings
 
 
 ================================================================
      PROCESSING FILM < SILK_TOP >
-     TO FILE < C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2/10mil/SILK_TOP_TeamX.art > ...
+     TO FILE < C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/SILK_TOP_TeamX.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -282,7 +280,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SILK_BOT >
-     TO FILE < C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2/10mil/SILK_BOT_TeamX.art > ...
+     TO FILE < C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/SILK_BOT_TeamX.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -306,12 +304,12 @@ Results from parameter file ...
   CIRCLE     0.00600                                  DARK 
   CIRCLE     0.00787                                  DARK 
 
-     SILK_BOT_TeamX created.
+     SILK_BOT_TeamX created with warnings
 
 
 ================================================================
      PROCESSING FILM < OUTLINE >
-     TO FILE < C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2/10mil/OUTLINE_TeamX.art > ...
+     TO FILE < C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/OUTLINE_TeamX.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -333,17 +331,17 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.00500                                  DARK 
 
-     OUTLINE_TeamX created.
+     OUTLINE_TeamX created with warnings
 
 
 ------------------------------------------------------
  SUMMARY:
         TOP_TeamX created with warnings
         BOTTOM_TeamX created with warnings
-        MASK_TOP_TeamX created.
-        MASK_BOT_TeamX created.
+        MASK_TOP_TeamX created with warnings
+        MASK_BOT_TeamX created with warnings
         SILK_TOP_TeamX created with warnings
-        SILK_BOT_TeamX created.
-        OUTLINE_TeamX created.
+        SILK_BOT_TeamX created with warnings
+        OUTLINE_TeamX created with warnings
 
- ARTWORK finished
+ ARTWORK had warnings
