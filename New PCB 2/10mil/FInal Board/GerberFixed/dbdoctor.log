@@ -4,12 +4,10 @@
 (                                                                     )
 (    Drawing          : trackitboard-10milnew.brd                     )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Fri Jun 12 18:39:42 2020                      )
+(    Date/Time        : Sun Jun 14 00:54:32 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
-WARNING   WARNING(SPMHDB-42): Run batch DRC to correctly regenerate DRC errs.
-
-1 warnings, 0 errors detected, 0 errors could be fixed.
+0 warnings, 0 errors detected, 0 errors could be fixed.

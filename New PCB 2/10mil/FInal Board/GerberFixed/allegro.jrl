@@ -302,24 +302,4 @@
 \w (00:03:23) WARNING(SPMHMF-272): NC Parameters file 'nc_param.txt' not found ... loading defaults.
 \i (00:03:25) setwindow form.nc_drill
 \i (00:03:25) FORM nc_drill browse  
-\i (00:03:31) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\10mil\Drill\trackitboard-10milnew.drl"
-\i (00:03:35) FORM nc_drill scale 1.000 
-\i (00:03:36) FORM nc_drill auto_tool_select YES 
-\i (00:03:36) FORM nc_drill optimize YES 
-\i (00:03:37) FORM nc_drill repeat_codes NO 
-\i (00:03:38) FORM nc_drill parameters  
-\i (00:03:39) setwindow form.nc_parameters
-\i (00:03:39) FORM nc_parameters suppress_lead_zeroes YES 
-\i (00:03:40) FORM nc_parameters enhanced_format YES 
-\i (00:03:46) FORM nc_parameters done  
-\i (00:03:51) setwindow form.nc_drill
-\i (00:03:51) FORM nc_drill execute  
-\t (00:03:51) Starting NC Drill...
-\i (00:21:06) FORM nc_drill cancel  
-\i (00:21:06) setwindow pcb
-\i (00:21:06) generaledit 
-\i (00:21:07) save 
-\i (00:21:09) fillin yes 
-\i (00:21:10) generaledit 
-\i (00:21:17) exit 
-\t (00:21:18)     Journal end - Sun Jun 14 01:12:42 2020
+\i (00:03:31) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\10m

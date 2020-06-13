@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : trackitboard-10milnew.brd                     )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Sat Jun 13 22:34:30 2020                      )
+(    Date/Time        : Sun Jun 14 00:54:36 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -28,7 +28,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < TOP >
-     TO FILE < C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2/10mil/TOP_TeamX.art > ...
+     TO FILE < C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/TOP_TeamX.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -41,10 +41,6 @@ Results from parameter file ...
   Plot negative                       NO
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
-
-    WARNING: Segment with same start and end points at
-	(231.726 699.674) will be ignored. Increasing output
-	accuracy may allow segment to be generated.
 
     WARNING: Segment with same start and end points at
 	(260.476 947.673) will be ignored. Increasing output
@@ -85,7 +81,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < BOTTOM >
-     TO FILE < C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2/10mil/BOTTOM_TeamX.art > ...
+     TO FILE < C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/BOTTOM_TeamX.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -98,10 +94,6 @@ Results from parameter file ...
   Plot negative                       NO
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
-
-    WARNING: Segment with same start and end points at
-	(278.362 719.856) will be ignored. Increasing output
-	accuracy may allow segment to be generated.
 
     WARNING: Segment with same start and end points at
 	(432.481 923.229) will be ignored. Increasing output
@@ -132,7 +124,7 @@ Results from parameter file ...
 	accuracy may allow segment to be generated.
 
     WARNING: Segment with same start and end points at
-	(216.535 740.157) will be ignored. Increasing output
+	(216.535 740.158) will be ignored. Increasing output
 	accuracy may allow segment to be generated.
 
 
@@ -162,7 +154,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < MASK_TOP >
-     TO FILE < C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2/10mil/MASK_TOP_TeamX.art > ...
+     TO FILE < C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/MASK_TOP_TeamX.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -201,7 +193,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < MASK_BOT >
-     TO FILE < C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2/10mil/MASK_BOT_TeamX.art > ...
+     TO FILE < C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/MASK_BOT_TeamX.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -240,7 +232,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SILK_TOP >
-     TO FILE < C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2/10mil/SILK_TOP_TeamX.art > ...
+     TO FILE < C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/SILK_TOP_TeamX.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -282,13 +274,13 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SILK_BOT >
-     TO FILE < C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2/10mil/SILK_BOT_TeamX.art > ...
+     TO FILE < C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/SILK_BOT_TeamX.art > ...
 ================================================================
 
   FILM PARAMETERS :
   ---------------------------------------------------------
   Undefined line width                5.000
-  Mirror code                         NONE
+  Mirror code                         X
   Rotate angle                        NONE
   Offset x:                           0.000
   Offset y:                           0.000
@@ -311,7 +303,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < OUTLINE >
-     TO FILE < C:/Users/ASITHA/Documents/GitHub/Trackit/New PCB 2/10mil/OUTLINE_TeamX.art > ...
+     TO FILE < C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/OUTLINE_TeamX.art > ...
 ================================================================
 
   FILM PARAMETERS :

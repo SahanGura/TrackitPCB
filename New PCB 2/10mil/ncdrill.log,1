@@ -2,9 +2,9 @@
 (                                                                     )
 (    NC DRILL Log                                                     )
 (                                                                     )
-(    Drawing          : #Taaaaaf07204.tmp                             )
+(    Drawing          : #Taaaaag19416.tmp                             )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Sun Jun 14 00:55:15 2020                      )
+(    Date/Time        : Fri Jun 12 18:42:45 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -45,11 +45,9 @@
 
            Size  Plating  Tool        + Tolerance  - Tolerance
 
-         10.000  P        T01            0.000000     0.000000
-         13.000  P        T02            0.000000     0.000000
-         30.000  P        T03            0.000000     0.000000
-         45.000  P        T04            0.000000     0.000000
-         57.087  P        T05            0.000000     0.000000
+         13.000  P        T01            0.000000     0.000000
+         39.370  P        T02            0.000000     0.000000
+         57.087  P        T03            0.000000     0.000000
 
 
 Drill files being output to directory 'C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/Drill' ...
@@ -61,13 +59,11 @@ Drill files being output to directory 'C:/Users/user/Documents/GitHub/TrackitPCB
 
      Tool  Num     Size      +/- Tolerance     Plating   Quantity
 
-     T01    1.  10.0000    0.0000/  0.0000      PLATED          1
-     T02    2.  13.0000    0.0000/  0.0000      PLATED         21
-     T03    3.  30.0000    0.0000/  0.0000      PLATED          7
-     T04    4.  45.0000    0.0000/  0.0000      PLATED          1
-     T05    5.  57.0870    0.0000/  0.0000      PLATED          1
+     T01    1.  13.0000    0.0000/  0.0000      PLATED         22
+     T02    2.  39.3700    0.0000/  0.0000      PLATED          7
+     T03    3.  57.0870    0.0000/  0.0000      PLATED          2
 
      ---- Total holes:                                         31
 
-     ---- Total head travel:              0.57 feet (0.17 meters)
+     ---- Total head travel:              0.47 feet (0.14 meters)
 
