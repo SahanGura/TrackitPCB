@@ -247,7 +247,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -9 -38 64 1812 64 423")
-        (Scroll "-264 150")
+        (Scroll "-264 160")
         (Zoom "100")
         (Occurrence "/"))
       (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
@@ -257,7 +257,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -9 -38 96 1844 96 455")
-        (Scroll "-264 130")
+        (Scroll "-264 100")
         (Zoom "100")
         (Occurrence "/MCU"))
       (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
@@ -267,22 +267,12 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -9 -38 64 1812 64 423")
-        (Scroll "-264 150")
+        (Scroll "-264 0")
         (Zoom "100")
         (Occurrence "/Buzzer"))
       (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
       (Schematic "Buzzer")
-      (Page "Buzzer"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 0 1748 0 359")
-        (Scroll "-264 0")
-        (Zoom "100")
-        (Occurrence "/Regulator"))
-      (Path "C:\USERS\USER\DOCUMENTS\GITHUB\TRACKITPCB\TRACKIT.DSN")
-      (Schematic "Power Supply")
-      (Page "PAGE1")))
+      (Page "Buzzer")))
   (MPSSessionName "user")
   (ISPCBBASICLICENSE "false")
   (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.6\tools\capture\library"))

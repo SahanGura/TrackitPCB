@@ -17,4 +17,16 @@
       (Sort User))
     (Folder "Include Files"
       (Sort User)))
-  (DefaultLibraryBrowseDirectory "library\PSpice"))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (MPSSessionName "user")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Select "Design Resources"
+         "C:\Users\user\Documents\GitHub\TrackitPCB\parts1.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -9 -38 0 200 0 308"))
+      (Tab 0))))
