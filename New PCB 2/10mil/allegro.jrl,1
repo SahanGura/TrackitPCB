@@ -1,383 +1,487 @@
-\t (00:00:04) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:04)     Journal start - Sun Jun 14 00:28:21 2020
-\t (00:00:04)         Host=DESKTOP-U6TBUH8 User=user Pid=6076 CPUs=4
-\t (00:00:04) 
-\t (00:00:07) Opening existing design...
-\d (00:00:07) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/trackitboard-10milnew.brd
-\t (00:00:08) Grids are drawn 40.960, 40.960 apart for enhanced viewability.
-\i (00:00:08) trapsize 37186
-\i (00:00:08) trapsize 36297
-\i (00:00:08) trapsize 37338
-\i (00:00:08) trapsize 31073
-\i (00:00:08) trapsize 31073
-\i (00:00:09) generaledit 
-\i (00:00:10) zoom in 1 
-\i (00:00:10) setwindow pcb
-\i (00:00:10) zoom in 756.195 825.877
-\i (00:00:10) trapsize 15536
-\i (00:00:10) zoom in 1 
-\i (00:00:10) setwindow pcb
-\i (00:00:10) zoom in 756.196 825.877
-\t (00:00:10) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
-\i (00:00:10) trapsize 7768
-\i (00:00:10) zoom out 1 
-\i (00:00:10) setwindow pcb
-\i (00:00:10) zoom out 756.196 825.878
-\t (00:00:10) Grids are drawn 40.960, 40.960 apart for enhanced viewability.
-\i (00:00:10) trapsize 15536
-\i (00:00:11) zoom out 1 
-\i (00:00:11) setwindow pcb
-\i (00:00:11) zoom out 802.805 266.569
-\i (00:00:11) trapsize 31073
-\i (00:00:12) zoom in 1 
-\i (00:00:12) setwindow pcb
-\i (00:00:12) zoom in 802.804 260.354
-\i (00:00:12) trapsize 15536
-\i (00:00:44) artwork 
-\i (00:00:48) setwindow form.film_control
-\i (00:00:48) FORM film_control filmtree  OUTLINE 
-\i (00:00:49) FORM film_control filmtree  BOTTOM 
-\i (00:00:52) FORM film_control cancel  
-\i (00:00:53) setwindow pcb
-\i (00:00:53) generaledit 
-\i (00:02:24) artwork 
-\i (00:02:26) setwindow form.film_control
-\i (00:02:26) FORM film_control select_all  
-\i (00:02:36) FORM film_control filmtree 'MULTISEL NO' BOTTOM 
-\i (00:02:37) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
-\i (00:02:43) FORM film_control filmtree 'MULTISEL NO' BOTTOM 
-\i (00:02:48) FORM film_control filmtree 'MULTISEL NO' TOP 
-\i (00:02:48) FORM film_control filmtree  TOP 
-\i (00:04:31) FORM film_control filmtree 'MULTISEL NO' MASK_BOT 
-\i (00:04:31) FORM film_control filmtree  MASK_BOT 
-\i (00:04:31) FORM film_control filmtree 'MULTISEL NO' MASK_TOP 
-\i (00:04:31) FORM film_control filmtree  MASK_TOP 
-\i (00:04:39) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
-\i (00:04:39) FORM film_control filmtree  BOTTOM 
-\i (00:04:40) FORM film_control filmtree 'MULTISEL YES' TOP 
-\i (00:04:40) FORM film_control filmtree  TOP 
-\i (00:04:46) FORM film_control apertures  
-\i (00:04:47) setwindow form.apt_wheels
-\i (00:04:47) FORM apt_wheels 1 edit  
-\i (00:04:51) setwindow form.apt_stations
-\i (00:04:51) FORM apt_stations auto 'Without Rotation' 
-\i (00:04:52) FORM apt_stations apt_done  
-\i (00:04:53) setwindow form.apt_wheels
-\i (00:04:53) FORM apt_wheels done  
-\t (00:04:53) Saving aperture: C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/art_aper.txt
-\i (00:04:56) setwindow form.film_control
-\i (00:04:56) FORM film_control ok  
-\i (00:04:56) setwindow pcb
-\i (00:04:56) generaledit 
-\i (00:05:10) nctape_full 
-\i (00:05:11) setwindow form.nc_drill
-\i (00:05:11) FORM nc_drill browse  
-\i (00:05:25) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\10mil\Drill\New folder\trackitboard-10milnew.drl"
-\i (00:05:55) FORM nc_drill parameters  
-\i (00:06:12) setwindow form.nc_parameters
-\i (00:06:12) FORM nc_parameters done  
-\i (00:06:36) setwindow form.nc_drill
-\i (00:06:36) FORM nc_drill scale 1.000 
-\i (00:06:36) FORM nc_drill execute  
-\t (00:06:36) Starting NC Drill...
-\i (00:06:41) FORM nc_drill cancel  
-\i (00:06:41) setwindow pcb
-\i (00:06:41) generaledit 
-\i (00:06:44) save 
-\i (00:06:45) fillin yes 
-\i (00:06:45) generaledit 
-\i (00:10:03) artwork 
-\i (00:10:06) setwindow form.film_control
-\i (00:10:06) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
-\i (00:10:07) FORM film_control filmtree 'MULTISEL YES' TOP 
-\i (00:10:07) FORM film_control filmtree  TOP 
-\i (00:10:08) FORM film_control filmtree 'MULTISEL YES' SILK_TOP 
-\i (00:10:08) FORM film_control filmtree  SILK_TOP 
-\i (00:10:09) FORM film_control filmtree 'MULTISEL YES' MASK_TOP 
-\i (00:10:09) FORM film_control filmtree  MASK_TOP 
-\i (00:10:10) FORM film_control filmtree 'MULTISEL NO' MASK_TOP 
-\i (00:10:10) FORM film_control filmtree 'MULTISEL YES' OUTLINE 
-\i (00:10:10) FORM film_control filmtree  OUTLINE 
-\i (00:10:11) FORM film_control filmtree 'MULTISEL YES' SILK_BOT 
-\i (00:10:11) FORM film_control filmtree  SILK_BOT 
-\i (00:10:17) FORM film_control apertures  
-\i (00:10:22) setwindow form.apt_wheels
-\i (00:10:22) FORM apt_wheels 1 edit  
-\i (00:10:24) setwindow form.apt_stations
-\i (00:10:24) FORM apt_stations auto 'Without Rotation' 
-\i (00:10:26) FORM apt_stations apt_done  
-\i (00:10:28) setwindow form.apt_wheels
-\i (00:10:28) FORM apt_wheels done  
-\t (00:10:28) Saving aperture: C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/art_aper.txt
-\i (00:10:38) setwindow form.film_control
-\i (00:10:38) FORM film_control general_parameters  
-\i (00:10:39) FORM film_control film_control  
-\i (00:10:40) FORM film_control create  
-\t (00:10:40) Checking db records
-\t (00:10:40)     checking for orphans...
-\t (00:10:40)     Checked 100 percent
-\t (00:10:40) Done dbdoctor.
-\t (00:10:40) Starting Create artwork films...
-\t (00:10:42) Plot generated.
-\i (00:10:44) FORM film_control ok  
-\i (00:10:44) setwindow pcb
-\i (00:10:44) generaledit 
-\i (00:10:51) nctape_full 
-\w (00:10:51) WARNING(SPMHMF-272): NC Parameters file 'nc_param.txt' not found ... loading defaults.
-\i (00:11:00) setwindow form.nc_drill
-\i (00:11:00) FORM nc_drill scale 1.000 
-\i (00:11:00) FORM nc_drill auto_tool_select YES 
-\i (00:11:01) FORM nc_drill optimize YES 
-\i (00:11:02) FORM nc_drill repeat_codes NO 
-\i (00:11:21) FORM nc_drill parameters  
-\i (00:11:25) setwindow form.nc_parameters
-\i (00:11:25) FORM nc_parameters suppress_lead_zeroes YES 
-\i (00:11:28) FORM nc_parameters enhanced_format YES 
-\i (00:12:04) FORM nc_parameters done  
-\i (00:12:08) setwindow form.nc_drill
-\i (00:12:08) FORM nc_drill browse  
-\i (00:12:17) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\10mil\Drill\New folder\New folder\trackitboard-10milnew.drl"
-\i (00:12:35) FORM nc_drill execute  
-\t (00:12:35) Starting NC Drill...
-\i (00:12:38) FORM nc_drill cancel  
-\i (00:12:38) setwindow pcb
-\i (00:12:38) generaledit 
-\i (00:16:49) artwork 
-\i (00:16:51) setwindow form.film_control
-\i (00:16:51) FORM film_control filmtree 'MULTISEL YES' MASK_BOT 
-\i (00:16:51) FORM film_control filmtree  MASK_BOT 
-\i (00:16:51) FORM film_control filmtree 'MULTISEL YES' MASK_TOP 
-\i (00:16:51) FORM film_control filmtree  MASK_TOP 
-\i (00:17:07) FORM film_control apertures  
-\i (00:17:09) setwindow form.apt_wheels
-\i (00:17:09) FORM apt_wheels 1 edit  
-\i (00:17:13) setwindow form.apt_stations
-\i (00:17:13) FORM apt_stations auto 'Without Rotation' 
-\i (00:17:15) FORM apt_stations apt_done  
-\i (00:17:16) setwindow form.apt_wheels
-\i (00:17:16) FORM apt_wheels done  
-\t (00:17:16) Saving aperture: C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/art_aper.txt
-\i (00:17:28) setwindow form.film_control
-\i (00:17:28) FORM film_control create  
-\t (00:17:28) Checking db records
-\t (00:17:28)     checking for orphans...
-\t (00:17:28)     Checked 100 percent
-\t (00:17:28) Done dbdoctor.
-\t (00:17:28) Starting Create artwork films...
-\t (00:17:30) Plot generated.
-\i (00:17:31) FORM film_control ok  
-\i (00:17:31) setwindow pcb
-\i (00:17:31) generaledit 
-\i (00:21:14) setwindow form.vf_vis
-\i (00:21:14) FORM vf_vis colorview_list File: TOPL 
-\i (00:21:14) color -globvis off 
-\i (00:21:14) color -vis 'DRC ERROR CLASS/TOP' 
-\i (00:21:14) color -vis ETCH/TOP 
-\i (00:21:14) color -vis PIN/TOP 
-\i (00:21:14) color -vis 'VIA CLASS/TOP' 
-\i (00:21:14) color -vis 'ANTI ETCH/TOP' 
-\i (00:21:14) color -vis BOUNDARY/TOP 
-\i (00:21:14) color -vis CAVITY/TOP 
-\i (00:21:14) setwindow pcb
-\i (00:21:14) trapsize 15536
-\i (00:21:14) generaledit 
-\i (00:21:15) zoom in 1 
-\i (00:21:15) setwindow pcb
-\i (00:21:15) zoom in 1082.459 1142.819
-\t (00:21:15) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
-\i (00:21:15) trapsize 7768
-\i (00:21:15) zoom in 1 
-\i (00:21:15) setwindow pcb
-\i (00:21:15) zoom in 1082.459 1142.819
-\i (00:21:15) trapsize 3884
-\i (00:21:18) drag_start grid 1049.056 1028.627
-\i (00:21:18) slide 
-\t (00:21:19) Waiting for the destination pick.
-\i (00:21:20) drag_stop grid 1070.030 1082.227
-\t (00:21:20) No DRC errors detected.
-\i (00:21:20) generaledit 
-\i (00:21:22) pick grid 1454.555 1103.978
-\t (00:21:22) last pick:  1454.560  1103.980
-\i (00:21:22) zoom out 1 
-\i (00:21:22) setwindow pcb
-\i (00:21:22) zoom out 1442.126 1102.424
-\i (00:21:22) trapsize 7768
-\i (00:21:23) zoom out 1 
-\i (00:21:23) setwindow pcb
-\i (00:21:23) zoom out 1440.572 1102.425
-\t (00:21:23) Grids are drawn 40.960, 40.960 apart for enhanced viewability.
-\i (00:21:23) trapsize 15536
-\i (00:21:23) zoom in 1 
-\i (00:21:23) setwindow pcb
-\i (00:21:23) zoom in 1397.070 1027.851
-\t (00:21:23) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
-\i (00:21:23) trapsize 7768
-\i (00:21:33) zoom in 1 
-\i (00:21:33) setwindow pcb
-\i (00:21:33) zoom in 867.281 1139.712
-\i (00:21:33) trapsize 3884
-\i (00:21:33) zoom in 1 
-\i (00:21:33) setwindow pcb
-\i (00:21:33) zoom in 866.504 1142.820
-\t (00:21:33) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
-\i (00:21:33) trapsize 1942
-\i (00:21:34) drag_start grid 835.043 1123.011
-\i (00:21:34) slide 
-\t (00:21:34) Waiting for the destination pick.
-\i (00:21:38) drag_stop grid 828.440 1141.266
-\t (00:21:38) No DRC errors detected.
-\i (00:21:38) generaledit 
-\i (00:21:39) zoom out 1 
-\i (00:21:39) setwindow pcb
-\i (00:21:39) zoom out 827.663 1137.382
-\t (00:21:39) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
-\i (00:21:39) trapsize 3884
-\i (00:21:39) zoom out 1 
-\i (00:21:39) setwindow pcb
-\i (00:21:39) zoom out 824.556 1110.194
-\i (00:21:39) trapsize 7768
-\i (00:21:42) setwindow form.vf_vis
-\i (00:21:42) FORM vf_vis colorview_list File: BOTL 
-\i (00:21:42) color -globvis off 
-\i (00:21:42) color -vis 'DRC ERROR CLASS/BOTTOM' 
-\i (00:21:42) color -vis ETCH/BOTTOM 
-\i (00:21:42) color -vis PIN/BOTTOM 
-\i (00:21:42) color -vis 'VIA CLASS/BOTTOM' 
-\i (00:21:42) color -vis 'ANTI ETCH/BOTTOM' 
-\i (00:21:43) color -vis BOUNDARY/BOTTOM 
-\i (00:21:43) color -vis CAVITY/BOTTOM 
-\i (00:21:43) setwindow pcb
-\i (00:21:43) trapsize 7768
-\i (00:21:43) generaledit 
-\i (00:21:44) zoom in 1 
-\i (00:21:44) setwindow pcb
-\i (00:21:44) zoom in 958.169 1175.446
-\i (00:21:44) trapsize 3884
-\i (00:21:44) zoom in 1 
-\i (00:21:44) setwindow pcb
-\i (00:21:44) zoom in 958.169 1175.446
-\t (00:21:44) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
-\i (00:21:44) trapsize 1942
-\i (00:21:55) undo 
-\i (00:21:55) trapsize 1942
-\i (00:21:55) generaledit 
-\i (00:21:57) zoom out 1 
-\i (00:21:57) setwindow pcb
-\i (00:21:57) zoom out 802.028 1113.301
-\t (00:21:57) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
-\i (00:21:57) trapsize 3884
-\i (00:21:58) zoom out 1 
-\i (00:21:58) setwindow pcb
-\i (00:21:58) zoom out 807.466 1113.301
-\i (00:21:58) trapsize 7768
-\i (00:22:04) setwindow form.vf_vis
-\i (00:22:04) FORM vf_vis colorview_list File: BOTL 
-\i (00:22:04) color -globvis off 
-\i (00:22:04) color -vis 'DRC ERROR CLASS/BOTTOM' 
-\i (00:22:04) color -vis ETCH/BOTTOM 
-\i (00:22:04) color -vis PIN/BOTTOM 
-\i (00:22:04) color -vis 'VIA CLASS/BOTTOM' 
-\i (00:22:04) color -vis 'ANTI ETCH/BOTTOM' 
-\i (00:22:04) color -vis BOUNDARY/BOTTOM 
-\i (00:22:04) color -vis CAVITY/BOTTOM 
-\i (00:22:05) setwindow pcb
-\i (00:22:05) trapsize 7768
-\i (00:22:05) generaledit 
-\i (00:22:05) zoom in 1 
-\i (00:22:05) setwindow pcb
-\i (00:22:05) zoom in 1038.958 1054.263
-\i (00:22:05) trapsize 3884
-\i (00:22:06) zoom in 1 
-\i (00:22:06) setwindow pcb
-\i (00:22:06) zoom in 1048.280 1069.022
-\t (00:22:06) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
-\i (00:22:06) trapsize 1942
-\i (00:22:09) undo 
-\t (00:22:09) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
-\i (00:22:09) trapsize 3884
-\i (00:22:09) generaledit 
-\i (00:22:14) setwindow form.vf_vis
-\i (00:22:14) FORM vf_vis colorview_list File: BOTL 
-\i (00:22:14) color -globvis off 
-\i (00:22:14) color -vis 'DRC ERROR CLASS/BOTTOM' 
-\i (00:22:14) color -vis ETCH/BOTTOM 
-\i (00:22:14) color -vis PIN/BOTTOM 
-\i (00:22:14) color -vis 'VIA CLASS/BOTTOM' 
-\i (00:22:14) color -vis 'ANTI ETCH/BOTTOM' 
-\i (00:22:14) color -vis BOUNDARY/BOTTOM 
-\i (00:22:14) color -vis CAVITY/BOTTOM 
-\i (00:22:14) setwindow pcb
-\i (00:22:14) trapsize 3884
-\i (00:22:14) generaledit 
-\i (00:22:22) setwindow form.vf_vis
-\i (00:22:22) FORM vf_vis colorview_list File: TOPL 
-\i (00:22:22) color -globvis off 
-\i (00:22:22) color -vis 'DRC ERROR CLASS/TOP' 
-\i (00:22:22) color -vis ETCH/TOP 
-\i (00:22:22) color -vis PIN/TOP 
-\i (00:22:22) color -vis 'VIA CLASS/TOP' 
-\i (00:22:22) color -vis 'ANTI ETCH/TOP' 
-\i (00:22:22) color -vis BOUNDARY/TOP 
-\i (00:22:22) color -vis CAVITY/TOP 
-\i (00:22:22) setwindow pcb
-\i (00:22:22) trapsize 3884
-\i (00:22:22) generaledit 
-\i (00:22:45) zoom out 1 
-\i (00:22:45) setwindow pcb
-\i (00:22:45) zoom out 1151.596 1074.459
-\i (00:22:45) trapsize 7768
-\i (00:22:45) zoom out 1 
-\i (00:22:45) setwindow pcb
-\i (00:22:45) zoom out 1103.433 953.276
-\t (00:22:45) Grids are drawn 40.960, 40.960 apart for enhanced viewability.
-\i (00:22:45) trapsize 15536
-\i (00:22:46) zoom out 1 
-\i (00:22:46) setwindow pcb
-\i (00:22:46) zoom out 749.205 499.614
-\i (00:22:46) trapsize 31073
-\i (00:22:50) setwindow form.vf_vis
-\i (00:22:50) FORM vf_vis colorview_list File: ALL 
-\i (00:22:50) color -globvis off 
-\i (00:22:50) color -vis 'BOARD GEOMETRY/OUTLINE' 
-\i (00:22:50) color -vis 'DRC ERROR CLASS/TOP' 
-\i (00:22:50) color -vis 'DRC ERROR CLASS/BOTTOM' 
-\i (00:22:50) color -vis 'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
-\i (00:22:50) color -vis 'DRC ERROR CLASS/SOLDERMASK_TOP' 
-\i (00:22:50) color -vis ETCH/TOP 
-\i (00:22:50) color -vis ETCH/BOTTOM 
-\i (00:22:50) color -vis MANUFACTURING/AUTOSILK_BOTTOM 
-\i (00:22:50) color -vis MANUFACTURING/AUTOSILK_TOP 
-\i (00:22:50) color -vis 'PACKAGE GEOMETRY/DFA_BOUND_BOTTOM' 
-\i (00:22:50) color -vis 'PACKAGE GEOMETRY/DFA_BOUND_TOP' 
-\i (00:22:50) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_BOTTOM' 
-\i (00:22:51) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
-\i (00:22:51) color -vis 'PACKAGE GEOMETRY/PLACE_BOUND_BOTTOM' 
-\i (00:22:51) color -vis 'PACKAGE GEOMETRY/PLACE_BOUND_TOP' 
-\i (00:22:51) color -vis PIN/TOP 
-\i (00:22:51) color -vis PIN/BOTTOM 
-\i (00:22:51) color -vis PIN/SOLDERMASK_BOTTOM 
-\i (00:22:51) color -vis PIN/SOLDERMASK_TOP 
-\i (00:22:51) color -vis 'REF DES/ASSEMBLY_BOTTOM' 
-\i (00:22:51) color -vis 'REF DES/ASSEMBLY_TOP' 
-\i (00:22:51) color -vis 'VIA CLASS/TOP' 
-\i (00:22:51) color -vis 'VIA CLASS/BOTTOM' 
-\i (00:22:51) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
-\i (00:22:51) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
-\i (00:22:51) color -vis 'ANTI ETCH/TOP' 
-\i (00:22:51) color -vis 'ANTI ETCH/BOTTOM' 
-\i (00:22:51) color -vis BOUNDARY/TOP 
-\i (00:22:51) color -vis BOUNDARY/BOTTOM 
-\i (00:22:51) color -vis CAVITY/TOP 
-\i (00:22:51) color -vis CAVITY/BOTTOM 
-\i (00:22:51) setwindow pcb
-\i (00:22:51) trapsize 31073
-\i (00:22:51) generaledit 
-\i (00:22:52) zoom out 1 
-\i (00:22:52) setwindow pcb
-\i (00:22:52) zoom out 2166.120 2276.972
-\t (00:22:52) Grids are drawn 163.840, 163.840 apart for enhanced viewability.
-\i (00:22:52) trapsize 62145
-\i (00:22:52) exit 
-\e (00:22:52) Do you want to save the changes you made to C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/trackitboard-10milnew.brd?
-\i (00:22:53) fillin no 
-\t (00:22:55)     Journal end - Sun Jun 14 00:51:12 2020
+\t (00:00:21) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:21)     Journal start - Sun Jun 14 09:49:43 2020
+\t (00:00:21)         Host=DESKTOP-U6TBUH8 User=user Pid=13040 CPUs=4
+\t (00:00:21) 
+\t (00:00:23) Opening existing design...
+\d (00:00:25) Database opened: C:/Users/user/Documents/GitHub/TrackitPCB/New PCB 2/10mil/trackitboard-10milnew.brd
+\t (00:00:27) Grids are drawn 40.960, 40.960 apart for enhanced viewability.
+\i (00:00:27) trapsize 18593
+\i (00:00:27) trapsize 18148
+\i (00:00:27) trapsize 18669
+\i (00:00:28) trapsize 15536
+\i (00:00:28) trapsize 15536
+\i (00:00:29) generaledit 
+\i (00:00:34) pdf out 
+\i (00:00:37) setwindow form.pdf_out
+\i (00:00:37) FORM pdf_out pdftree 'MULTISEL YES' TOP 
+\i (00:00:37) FORM pdf_out pdftree  TOP 
+\i (00:00:37) FORM pdf_out pdftree 'MULTISEL YES' BOTTOM 
+\i (00:00:37) FORM pdf_out pdftree  BOTTOM 
+\i (00:00:39) FORM pdf_out selectall  
+\i (00:00:47) FORM pdf_out browse  
+\i (00:00:55) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\10mil\FInal Board\trackitboard-10milnew.pdf"
+\i (00:00:56) FORM pdf_out export  
+\t (00:00:56) Starting Exporting PDF File...
+\t (00:01:05) PDF output completed.
+\i (00:02:55) FORM pdf_out cancel  
+\i (00:02:55) setwindow pcb
+\i (00:02:55) generaledit 
+\i (00:03:01) setwindow form.vf_vis
+\i (00:03:01) FORM vf_vis colorview_list File: SILK_BOT 
+\i (00:03:01) color -globvis off 
+\i (00:03:01) color -vis MANUFACTURING/AUTOSILK_BOTTOM 
+\i (00:03:01) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_BOTTOM' 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) trapsize 15536
+\i (00:03:02) generaledit 
+\i (00:03:06) setwindow form.vf_vis
+\i (00:03:06) FORM vf_vis colorview_list File: SILK_TOP 
+\i (00:03:06) color -globvis off 
+\i (00:03:06) color -vis MANUFACTURING/AUTOSILK_TOP 
+\i (00:03:06) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) trapsize 15536
+\i (00:03:06) generaledit 
+\i (00:03:07) zoom in 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom in 628.410 959.107
+\t (00:03:07) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
+\i (00:03:07) trapsize 7768
+\i (00:03:07) zoom in 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom in 625.302 959.107
+\i (00:03:07) trapsize 3884
+\i (00:03:08) pick grid 427.991 960.661
+\t (00:03:08) last pick:  427.990  960.660
+\i (00:03:10) prepopup 368.953 976.197
+\i (00:03:11) pop dyn_option_select @:@Move 
+\i (00:03:11) move 
+\t (00:03:11) last pick:  368.950  976.200
+\t (00:03:11) last pick:  396.746  931.073
+\t (00:03:11) Pick new location for the element(s).
+\i (00:03:12) prepopup 358.854 979.305
+\i (00:03:13) rotate 
+\t (00:03:13) Spin the element(s).
+\i (00:03:14) iangle -45.000
+\t (00:03:14) last angle:  315.000 Degrees
+\i (00:03:15) pick grid 333.219 972.313
+\t (00:03:15) last pick:  333.220  972.310
+\i (00:03:15) generaledit 
+\i (00:03:16) zoom out 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom out 364.292 994.064
+\i (00:03:16) trapsize 7768
+\i (00:03:16) zoom out 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom out 364.291 994.064
+\t (00:03:16) Grids are drawn 40.960, 40.960 apart for enhanced viewability.
+\i (00:03:16) trapsize 15536
+\i (00:03:16) zoom out 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom out 364.291 994.065
+\i (00:03:16) trapsize 31073
+\i (00:03:17) zoom in 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom in 718.519 1143.214
+\i (00:03:17) trapsize 15536
+\i (00:03:17) zoom in 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom in 718.519 1143.214
+\t (00:03:17) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
+\i (00:03:17) trapsize 7768
+\i (00:03:18) zoom out 1 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) zoom out 718.519 1143.215
+\t (00:03:18) Grids are drawn 40.960, 40.960 apart for enhanced viewability.
+\i (00:03:18) trapsize 15536
+\i (00:03:39) undo 
+\t (00:03:39) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
+\i (00:03:39) trapsize 3884
+\i (00:03:39) generaledit 
+\i (00:03:41) zoom out 1 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) zoom out 310.691 973.090
+\i (00:03:41) trapsize 7768
+\i (00:03:41) zoom out 1 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) zoom out 310.691 973.090
+\t (00:03:41) Grids are drawn 40.960, 40.960 apart for enhanced viewability.
+\i (00:03:41) trapsize 15536
+\i (00:04:29) setwindow form.vf_vis
+\i (00:04:29) FORM vf_vis colorview_list File: COMP_TOP 
+\i (00:04:29) color -globvis off 
+\i (00:04:29) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:04:29) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
+\i (00:04:29) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:04:29) color -vis 'REF DES/ASSEMBLY_TOP' 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) trapsize 15536
+\i (00:04:29) generaledit 
+\i (00:04:30) zoom in 1 
+\i (00:04:30) setwindow pcb
+\i (00:04:30) zoom in 391.480 1063.201
+\t (00:04:30) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
+\i (00:04:30) trapsize 7768
+\i (00:04:31) zoom out 1 
+\i (00:04:31) setwindow pcb
+\i (00:04:31) zoom out 379.051 1074.077
+\t (00:04:31) Grids are drawn 40.960, 40.960 apart for enhanced viewability.
+\i (00:04:32) trapsize 15536
+\i (00:04:32) zoom in 1 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom in 313.797 1195.261
+\t (00:04:32) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
+\i (00:04:32) trapsize 7768
+\i (00:04:32) zoom in 1 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom in 313.798 1195.261
+\i (00:04:32) trapsize 3884
+\i (00:04:34) zoom out 1 
+\i (00:04:34) setwindow pcb
+\i (00:04:34) zoom out 300.592 1182.832
+\i (00:04:34) trapsize 7768
+\i (00:04:34) zoom out 1 
+\i (00:04:34) setwindow pcb
+\i (00:04:34) zoom out 300.592 1182.833
+\t (00:04:34) Grids are drawn 40.960, 40.960 apart for enhanced viewability.
+\i (00:04:34) trapsize 15536
+\i (00:04:48) color192 
+\i (00:04:48) setwindow cvf.dialog
+\i (00:04:48) cvf layer_mode
+\i (00:04:48) setwindow pcb
+\i (00:04:48) generaledit 
+\i (00:04:54) setwindow cvf.dialog
+\i (00:04:54) cvf layer_tree_item 'Components'
+\i (00:05:00) cvf layers_color components ref_des/assembly_top 1
+\i (00:05:30) cvf select_color_cell 27
+\i (00:05:32) cvf layers_color components ref_des/assembly_top 28
+\i (00:05:33) cvf select_color_cell 44
+\i (00:05:35) cvf layers_color components ref_des/assembly_top 45
+\i (00:05:37) cvf select_color_cell 60
+\i (00:05:37) cvf layers_color components ref_des/assembly_top 61
+\i (00:05:38) cvf layers_color components ref_des/silkscreen_bottom 61
+\i (00:05:41) cvf cancel
+\i (00:05:43) setwindow pcb
+\i (00:05:43) color192 
+\i (00:05:43) generaledit 
+\i (00:05:45) setwindow cvf.dialog
+\i (00:05:45) cvf layer_tree_item 'Components'
+\i (00:06:07) cvf select_color_cell 24
+\i (00:06:08) cvf layers_color components ref_des/assembly_bottom 25
+\i (00:06:09) cvf okay
+\i (00:06:13) setwindow form.vf_vis
+\i (00:06:13) FORM vf_vis colorview_list File: COMP_BOT 
+\i (00:06:13) color -globvis off 
+\i (00:06:13) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:06:13) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_BOTTOM' 
+\i (00:06:13) color -vis 'REF DES/ASSEMBLY_BOTTOM' 
+\i (00:06:13) setwindow pcb
+\i (00:06:13) trapsize 15536
+\i (00:06:13) generaledit 
+\i (00:06:19) setwindow form.vf_vis
+\i (00:06:19) FORM vf_vis colorview_list File: BOTL 
+\i (00:06:20) color -globvis off 
+\i (00:06:20) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:06:20) color -vis ETCH/BOTTOM 
+\i (00:06:20) color -vis PIN/BOTTOM 
+\i (00:06:20) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:06:20) color -vis 'ANTI ETCH/BOTTOM' 
+\i (00:06:20) color -vis BOUNDARY/BOTTOM 
+\i (00:06:20) color -vis CAVITY/BOTTOM 
+\i (00:06:20) setwindow pcb
+\i (00:06:20) trapsize 15536
+\i (00:06:20) generaledit 
+\i (00:06:21) zoom in 1 
+\i (00:06:21) setwindow pcb
+\i (00:06:21) zoom in 98.618 800.638
+\t (00:06:21) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
+\i (00:06:21) trapsize 7768
+\i (00:06:22) zoom in 1 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) zoom in 98.619 800.639
+\i (00:06:22) trapsize 3884
+\i (00:06:22) zoom in 1 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) zoom in 98.619 800.639
+\t (00:06:22) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:06:22) trapsize 1942
+\i (00:06:22) zoom out 1 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) zoom out 98.619 800.639
+\t (00:06:22) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
+\i (00:06:22) trapsize 3884
+\i (00:06:22) zoom out 1 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) zoom out 98.619 800.639
+\i (00:06:22) trapsize 7768
+\i (00:06:22) zoom out 1 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) zoom out 98.619 800.639
+\t (00:06:22) Grids are drawn 40.960, 40.960 apart for enhanced viewability.
+\i (00:06:22) trapsize 15536
+\i (00:06:22) zoom out 1 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) zoom out 98.617 800.638
+\i (00:06:22) trapsize 31073
+\i (00:06:25) pdf out 
+\i (00:06:27) setwindow form.pdf_out
+\i (00:06:27) FORM pdf_out selectall  
+\i (00:06:28) FORM pdf_out browse  
+\i (00:06:32) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\10mil\FInal Board\trackitboard-10milnew2.pdf"
+\i (00:06:34) FORM pdf_out export  
+\t (00:06:34) Starting Exporting PDF File...
+\t (00:06:36) PDF output completed.
+\i (00:07:15) FORM pdf_out cancel  
+\i (00:07:15) setwindow pcb
+\i (00:07:15) generaledit 
+\i (00:07:19) setwindow form.vf_vis
+\i (00:07:19) FORM vf_vis colorview_list File: COMP_TOP 
+\i (00:07:19) color -globvis off 
+\i (00:07:19) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:07:19) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
+\i (00:07:19) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:07:19) color -vis 'REF DES/ASSEMBLY_TOP' 
+\i (00:07:19) setwindow pcb
+\i (00:07:19) trapsize 31073
+\i (00:07:19) generaledit 
+\i (00:07:20) zoom in 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom in 421.774 968.431
+\i (00:07:20) trapsize 15536
+\i (00:07:21) zoom in 1 
+\i (00:07:21) setwindow pcb
+\i (00:07:21) zoom in 253.982 1039.899
+\t (00:07:21) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
+\i (00:07:21) trapsize 7768
+\i (00:07:21) zoom in 1 
+\i (00:07:21) setwindow pcb
+\i (00:07:21) zoom in 258.643 1044.560
+\i (00:07:21) trapsize 3884
+\i (00:07:23) prepopup 314.574 1022.032
+\i (00:07:24) pop dyn_option_select @:@Move 
+\i (00:07:24) move 
+\t (00:07:24) last pick:  314.570  1022.030
+\t (00:07:24) last pick:  314.961  984.252
+\t (00:07:24) Pick new location for the element(s).
+\i (00:07:24) prepopup 311.467 1022.809
+\i (00:07:26) rotate 
+\t (00:07:26) Spin the element(s).
+\i (00:07:28) iangle 45.000
+\t (00:07:28) last angle:  0.000 Degrees
+\i (00:07:29) pick grid 323.119 989.406
+\t (00:07:29) last pick:  323.120  989.410
+\i (00:07:29) generaledit 
+\i (00:07:30) pick grid 320.789 1021.256
+\t (00:07:30) last pick:  320.790  1021.260
+\i (00:07:30) prepopup 320.789 1021.256
+\i (00:07:31) pop dyn_option_select @:@Move 
+\i (00:07:31) move 
+\t (00:07:31) last pick:  320.790  1021.260
+\t (00:07:31) last pick:  323.120  989.410
+\t (00:07:31) Pick new location for the element(s).
+\i (00:07:33) pick grid 396.140 931.922
+\t (00:07:33) last pick:  396.140  931.920
+\i (00:07:33) generaledit 
+\i (00:07:34) pick grid 306.806 1015.041
+\t (00:07:34) last pick:  306.810  1015.040
+\i (00:07:34) prepopup 306.806 1015.041
+\i (00:07:35) pop dyn_option_select @:@Move 
+\i (00:07:35) move 
+\t (00:07:35) last pick:  306.810  1015.040
+\t (00:07:35) last pick:  314.961  984.252
+\t (00:07:35) Pick new location for the element(s).
+\i (00:07:35) prepopup 307.583 1015.041
+\i (00:07:36) rotate 
+\t (00:07:36) Spin the element(s).
+\i (00:07:37) iangle 45.000
+\t (00:07:37) last angle:  0.000 Degrees
+\i (00:07:39) pick grid 329.334 988.629
+\t (00:07:39) last pick:  329.330  988.630
+\i (00:07:39) generaledit 
+\i (00:07:40) pick grid 367.398 961.441
+\t (00:07:40) last pick:  367.400  961.440
+\i (00:07:42) move 
+\t (00:07:42) last pick:  396.140  931.920
+\t (00:07:42) Pick new location for the element(s).
+\i (00:07:46) pick grid 330.111 988.629
+\t (00:07:46) last pick:  330.110  988.630
+\i (00:07:47) generaledit 
+\i (00:07:47) pick grid 379.827 962.217
+\t (00:07:47) last pick:  379.830  962.220
+\i (00:07:48) zoom out 1 
+\i (00:07:48) setwindow pcb
+\i (00:07:48) zoom out 381.381 962.994
+\i (00:07:48) trapsize 7768
+\i (00:07:52) pick grid 598.889 1000.282
+\t (00:07:52) last pick:  598.890  1000.280
+\i (00:07:54) prepopup 575.585 1008.050
+\i (00:07:55) pop dyn_option_select @:@Move 
+\i (00:07:55) move 
+\t (00:07:55) last pick:  575.590  1008.050
+\t (00:07:55) last pick:  575.000  1000.000
+\t (00:07:55) Pick new location for the element(s).
+\i (00:07:56) pick grid 598.889 1000.282
+\t (00:07:56) last pick:  598.890  1000.280
+\i (00:07:56) generaledit 
+\i (00:07:57) pick grid 544.512 1008.050
+\t (00:07:57) last pick:  544.510  1008.050
+\i (00:07:57) prepopup 542.958 1008.050
+\i (00:07:58) pop dyn_option_select @:@Move 
+\i (00:07:58) move 
+\t (00:07:58) last pick:  542.960  1008.050
+\t (00:07:58) last pick:  575.000  1000.000
+\t (00:07:58) Pick new location for the element(s).
+\i (00:08:01) pick grid 595.782 1000.282
+\t (00:08:01) last pick:  595.780  1000.280
+\i (00:08:01) generaledit 
+\i (00:08:03) pick grid 539.851 1014.265
+\t (00:08:03) last pick:  539.850  1014.270
+\i (00:08:03) prepopup 539.851 1014.265
+\i (00:08:04) pop dyn_option_select @:@Move 
+\i (00:08:04) move 
+\t (00:08:04) last pick:  539.850  1014.270
+\t (00:08:04) last pick:  575.000  1000.000
+\t (00:08:04) Pick new location for the element(s).
+\i (00:08:06) pick grid 678.125 1006.496
+\t (00:08:06) last pick:  678.130  1006.500
+\i (00:08:06) generaledit 
+\i (00:08:07) pick grid 546.066 1014.265
+\t (00:08:07) last pick:  546.070  1014.270
+\i (00:08:07) prepopup 546.066 1014.265
+\i (00:08:08) pop dyn_option_select @:@Move 
+\i (00:08:08) move 
+\t (00:08:08) last pick:  546.070  1014.270
+\t (00:08:08) last pick:  575.000  1000.000
+\t (00:08:08) Pick new location for the element(s).
+\i (00:08:09) pick grid 678.125 1008.050
+\t (00:08:09) last pick:  678.130  1008.050
+\i (00:08:10) generaledit 
+\i (00:08:12) pick grid 594.228 1004.943
+\t (00:08:12) last pick:  594.230  1004.940
+\i (00:08:12) prepopup 589.567 1004.943
+\i (00:08:13) pop dyn_option_select @:@Move 
+\i (00:08:13) move 
+\t (00:08:13) last pick:  589.570  1004.940
+\t (00:08:13) last pick:  598.890  1000.280
+\t (00:08:13) Pick new location for the element(s).
+\i (00:08:15) pick grid 597.336 1000.282
+\t (00:08:15) last pick:  597.340  1000.280
+\i (00:08:15) generaledit 
+\i (00:08:16) pick grid 709.197 1088.839
+\t (00:08:16) last pick:  709.200  1088.840
+\i (00:08:17) drag_start grid 734.055 1004.943
+\i (00:08:18) drag_stop 653.266 1032.908
+\i (00:08:19) delete 
+\i (00:08:19) generaledit 
+\i (00:08:23) pick grid 459.062 916.386
+\t (00:08:23) last pick:  459.060  916.390
+\i (00:08:24) move 
+\t (00:08:24) Select element(s) to move.
+\i (00:08:25) pick grid 417.114 1003.389
+\t (00:08:25) last pick:  417.110  1003.390
+\t (00:08:25) last pick:  511.811  944.882
+\t (00:08:25) Moving C3 / CAP- 0805_RESC2012X60N_4.7UF / RESC2012X60N.
+\t (00:08:26) Pick new location for the element(s).
+\i (00:08:27) Esc 
+\i (00:08:28) prepopup 474.598 989.406
+\i (00:08:28) cancel 
+\i (00:08:29) generaledit 
+\i (00:08:30) pick grid 426.436 950.565
+\t (00:08:30) last pick:  426.440  950.570
+\i (00:08:31) pick grid 406.239 1006.496
+\t (00:08:31) last pick:  406.240  1006.500
+\i (00:08:31) prepopup 406.239 1006.496
+\i (00:08:32) pop dyn_option_select @:@Move 
+\i (00:08:32) move 
+\t (00:08:32) last pick:  406.240  1006.500
+\t (00:08:32) last pick:  425.000  1000.000
+\t (00:08:32) Pick new location for the element(s).
+\i (00:08:34) pick grid 463.723 998.728
+\t (00:08:34) last pick:  463.720  998.730
+\i (00:08:34) generaledit 
+\i (00:08:34) pick grid 401.578 1003.389
+\t (00:08:34) last pick:  401.580  1003.390
+\i (00:08:35) prepopup 401.578 1003.389
+\i (00:08:35) pop dyn_option_select @:@Move 
+\i (00:08:35) move 
+\t (00:08:36) last pick:  401.580  1003.390
+\t (00:08:36) last pick:  425.000  1000.000
+\t (00:08:36) Pick new location for the element(s).
+\i (00:08:40) pick grid 462.169 997.175
+\t (00:08:40) last pick:  462.170  997.180
+\i (00:08:40) generaledit 
+\i (00:08:41) pick grid 446.633 959.887
+\t (00:08:41) last pick:  446.630  959.890
+\i (00:08:42) zoom in 1 
+\i (00:08:42) setwindow pcb
+\i (00:08:42) zoom in 457.509 995.621
+\i (00:08:42) trapsize 3884
+\i (00:08:42) zoom in 1 
+\i (00:08:42) setwindow pcb
+\i (00:08:42) zoom in 457.509 995.621
+\t (00:08:42) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:08:42) trapsize 1942
+\i (00:08:43) zoom out 1 
+\i (00:08:43) setwindow pcb
+\i (00:08:43) zoom out 451.294 1015.042
+\t (00:08:43) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
+\i (00:08:43) trapsize 3884
+\i (00:08:44) zoom out 1 
+\i (00:08:44) setwindow pcb
+\i (00:08:44) zoom out 464.501 1008.050
+\i (00:08:44) trapsize 7768
+\i (00:08:47) zoom out 1 
+\i (00:08:47) setwindow pcb
+\i (00:08:47) zoom out 166.202 1084.178
+\t (00:08:47) Grids are drawn 40.960, 40.960 apart for enhanced viewability.
+\i (00:08:47) trapsize 15536
+\i (00:08:51) color192 
+\i (00:08:51) setwindow cvf.dialog
+\i (00:08:51) cvf layer_mode
+\i (00:08:51) setwindow pcb
+\i (00:08:51) generaledit 
+\i (00:08:52) setwindow cvf.dialog
+\i (00:08:52) cvf layer_tree_item 'Components'
+\i (00:09:05) cvf select_color_cell 88
+\i (00:09:07) cvf layers_color components ref_des/assembly_bottom 89
+\i (00:09:08) cvf okay
+\i (00:09:12) setwindow pcb
+\i (00:09:12) pdf out 
+\i (00:09:13) setwindow form.pdf_out
+\i (00:09:13) FORM pdf_out selectall  
+\i (00:09:15) FORM pdf_out browse  
+\i (00:09:24) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\10mil\FInal Board\trackitboard-10milnew3.pdf"
+\i (00:09:25) FORM pdf_out export  
+\t (00:09:25) Starting Exporting PDF File...
+\t (00:09:28) PDF output completed.
+\i (00:10:21) FORM pdf_out cancel  
+\i (00:10:21) setwindow pcb
+\i (00:10:21) generaledit 
+\i (00:10:23) color192 
+\i (00:10:23) setwindow cvf.dialog
+\i (00:10:23) cvf layer_mode
+\i (00:10:23) setwindow pcb
+\i (00:10:23) generaledit 
+\i (00:10:25) setwindow cvf.dialog
+\i (00:10:25) cvf layer_tree_item 'Components'
+\i (00:10:28) cvf select_color_cell 1
+\i (00:10:30) cvf layers_color components ref_des/assembly_bottom 2
+\i (00:10:30) cvf layers_color components ref_des/assembly_top 2
+\i (00:10:32) cvf okay
+\i (00:10:35) setwindow pcb
+\i (00:10:35) pdf out 
+\i (00:10:37) setwindow form.pdf_out
+\i (00:10:37) FORM pdf_out selectall  
+\i (00:10:39) FORM pdf_out browse  
+\i (00:10:50) fillin "C:\Users\user\Documents\GitHub\TrackitPCB\New PCB 2\10mil\FInal Board\trackitboard-10milnew4__TeamX.pdf"
+\i (00:10:52) FORM pdf_out export  
+\t (00:10:52) Starting Exporting PDF File...
+\t (00:10:55) PDF output completed.
+\i (00:11:45) FORM pdf_out cancel  
+\i (00:11:45) setwindow pcb
+\i (00:11:45) generaledit 
+\i (00:11:47) save 
+\i (00:11:48) fillin yes 
+\i (00:11:48) generaledit 
+\i (158:28:15) exit 
+\t (158:28:23)     Journal end - Sun Jun 21 00:17:45 2020
